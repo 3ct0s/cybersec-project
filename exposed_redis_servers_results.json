@@ -1,0 +1,1133 @@
+[
+    {
+        "IP": "4.175.192.112",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.167.98.128",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.248.192.14",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.193.29.139",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.34.155.71",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.80.52.46",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.209.199.190",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.201.44.167",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.79.70.40",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.140.147.82",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.121.233.181",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.228.131.20",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.183.89.199",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.7.201.89",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "142.93.130.43",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "142.93.235.74",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.248.201.148",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.123.72.69",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.11.83.31",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "174.138.13.220",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "64.227.75.161",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "152.42.141.80",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "174.138.10.149",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.60.77.61",
+        "Port": 6379,
+        "Vulnerabilities": {
+            "CVE-2015-8080": {
+                "verified": false,
+                "ranking_epss": 0.98489,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "Integer overflow in the getnum function in lua_struct.c in Redis 2.8.x before 2.8.24 and 3.0.x before 3.0.6 allows context-dependent attackers with permission to run Lua code in a Redis session to cause a denial of service (memory corruption and application crash) or possibly bypass intended sandbox restrictions via a large number, which triggers a stack-based buffer overflow.",
+                "references": [
+                    "http://lists.opensuse.org/opensuse-updates/2016-05/msg00126.html",
+                    "http://rhn.redhat.com/errata/RHSA-2016-0095.html",
+                    "http://rhn.redhat.com/errata/RHSA-2016-0096.html",
+                    "http://rhn.redhat.com/errata/RHSA-2016-0097.html",
+                    "http://www.debian.org/security/2015/dsa-3412",
+                    "http://www.openwall.com/lists/oss-security/2015/11/06/2",
+                    "http://www.openwall.com/lists/oss-security/2015/11/06/4",
+                    "http://www.securityfocus.com/bid/77507",
+                    "https://github.com/antirez/redis/issues/2855",
+                    "https://raw.githubusercontent.com/antirez/redis/2.8/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/3.0/00-RELEASENOTES",
+                    "https://security.gentoo.org/glsa/201702-16"
+                ],
+                "epss": 0.82719,
+                "cvss": 5.0
+            },
+            "CVE-2021-3470": {
+                "verified": false,
+                "ranking_epss": 0.40249,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "A heap overflow issue was found in Redis in versions before 5.0.10, before 6.0.9 and before 6.2.0 when using a heap allocator other than jemalloc or glibc's malloc, leading to potential out of bound write or process crash. Effectively this flaw does not affect the vast majority of users, who use jemalloc or glibc malloc.",
+                "references": [
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=1943623"
+                ],
+                "epss": 0.00092,
+                "cvss": 5.0
+            },
+            "CVE-2020-14147": {
+                "verified": false,
+                "ranking_epss": 0.70203,
+                "cvss_v2": 4.0,
+                "cvss_version": 2.0,
+                "summary": "An integer overflow in the getnum function in lua_struct.c in Redis before 6.0.3 allows context-dependent attackers with permission to run Lua code in a Redis session to cause a denial of service (memory corruption and application crash) or possibly bypass intended sandbox restrictions via a large number, which triggers a stack-based buffer overflow. NOTE: this issue exists because of a CVE-2015-8080 regression.",
+                "references": [
+                    "http://lists.opensuse.org/opensuse-security-announce/2020-07/msg00058.html",
+                    "https://github.com/antirez/redis/commit/ef764dde1cca2f25d00686673d1bc89448819571",
+                    "https://github.com/antirez/redis/pull/6875",
+                    "https://security.gentoo.org/glsa/202008-17",
+                    "https://www.debian.org/security/2020/dsa-4731",
+                    "https://www.oracle.com/security-alerts/cpujan2021.html"
+                ],
+                "epss": 0.00306,
+                "cvss": 4.0
+            },
+            "CVE-2021-32761": {
+                "verified": false,
+                "ranking_epss": 0.88142,
+                "cvss_v2": 6.0,
+                "cvss_version": 2.0,
+                "summary": "Redis is an in-memory database that persists on disk. A vulnerability involving out-of-bounds read and integer overflow to buffer overflow exists starting with version 2.2 and prior to versions 5.0.13, 6.0.15, and 6.2.5. On 32-bit systems, Redis `*BIT*` command are vulnerable to integer overflow that can potentially be exploited to corrupt the heap, leak arbitrary heap contents or trigger remote code execution. The vulnerability involves changing the default `proto-max-bulk-len` configuration parameter to a very large value and constructing specially crafted commands bit commands. This problem only affects Redis on 32-bit platforms, or compiled as a 32-bit binary. Redis versions 5.0.`3m 6.0.15, and 6.2.5 contain patches for this issue. An additional workaround to mitigate the problem without patching the `redis-server` executable is to prevent users from modifying the `proto-max-bulk-len` configuration parameter. This can be done using ACL to restrict unprivileged users from using the CONFIG SET command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-8wxq-j7rp-g8wj",
+                    "https://lists.debian.org/debian-lts-announce/2021/07/msg00017.html",
+                    "https://lists.debian.org/debian-lts-announce/2021/08/msg00026.html",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/6O7AUOROBYGP5IMGJPC5HZ3R2RB6GZ5X/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VGX7RRAWGXWXEAKJTQYSDSBO2BC3SAHD/",
+                    "https://security.gentoo.org/glsa/202209-17",
+                    "https://security.netapp.com/advisory/ntap-20210827-0004/",
+                    "https://www.debian.org/security/2021/dsa-5001"
+                ],
+                "epss": 0.01713,
+                "cvss": 6.0
+            },
+            "CVE-2019-10193": {
+                "verified": false,
+                "ranking_epss": 0.96346,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A stack-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By corrupting a hyperloglog using the SETRANGE command, an attacker could cause Redis to perform controlled increments of up to 12 bytes past the end of a stack-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10193",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.18754,
+                "cvss": 6.5
+            },
+            "CVE-2019-10192": {
+                "verified": false,
+                "ranking_epss": 0.95956,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A heap-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By carefully corrupting a hyperloglog using the SETRANGE command, an attacker could trick Redis interpretation of dense HLL encoding to write up to 3 bytes beyond the end of a heap-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://access.redhat.com/errata/RHSA-2019:2506",
+                    "https://access.redhat.com/errata/RHSA-2019:2508",
+                    "https://access.redhat.com/errata/RHSA-2019:2621",
+                    "https://access.redhat.com/errata/RHSA-2019:2630",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10192",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.15172,
+                "cvss": 6.5
+            },
+            "CVE-2021-21309": {
+                "verified": false,
+                "ranking_epss": 0.78265,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open-source, in-memory database that persists on disk. In affected versions of Redis an integer overflow bug in 32-bit Redis version 4.0 or newer could be exploited to corrupt the heap and potentially result with remote code execution. Redis 4.0 or newer uses a configurable limit for the maximum supported bulk input size. By default, it is 512MB which is a safe value for all platforms. If the limit is significantly increased, receiving a large request from a client may trigger several integer overflow scenarios, which would result with buffer overflow and heap corruption. We believe this could in certain conditions be exploited for remote code execution. By default, authenticated Redis users have access to all configuration parameters and can therefore use the \u201cCONFIG SET proto-max-bulk-len\u201d to change the safe default, making the system vulnerable. **This problem only affects 32-bit Redis (on a 32-bit system, or as a 32-bit executable running on a 64-bit system).** The problem is fixed in version 6.2, and the fix is back ported to 6.0.11 and 5.0.11. Make sure you use one of these versions if you are running 32-bit Redis. An additional workaround to mitigate the problem without patching the redis-server executable is to prevent clients from directly executing `CONFIG SET`: Using Redis 6.0 or newer, ACL configuration can be used to block the command. Using older versions, the `rename-command` configuration directive can be used to rename the command to a random string unknown to users, rendering it inaccessible. Please note that this workaround may have an additional impact on users or operational systems that expect `CONFIG SET` to behave in certain ways.",
+                "references": [
+                    "https://github.com/redis/redis/commit/c992857618db99776917f10bf4f2345a5fdc78b0",
+                    "https://github.com/redis/redis/pull/8522",
+                    "https://github.com/redis/redis/security/advisories/GHSA-hgj8-vff2-7cjf",
+                    "https://security.gentoo.org/glsa/202103-02"
+                ],
+                "epss": 0.00572,
+                "cvss": 6.5
+            }
+        }
+    },
+    {
+        "IP": "161.35.151.159",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.70.184.142",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.61.56.168",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.233.252.6",
+        "Port": 6379,
+        "Vulnerabilities": {
+            "CVE-2018-12326": {
+                "verified": false,
+                "ranking_epss": 0.78493,
+                "cvss_v2": 4.6,
+                "cvss_version": 2.0,
+                "summary": "Buffer overflow in redis-cli of Redis before 4.0.10 and 5.x before 5.0 RC3 allows an attacker to achieve code execution and escalate to higher privileges via a crafted command line. NOTE: It is unclear whether there are any common situations in which redis-cli is used with, for example, a -h (aka hostname) argument from an untrusted source.",
+                "references": [
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://gist.github.com/fakhrizulkifli/f831f40ec6cde4f744c552503d8698f0",
+                    "https://github.com/antirez/redis/commit/9fdcc15962f9ff4baebe6fdd947816f43f730d50",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://www.exploit-db.com/exploits/44904/"
+                ],
+                "epss": 0.00584,
+                "cvss": 4.6
+            },
+            "CVE-2018-11218": {
+                "verified": false,
+                "ranking_epss": 0.86963,
+                "cvss_v2": 7.5,
+                "cvss_version": 2.0,
+                "summary": "Memory Corruption was discovered in the cmsgpack library in the Lua subsystem in Redis before 3.2.12, 4.x before 4.0.10, and 5.x before 5.0 RC2 because of stack-based buffer overflows.",
+                "references": [
+                    "http://antirez.com/news/119",
+                    "http://www.securityfocus.com/bid/104553",
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://github.com/antirez/redis/commit/52a00201fca331217c3b4b8b634f6a0f57d6b7d3",
+                    "https://github.com/antirez/redis/commit/5ccb6f7a791bf3490357b00a898885759d98bab0",
+                    "https://github.com/antirez/redis/issues/5017",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://www.debian.org/security/2018/dsa-4230",
+                    "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+                ],
+                "epss": 0.01442,
+                "cvss": 7.5
+            },
+            "CVE-2018-11219": {
+                "verified": false,
+                "ranking_epss": 0.89035,
+                "cvss_v2": 7.5,
+                "cvss_version": 2.0,
+                "summary": "An Integer Overflow issue was discovered in the struct library in the Lua subsystem in Redis before 3.2.12, 4.x before 4.0.10, and 5.x before 5.0 RC2, leading to a failure of bounds checking.",
+                "references": [
+                    "http://antirez.com/news/119",
+                    "http://www.securityfocus.com/bid/104552",
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://github.com/antirez/redis/commit/1eb08bcd4634ae42ec45e8284923ac048beaa4c3",
+                    "https://github.com/antirez/redis/commit/e89086e09a38cc6713bcd4b9c29abf92cf393936",
+                    "https://github.com/antirez/redis/issues/5017",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://www.debian.org/security/2018/dsa-4230",
+                    "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+                ],
+                "epss": 0.01961,
+                "cvss": 7.5
+            },
+            "CVE-2021-3470": {
+                "verified": false,
+                "ranking_epss": 0.40249,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "A heap overflow issue was found in Redis in versions before 5.0.10, before 6.0.9 and before 6.2.0 when using a heap allocator other than jemalloc or glibc's malloc, leading to potential out of bound write or process crash. Effectively this flaw does not affect the vast majority of users, who use jemalloc or glibc malloc.",
+                "references": [
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=1943623"
+                ],
+                "epss": 0.00092,
+                "cvss": 5.0
+            },
+            "CVE-2020-14147": {
+                "verified": false,
+                "ranking_epss": 0.70203,
+                "cvss_v2": 4.0,
+                "cvss_version": 2.0,
+                "summary": "An integer overflow in the getnum function in lua_struct.c in Redis before 6.0.3 allows context-dependent attackers with permission to run Lua code in a Redis session to cause a denial of service (memory corruption and application crash) or possibly bypass intended sandbox restrictions via a large number, which triggers a stack-based buffer overflow. NOTE: this issue exists because of a CVE-2015-8080 regression.",
+                "references": [
+                    "http://lists.opensuse.org/opensuse-security-announce/2020-07/msg00058.html",
+                    "https://github.com/antirez/redis/commit/ef764dde1cca2f25d00686673d1bc89448819571",
+                    "https://github.com/antirez/redis/pull/6875",
+                    "https://security.gentoo.org/glsa/202008-17",
+                    "https://www.debian.org/security/2020/dsa-4731",
+                    "https://www.oracle.com/security-alerts/cpujan2021.html"
+                ],
+                "epss": 0.00306,
+                "cvss": 4.0
+            },
+            "CVE-2021-32761": {
+                "verified": false,
+                "ranking_epss": 0.88142,
+                "cvss_v2": 6.0,
+                "cvss_version": 2.0,
+                "summary": "Redis is an in-memory database that persists on disk. A vulnerability involving out-of-bounds read and integer overflow to buffer overflow exists starting with version 2.2 and prior to versions 5.0.13, 6.0.15, and 6.2.5. On 32-bit systems, Redis `*BIT*` command are vulnerable to integer overflow that can potentially be exploited to corrupt the heap, leak arbitrary heap contents or trigger remote code execution. The vulnerability involves changing the default `proto-max-bulk-len` configuration parameter to a very large value and constructing specially crafted commands bit commands. This problem only affects Redis on 32-bit platforms, or compiled as a 32-bit binary. Redis versions 5.0.`3m 6.0.15, and 6.2.5 contain patches for this issue. An additional workaround to mitigate the problem without patching the `redis-server` executable is to prevent users from modifying the `proto-max-bulk-len` configuration parameter. This can be done using ACL to restrict unprivileged users from using the CONFIG SET command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-8wxq-j7rp-g8wj",
+                    "https://lists.debian.org/debian-lts-announce/2021/07/msg00017.html",
+                    "https://lists.debian.org/debian-lts-announce/2021/08/msg00026.html",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/6O7AUOROBYGP5IMGJPC5HZ3R2RB6GZ5X/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VGX7RRAWGXWXEAKJTQYSDSBO2BC3SAHD/",
+                    "https://security.gentoo.org/glsa/202209-17",
+                    "https://security.netapp.com/advisory/ntap-20210827-0004/",
+                    "https://www.debian.org/security/2021/dsa-5001"
+                ],
+                "epss": 0.01713,
+                "cvss": 6.0
+            },
+            "CVE-2019-10193": {
+                "verified": false,
+                "ranking_epss": 0.96346,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A stack-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By corrupting a hyperloglog using the SETRANGE command, an attacker could cause Redis to perform controlled increments of up to 12 bytes past the end of a stack-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10193",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.18754,
+                "cvss": 6.5
+            },
+            "CVE-2019-10192": {
+                "verified": false,
+                "ranking_epss": 0.95956,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A heap-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By carefully corrupting a hyperloglog using the SETRANGE command, an attacker could trick Redis interpretation of dense HLL encoding to write up to 3 bytes beyond the end of a heap-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://access.redhat.com/errata/RHSA-2019:2506",
+                    "https://access.redhat.com/errata/RHSA-2019:2508",
+                    "https://access.redhat.com/errata/RHSA-2019:2621",
+                    "https://access.redhat.com/errata/RHSA-2019:2630",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10192",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.15172,
+                "cvss": 6.5
+            },
+            "CVE-2021-21309": {
+                "verified": false,
+                "ranking_epss": 0.78265,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open-source, in-memory database that persists on disk. In affected versions of Redis an integer overflow bug in 32-bit Redis version 4.0 or newer could be exploited to corrupt the heap and potentially result with remote code execution. Redis 4.0 or newer uses a configurable limit for the maximum supported bulk input size. By default, it is 512MB which is a safe value for all platforms. If the limit is significantly increased, receiving a large request from a client may trigger several integer overflow scenarios, which would result with buffer overflow and heap corruption. We believe this could in certain conditions be exploited for remote code execution. By default, authenticated Redis users have access to all configuration parameters and can therefore use the \u201cCONFIG SET proto-max-bulk-len\u201d to change the safe default, making the system vulnerable. **This problem only affects 32-bit Redis (on a 32-bit system, or as a 32-bit executable running on a 64-bit system).** The problem is fixed in version 6.2, and the fix is back ported to 6.0.11 and 5.0.11. Make sure you use one of these versions if you are running 32-bit Redis. An additional workaround to mitigate the problem without patching the redis-server executable is to prevent clients from directly executing `CONFIG SET`: Using Redis 6.0 or newer, ACL configuration can be used to block the command. Using older versions, the `rename-command` configuration directive can be used to rename the command to a random string unknown to users, rendering it inaccessible. Please note that this workaround may have an additional impact on users or operational systems that expect `CONFIG SET` to behave in certain ways.",
+                "references": [
+                    "https://github.com/redis/redis/commit/c992857618db99776917f10bf4f2345a5fdc78b0",
+                    "https://github.com/redis/redis/pull/8522",
+                    "https://github.com/redis/redis/security/advisories/GHSA-hgj8-vff2-7cjf",
+                    "https://security.gentoo.org/glsa/202103-02"
+                ],
+                "epss": 0.00572,
+                "cvss": 6.5
+            },
+            "CVE-2018-12453": {
+                "verified": false,
+                "ranking_epss": 0.92793,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "Type confusion in the xgroupCommand function in t_stream.c in redis-server in Redis before 5.0 allows remote attackers to cause denial-of-service via an XGROUP command in which the key is not a stream.",
+                "references": [
+                    "https://gist.github.com/fakhrizulkifli/34a56d575030682f6c564553c53b82b5",
+                    "https://github.com/antirez/redis/commit/c04082cf138f1f51cedf05ee9ad36fb6763cafc6",
+                    "https://www.exploit-db.com/exploits/44908/"
+                ],
+                "epss": 0.04668,
+                "cvss": 5.0
+            }
+        }
+    },
+    {
+        "IP": "80.242.58.183",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.46.56.225",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.248.94.25",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "142.93.135.222",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "209.38.40.246",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.90.87.86",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.45.65.33",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.106.66.253",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.140.159.95",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.209.201.250",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.46.131.18",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.86.114.40",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "68.183.6.247",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "57.153.25.129",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.11.107.8",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.162.11.183",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.110.81.181",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.139.141.28",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.157.215.148",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.85.46.12",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "64.227.70.189",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.142.109",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "24.144.78.210",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.121.235.215",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.209.226.12",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "57.153.78.23",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "20.101.225.239",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.157.91.81",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.153.186.161",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.246.83.202",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.22.82.235",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.162.8.49",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.237.58.212",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.34.153.47",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.111.63.217",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.247.18.5",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "167.99.35.11",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.121.233.104",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.165.245.167",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "161.35.83.32",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.143.45.100",
+        "Port": 6379,
+        "Vulnerabilities": {
+            "CVE-2021-32761": {
+                "verified": false,
+                "ranking_epss": 0.88143,
+                "cvss_v2": 6.0,
+                "cvss_version": 2.0,
+                "summary": "Redis is an in-memory database that persists on disk. A vulnerability involving out-of-bounds read and integer overflow to buffer overflow exists starting with version 2.2 and prior to versions 5.0.13, 6.0.15, and 6.2.5. On 32-bit systems, Redis `*BIT*` command are vulnerable to integer overflow that can potentially be exploited to corrupt the heap, leak arbitrary heap contents or trigger remote code execution. The vulnerability involves changing the default `proto-max-bulk-len` configuration parameter to a very large value and constructing specially crafted commands bit commands. This problem only affects Redis on 32-bit platforms, or compiled as a 32-bit binary. Redis versions 5.0.`3m 6.0.15, and 6.2.5 contain patches for this issue. An additional workaround to mitigate the problem without patching the `redis-server` executable is to prevent users from modifying the `proto-max-bulk-len` configuration parameter. This can be done using ACL to restrict unprivileged users from using the CONFIG SET command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-8wxq-j7rp-g8wj",
+                    "https://lists.debian.org/debian-lts-announce/2021/07/msg00017.html",
+                    "https://lists.debian.org/debian-lts-announce/2021/08/msg00026.html",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/6O7AUOROBYGP5IMGJPC5HZ3R2RB6GZ5X/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VGX7RRAWGXWXEAKJTQYSDSBO2BC3SAHD/",
+                    "https://security.gentoo.org/glsa/202209-17",
+                    "https://security.netapp.com/advisory/ntap-20210827-0004/",
+                    "https://www.debian.org/security/2021/dsa-5001"
+                ],
+                "epss": 0.01713,
+                "cvss": 6.0
+            },
+            "CVE-2021-29477": {
+                "verified": false,
+                "ranking_epss": 0.88935,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. An integer overflow bug in Redis version 6.0 or newer could be exploited using the `STRALGO LCS` command to corrupt the heap and potentially result with remote code execution. The problem is fixed in version 6.2.3 and 6.0.13. An additional workaround to mitigate the problem without patching the redis-server executable is to use ACL configuration to prevent clients from using the `STRALGO LCS` command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-vqxj-26vj-996g",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BHWOF7CBVUGDK3AN6H3BN3VNTH2TDUZZ/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BPWBIZXA67JFIB63W2CNVVILCGIC2ME5/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/EZJ6JGQ2ETZB2DWTQSGCOGG7EF3ILV4V/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SN7INTZFE34MIQJO7WDDTIY5LIBGN6GI/",
+                    "https://redis.io/",
+                    "https://security.gentoo.org/glsa/202107-20"
+                ],
+                "epss": 0.01926,
+                "cvss": 6.5
+            },
+            "CVE-2021-21309": {
+                "verified": false,
+                "ranking_epss": 0.78266,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open-source, in-memory database that persists on disk. In affected versions of Redis an integer overflow bug in 32-bit Redis version 4.0 or newer could be exploited to corrupt the heap and potentially result with remote code execution. Redis 4.0 or newer uses a configurable limit for the maximum supported bulk input size. By default, it is 512MB which is a safe value for all platforms. If the limit is significantly increased, receiving a large request from a client may trigger several integer overflow scenarios, which would result with buffer overflow and heap corruption. We believe this could in certain conditions be exploited for remote code execution. By default, authenticated Redis users have access to all configuration parameters and can therefore use the \u201cCONFIG SET proto-max-bulk-len\u201d to change the safe default, making the system vulnerable. **This problem only affects 32-bit Redis (on a 32-bit system, or as a 32-bit executable running on a 64-bit system).** The problem is fixed in version 6.2, and the fix is back ported to 6.0.11 and 5.0.11. Make sure you use one of these versions if you are running 32-bit Redis. An additional workaround to mitigate the problem without patching the redis-server executable is to prevent clients from directly executing `CONFIG SET`: Using Redis 6.0 or newer, ACL configuration can be used to block the command. Using older versions, the `rename-command` configuration directive can be used to rename the command to a random string unknown to users, rendering it inaccessible. Please note that this workaround may have an additional impact on users or operational systems that expect `CONFIG SET` to behave in certain ways.",
+                "references": [
+                    "https://github.com/redis/redis/commit/c992857618db99776917f10bf4f2345a5fdc78b0",
+                    "https://github.com/redis/redis/pull/8522",
+                    "https://github.com/redis/redis/security/advisories/GHSA-hgj8-vff2-7cjf",
+                    "https://security.gentoo.org/glsa/202103-02"
+                ],
+                "epss": 0.00572,
+                "cvss": 6.5
+            }
+        }
+    },
+    {
+        "IP": "89.208.137.194",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.90.85.26",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.45.73.239",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.29.203.27",
+        "Port": 6379,
+        "Vulnerabilities": {
+            "CVE-2016-10517": {
+                "verified": false,
+                "ranking_epss": 0.5511,
+                "cvss_v2": 4.3,
+                "cvss_version": 2.0,
+                "summary": "networking.c in Redis before 3.2.7 allows \"Cross Protocol Scripting\" because it lacks a check for POST and Host: strings, which are not valid in the Redis protocol (but commonly occur when an attack triggers an HTTP request to the Redis TCP port).",
+                "references": [
+                    "http://www.securityfocus.com/bid/101572",
+                    "https://github.com/antirez/redis/commit/874804da0c014a7d704b3d285aa500098a931f50",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://www.reddit.com/r/redis/comments/5r8wxn/redis_327_is_out_important_security_fixes_inside/"
+                ],
+                "epss": 0.00174,
+                "cvss": 4.3
+            },
+            "CVE-2018-12326": {
+                "verified": false,
+                "ranking_epss": 0.78494,
+                "cvss_v2": 4.6,
+                "cvss_version": 2.0,
+                "summary": "Buffer overflow in redis-cli of Redis before 4.0.10 and 5.x before 5.0 RC3 allows an attacker to achieve code execution and escalate to higher privileges via a crafted command line. NOTE: It is unclear whether there are any common situations in which redis-cli is used with, for example, a -h (aka hostname) argument from an untrusted source.",
+                "references": [
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://gist.github.com/fakhrizulkifli/f831f40ec6cde4f744c552503d8698f0",
+                    "https://github.com/antirez/redis/commit/9fdcc15962f9ff4baebe6fdd947816f43f730d50",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://www.exploit-db.com/exploits/44904/"
+                ],
+                "epss": 0.00584,
+                "cvss": 4.6
+            },
+            "CVE-2018-11218": {
+                "verified": false,
+                "ranking_epss": 0.86963,
+                "cvss_v2": 7.5,
+                "cvss_version": 2.0,
+                "summary": "Memory Corruption was discovered in the cmsgpack library in the Lua subsystem in Redis before 3.2.12, 4.x before 4.0.10, and 5.x before 5.0 RC2 because of stack-based buffer overflows.",
+                "references": [
+                    "http://antirez.com/news/119",
+                    "http://www.securityfocus.com/bid/104553",
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://github.com/antirez/redis/commit/52a00201fca331217c3b4b8b634f6a0f57d6b7d3",
+                    "https://github.com/antirez/redis/commit/5ccb6f7a791bf3490357b00a898885759d98bab0",
+                    "https://github.com/antirez/redis/issues/5017",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://www.debian.org/security/2018/dsa-4230",
+                    "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+                ],
+                "epss": 0.01442,
+                "cvss": 7.5
+            },
+            "CVE-2018-11219": {
+                "verified": false,
+                "ranking_epss": 0.89035,
+                "cvss_v2": 7.5,
+                "cvss_version": 2.0,
+                "summary": "An Integer Overflow issue was discovered in the struct library in the Lua subsystem in Redis before 3.2.12, 4.x before 4.0.10, and 5.x before 5.0 RC2, leading to a failure of bounds checking.",
+                "references": [
+                    "http://antirez.com/news/119",
+                    "http://www.securityfocus.com/bid/104552",
+                    "https://access.redhat.com/errata/RHSA-2019:0052",
+                    "https://access.redhat.com/errata/RHSA-2019:0094",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://github.com/antirez/redis/commit/1eb08bcd4634ae42ec45e8284923ac048beaa4c3",
+                    "https://github.com/antirez/redis/commit/e89086e09a38cc6713bcd4b9c29abf92cf393936",
+                    "https://github.com/antirez/redis/issues/5017",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://www.debian.org/security/2018/dsa-4230",
+                    "https://www.oracle.com/technetwork/security-advisory/cpuapr2019-5072813.html"
+                ],
+                "epss": 0.01961,
+                "cvss": 7.5
+            },
+            "CVE-2021-3470": {
+                "verified": false,
+                "ranking_epss": 0.40245,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "A heap overflow issue was found in Redis in versions before 5.0.10, before 6.0.9 and before 6.2.0 when using a heap allocator other than jemalloc or glibc's malloc, leading to potential out of bound write or process crash. Effectively this flaw does not affect the vast majority of users, who use jemalloc or glibc malloc.",
+                "references": [
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=1943623"
+                ],
+                "epss": 0.00092,
+                "cvss": 5.0
+            },
+            "CVE-2020-14147": {
+                "verified": false,
+                "ranking_epss": 0.70203,
+                "cvss_v2": 4.0,
+                "cvss_version": 2.0,
+                "summary": "An integer overflow in the getnum function in lua_struct.c in Redis before 6.0.3 allows context-dependent attackers with permission to run Lua code in a Redis session to cause a denial of service (memory corruption and application crash) or possibly bypass intended sandbox restrictions via a large number, which triggers a stack-based buffer overflow. NOTE: this issue exists because of a CVE-2015-8080 regression.",
+                "references": [
+                    "http://lists.opensuse.org/opensuse-security-announce/2020-07/msg00058.html",
+                    "https://github.com/antirez/redis/commit/ef764dde1cca2f25d00686673d1bc89448819571",
+                    "https://github.com/antirez/redis/pull/6875",
+                    "https://security.gentoo.org/glsa/202008-17",
+                    "https://www.debian.org/security/2020/dsa-4731",
+                    "https://www.oracle.com/security-alerts/cpujan2021.html"
+                ],
+                "epss": 0.00306,
+                "cvss": 4.0
+            },
+            "CVE-2021-32761": {
+                "verified": false,
+                "ranking_epss": 0.88143,
+                "cvss_v2": 6.0,
+                "cvss_version": 2.0,
+                "summary": "Redis is an in-memory database that persists on disk. A vulnerability involving out-of-bounds read and integer overflow to buffer overflow exists starting with version 2.2 and prior to versions 5.0.13, 6.0.15, and 6.2.5. On 32-bit systems, Redis `*BIT*` command are vulnerable to integer overflow that can potentially be exploited to corrupt the heap, leak arbitrary heap contents or trigger remote code execution. The vulnerability involves changing the default `proto-max-bulk-len` configuration parameter to a very large value and constructing specially crafted commands bit commands. This problem only affects Redis on 32-bit platforms, or compiled as a 32-bit binary. Redis versions 5.0.`3m 6.0.15, and 6.2.5 contain patches for this issue. An additional workaround to mitigate the problem without patching the `redis-server` executable is to prevent users from modifying the `proto-max-bulk-len` configuration parameter. This can be done using ACL to restrict unprivileged users from using the CONFIG SET command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-8wxq-j7rp-g8wj",
+                    "https://lists.debian.org/debian-lts-announce/2021/07/msg00017.html",
+                    "https://lists.debian.org/debian-lts-announce/2021/08/msg00026.html",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/6O7AUOROBYGP5IMGJPC5HZ3R2RB6GZ5X/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VGX7RRAWGXWXEAKJTQYSDSBO2BC3SAHD/",
+                    "https://security.gentoo.org/glsa/202209-17",
+                    "https://security.netapp.com/advisory/ntap-20210827-0004/",
+                    "https://www.debian.org/security/2021/dsa-5001"
+                ],
+                "epss": 0.01713,
+                "cvss": 6.0
+            },
+            "CVE-2019-10193": {
+                "verified": false,
+                "ranking_epss": 0.96346,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A stack-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By corrupting a hyperloglog using the SETRANGE command, an attacker could cause Redis to perform controlled increments of up to 12 bytes past the end of a stack-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10193",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.18754,
+                "cvss": 6.5
+            },
+            "CVE-2019-10192": {
+                "verified": false,
+                "ranking_epss": 0.95958,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "A heap-buffer overflow vulnerability was found in the Redis hyperloglog data structure versions 3.x before 3.2.13, 4.x before 4.0.14 and 5.x before 5.0.4. By carefully corrupting a hyperloglog using the SETRANGE command, an attacker could trick Redis interpretation of dense HLL encoding to write up to 3 bytes beyond the end of a heap-allocated buffer.",
+                "references": [
+                    "http://www.securityfocus.com/bid/109290",
+                    "https://access.redhat.com/errata/RHSA-2019:1819",
+                    "https://access.redhat.com/errata/RHSA-2019:1860",
+                    "https://access.redhat.com/errata/RHSA-2019:2002",
+                    "https://access.redhat.com/errata/RHSA-2019:2506",
+                    "https://access.redhat.com/errata/RHSA-2019:2508",
+                    "https://access.redhat.com/errata/RHSA-2019:2621",
+                    "https://access.redhat.com/errata/RHSA-2019:2630",
+                    "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-10192",
+                    "https://raw.githubusercontent.com/antirez/redis/3.2/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/4.0/00-RELEASENOTES",
+                    "https://raw.githubusercontent.com/antirez/redis/5.0/00-RELEASENOTES",
+                    "https://seclists.org/bugtraq/2019/Jul/19",
+                    "https://security.gentoo.org/glsa/201908-04",
+                    "https://usn.ubuntu.com/4061-1/",
+                    "https://www.debian.org/security/2019/dsa-4480",
+                    "https://www.oracle.com/security-alerts/cpujul2020.html"
+                ],
+                "epss": 0.15172,
+                "cvss": 6.5
+            },
+            "CVE-2018-12453": {
+                "verified": false,
+                "ranking_epss": 0.92795,
+                "cvss_v2": 5.0,
+                "cvss_version": 2.0,
+                "summary": "Type confusion in the xgroupCommand function in t_stream.c in redis-server in Redis before 5.0 allows remote attackers to cause denial-of-service via an XGROUP command in which the key is not a stream.",
+                "references": [
+                    "https://gist.github.com/fakhrizulkifli/34a56d575030682f6c564553c53b82b5",
+                    "https://github.com/antirez/redis/commit/c04082cf138f1f51cedf05ee9ad36fb6763cafc6",
+                    "https://www.exploit-db.com/exploits/44908/"
+                ],
+                "epss": 0.04668,
+                "cvss": 5.0
+            }
+        }
+    },
+    {
+        "IP": "185.157.212.43",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.169.105.48",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.233.107.97",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.123.72.165",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "137.116.223.110",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.176.75",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "20.234.156.170",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "167.99.223.126",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "152.42.138.184",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.163.31",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "167.99.38.180",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.209.135.61",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "192.71.151.192",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "108.143.121.76",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.209.86.45",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "128.199.60.213",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.191.127.106",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.235.137.225",
+        "Port": 6379,
+        "Vulnerabilities": {
+            "CVE-2021-32761": {
+                "verified": false,
+                "ranking_epss": 0.88143,
+                "cvss_v2": 6.0,
+                "cvss_version": 2.0,
+                "summary": "Redis is an in-memory database that persists on disk. A vulnerability involving out-of-bounds read and integer overflow to buffer overflow exists starting with version 2.2 and prior to versions 5.0.13, 6.0.15, and 6.2.5. On 32-bit systems, Redis `*BIT*` command are vulnerable to integer overflow that can potentially be exploited to corrupt the heap, leak arbitrary heap contents or trigger remote code execution. The vulnerability involves changing the default `proto-max-bulk-len` configuration parameter to a very large value and constructing specially crafted commands bit commands. This problem only affects Redis on 32-bit platforms, or compiled as a 32-bit binary. Redis versions 5.0.`3m 6.0.15, and 6.2.5 contain patches for this issue. An additional workaround to mitigate the problem without patching the `redis-server` executable is to prevent users from modifying the `proto-max-bulk-len` configuration parameter. This can be done using ACL to restrict unprivileged users from using the CONFIG SET command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-8wxq-j7rp-g8wj",
+                    "https://lists.debian.org/debian-lts-announce/2021/07/msg00017.html",
+                    "https://lists.debian.org/debian-lts-announce/2021/08/msg00026.html",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/6O7AUOROBYGP5IMGJPC5HZ3R2RB6GZ5X/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VGX7RRAWGXWXEAKJTQYSDSBO2BC3SAHD/",
+                    "https://security.gentoo.org/glsa/202209-17",
+                    "https://security.netapp.com/advisory/ntap-20210827-0004/",
+                    "https://www.debian.org/security/2021/dsa-5001"
+                ],
+                "epss": 0.01713,
+                "cvss": 6.0
+            },
+            "CVE-2021-29477": {
+                "verified": false,
+                "ranking_epss": 0.88935,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. An integer overflow bug in Redis version 6.0 or newer could be exploited using the `STRALGO LCS` command to corrupt the heap and potentially result with remote code execution. The problem is fixed in version 6.2.3 and 6.0.13. An additional workaround to mitigate the problem without patching the redis-server executable is to use ACL configuration to prevent clients from using the `STRALGO LCS` command.",
+                "references": [
+                    "https://github.com/redis/redis/security/advisories/GHSA-vqxj-26vj-996g",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BHWOF7CBVUGDK3AN6H3BN3VNTH2TDUZZ/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/BPWBIZXA67JFIB63W2CNVVILCGIC2ME5/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/EZJ6JGQ2ETZB2DWTQSGCOGG7EF3ILV4V/",
+                    "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/SN7INTZFE34MIQJO7WDDTIY5LIBGN6GI/",
+                    "https://redis.io/",
+                    "https://security.gentoo.org/glsa/202107-20"
+                ],
+                "epss": 0.01926,
+                "cvss": 6.5
+            },
+            "CVE-2021-21309": {
+                "verified": false,
+                "ranking_epss": 0.78266,
+                "cvss_v2": 6.5,
+                "cvss_version": 2.0,
+                "summary": "Redis is an open-source, in-memory database that persists on disk. In affected versions of Redis an integer overflow bug in 32-bit Redis version 4.0 or newer could be exploited to corrupt the heap and potentially result with remote code execution. Redis 4.0 or newer uses a configurable limit for the maximum supported bulk input size. By default, it is 512MB which is a safe value for all platforms. If the limit is significantly increased, receiving a large request from a client may trigger several integer overflow scenarios, which would result with buffer overflow and heap corruption. We believe this could in certain conditions be exploited for remote code execution. By default, authenticated Redis users have access to all configuration parameters and can therefore use the \u201cCONFIG SET proto-max-bulk-len\u201d to change the safe default, making the system vulnerable. **This problem only affects 32-bit Redis (on a 32-bit system, or as a 32-bit executable running on a 64-bit system).** The problem is fixed in version 6.2, and the fix is back ported to 6.0.11 and 5.0.11. Make sure you use one of these versions if you are running 32-bit Redis. An additional workaround to mitigate the problem without patching the redis-server executable is to prevent clients from directly executing `CONFIG SET`: Using Redis 6.0 or newer, ACL configuration can be used to block the command. Using older versions, the `rename-command` configuration directive can be used to rename the command to a random string unknown to users, rendering it inaccessible. Please note that this workaround may have an additional impact on users or operational systems that expect `CONFIG SET` to behave in certain ways.",
+                "references": [
+                    "https://github.com/redis/redis/commit/c992857618db99776917f10bf4f2345a5fdc78b0",
+                    "https://github.com/redis/redis/pull/8522",
+                    "https://github.com/redis/redis/security/advisories/GHSA-hgj8-vff2-7cjf",
+                    "https://security.gentoo.org/glsa/202103-02"
+                ],
+                "epss": 0.00572,
+                "cvss": 6.5
+            }
+        }
+    },
+    {
+        "IP": "206.189.101.206",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.132.106.37",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.124.35.2",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "159.223.230.156",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.210.170.62",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "13.80.104.30",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.231.59.241",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.233.202.113",
+        "Port": 6379,
+        "Vulnerabilities": "None"
+    }
+]

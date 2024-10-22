@@ -1,0 +1,412 @@
+[
+    {
+        "IP": "157.97.57.125",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.233.249.25",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.87.3.55",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.138.230.142",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.69.79.242",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.246.2.132",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.84.143.172",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.131.172.214",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.125.91.42",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.172.201.178",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.161.126.226",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.171.39.44",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.124.51.186",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.95.67.130",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.74.29.226",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.207.31.145",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.226.58.141",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.226.237.136",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.238.189.249",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.100.243.218",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.124.11.50",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.125.250.108",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.167.223",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.240.184.220",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.69.97.204",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.59.125.242",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.26.62.12",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.62.165.213",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.194.226.231",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.246.0.220",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.215.219.147",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.195.4.56",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.142.215.174",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.134.254.146",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.94.108.224",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.199.158.178",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.57.49.189",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.172.186.62",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.198.136",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.151.86.49",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.126.34.10",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.198.27.163",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.248.48.13",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.114.10.41",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.0.85.212",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.161.212.5",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.45.169.82",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.153.202.49",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.163.22.98",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.134.247.94",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.238.12.140",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.151.29.19",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.109.123.134",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.43.23.243",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.208.2",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.168.0.74",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.45.133.99",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.73.137.190",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.151.240.92",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.255.27.84",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.87.103.197",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.153.195.109",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.134.254.150",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.143.27",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.247.50.56",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.249.19.78",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "90.145.42.107",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.146.16.146",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.99.80.201",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.125.186.58",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.98.229.131",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.193.248.6",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.206.64",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.255.33.44",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.206.218",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.83.55.149",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.174.104.23",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.163.228.57",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.81.55.103",
+        "Port": 5060,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.66.221.249",
+        "Port": 1900,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.62.185.204",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.62.185.203",
+        "Port": 161,
+        "Vulnerabilities": "None"
+    }
+]

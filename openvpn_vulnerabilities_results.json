@@ -1,0 +1,502 @@
+[
+    {
+        "IP": "213.127.167.147",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "143.177.236.118",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.150.24.99",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.207.26.242",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "216.131.112.142",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.87.70.116",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.229.54.24",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.28.95.34",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.236.38",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.208.153.25",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.92.85.45",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.172.170.203",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.98.245.169",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.126.80.154",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.232.36.47",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.128.27.245",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "216.131.112.148",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.201.241.15",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "128.90.177.254",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.226.162.15",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.92.69.15",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.253.51.133",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.210.106",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.127.193.213",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.229.25.74",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.250.76.26",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.28.84.31",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.86.110.96",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.34.27.126",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "144.178.75.93",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.112.223.232",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.244.11.17",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.199.188.137",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "198.199.124.126",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.230.119",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.98.231.73",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.157.193.197",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "102.38.249.176",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.72.69.246",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.186.244",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.28.93.30",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.171.231.207",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.53.121.102",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.61.76.215",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.208.154.236",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.143.64.96",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "102.38.249.252",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.168.58.75",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.0.94.97",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.87.5.176",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "198.145.149.232",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.116.40.35",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "2.58.44.125",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.64.175.242",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "88.218.7.179",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.237.210.110",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.208.204.85",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.143.90.208",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.61.1.121",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "102.38.249.146",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.11.123.18",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.116.56.11",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.69.71.209",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.110.30.79",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.136.197.200",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.154.86.229",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.71.205",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "147.181.12.14",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.133.92.176",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.85.242.99",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.152.10.2",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.70.157",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.123.131.251",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.128.3.147",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "102.38.249.7",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.70.156.209",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.13.76.134",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.122.180.172",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.62.103.109",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.153.205.169",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.251.48.206",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.60.171.11",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.148.197.40",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.154.178.200",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.220.43.16",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.29.125",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.225",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.91.209.27",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.201.45.245",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.2.243.226",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.151.236.59",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "147.181.11.41",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "216.131.112.223",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.232.109.96",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.86.210.34",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.184.105.68",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.98.198.126",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "88.218.5.49",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.39.142.201",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.252.76.157",
+        "Port": 1194,
+        "Vulnerabilities": "None"
+    }
+]

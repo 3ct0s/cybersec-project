@@ -1,0 +1,502 @@
+[
+    {
+        "IP": "95.97.151.130",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.12.27.163",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.81.224.153",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.250.222.9",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.104.217.167",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.171.6.43",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.59.222.82",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.183.133.24",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.28.85.10",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.198.200",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.95.191.226",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.170.103.254",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.14.45.104",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.210.5.172",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.11.123.79",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.146.35.101",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.60.131.193",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.146.26.2",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.158.244.56",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.124.15.154",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.166.143.41",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.143.17.99",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.27.64.177",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.99.114",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "86.80.222.203",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.20.134.78",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.209.175.146",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.92.69.187",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.83.168.165",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.144.226.229",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.138.219.200",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.67.238.228",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.178.114.85",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.153.208.221",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.194.1.247",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.102.229.213",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.205.5",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "146.190.25.185",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.152.11.173",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.124.52.34",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.226.239.239",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.213.227.48",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.72.66.132",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.206.19",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.65.120.139",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.227.151.25",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.128.181.146",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.36.25",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.98.100.36",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.146.28.215",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.209.240.253",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.146.48.57",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.156",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.174.128.220",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "143.178.49.95",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.173.96.206",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.18.236.35",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.99.235.157",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "144.178.200.214",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.212.125.154",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.20.212.25",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.229.212.210",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.146.69.255",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "144.178.194.9",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.210.6.7",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.131.102.180",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "143.177.39.50",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.152.10.180",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.89.177.220",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.64.114.233",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.243.213.4",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.94.235.123",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.59.122.41",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.136.199.76",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "90.145.90.167",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.143.36.134",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.166.203.125",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.153.226.213",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.0.94.41",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.145.243.151",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.115.205.245",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.118.0.113",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.136.199.50",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.190.203.134",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.144.81.160",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.17.221.252",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.1.223.132",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.145.224.27",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.131.26.93",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.18",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.171.228.144",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.111.2.82",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.184.185.137",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.242.232.134",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.173.96.46",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.226.188.204",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.158.240.179",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.243.198.13",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.164.211",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.255.39.135",
+        "Port": 1723,
+        "Vulnerabilities": "None"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "IP": "45.120.177.51",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.149.55.185",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.160.15.54",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.247.99.197",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "145.220.0.214",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.134.57",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.247.51.181",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "140.82.56.253",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.149.33.133",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.120.177.55",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.160.15.55",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.160.15.52",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.247.98.56",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.160.15.53",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    }
+]
