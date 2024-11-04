@@ -1,496 +1,131 @@
 [
     {
-        "IP": "43.175.165.247",
+        "IP": "43.175.211.216",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "45.58.136.101",
+        "IP": "185.53.89.4",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "188.200.79.149",
+        "IP": "43.175.211.150",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "94.237.47.135",
+        "IP": "138.113.8.37",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "43.175.222.168",
+        "IP": "185.142.146.81",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "51.158.164.78",
+        "IP": "31.210.170.43",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "103.139.49.162",
+        "IP": "192.236.248.219",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "51.158.190.243",
+        "IP": "185.162.9.165",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "45.137.83.187",
+        "IP": "212.83.151.48",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "138.113.208.141",
+        "IP": "43.175.165.2",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "138.113.211.214",
+        "IP": "35.204.13.48",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "45.154.33.23",
+        "IP": "77.174.159.221",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "43.175.22.113",
+        "IP": "46.166.151.68",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "103.139.49.167",
+        "IP": "185.21.217.5",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "85.10.133.34",
+        "IP": "43.175.222.83",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "37.48.121.98",
+        "IP": "43.175.184.205",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "161.35.151.144",
+        "IP": "185.228.83.72",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "87.253.149.239",
+        "IP": "103.139.49.110",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "43.175.165.33",
+        "IP": "185.81.114.196",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "176.126.85.68",
+        "IP": "138.113.36.78",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "138.113.36.130",
+        "IP": "31.220.42.30",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "81.30.72.47",
+        "IP": "167.172.41.179",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "43.175.222.124",
+        "IP": "149.210.173.209",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "45.91.210.240",
+        "IP": "138.113.211.57",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "43.175.165.156",
+        "IP": "150.230.21.227",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
     {
-        "IP": "77.172.32.185",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.142.239.137",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "45.223.71.173",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.165.243",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "51.158.178.36",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "83.149.100.131",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "190.2.155.30",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "80.79.4.43",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "85.222.235.224",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.8.64",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "45.223.71.10",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.162.8.144",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "103.139.49.241",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "104.40.214.215",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.208.126",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.210.37",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "45.223.74.171",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "212.7.200.32",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "31.22.86.200",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "165.22.197.185",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "34.147.45.167",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.211.151",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.133.156",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "45.148.121.213",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "84.235.163.242",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.211.248",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.210.97",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "51.15.15.132",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.133.11",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "62.221.254.45",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.211.107",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "163.171.160.99",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.208.188",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "62.204.37.51",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "37.48.105.106",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.222.232",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "103.139.49.229",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "193.228.193.168",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "103.139.49.23",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.211.170",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "20.101.95.92",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "34.91.134.216",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "62.204.37.86",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.165.160",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "193.177.222.59",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "89.248.168.168",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.66.251.189",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.210.101",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "51.15.100.91",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "163.171.160.210",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "149.126.75.153",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.181.165.154",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "34.32.143.145",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.8.153",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "64.227.64.197",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "176.117.75.44",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "43.175.211.73",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "178.62.254.243",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "152.42.141.167",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "176.117.75.108",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.210.47",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "89.149.207.89",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.133.151",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.244.36.153",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "34.34.11.240",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "165.22.199.149",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.211.150",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.173.235.173",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "217.23.14.239",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "62.3.62.3",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "138.113.133.87",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "178.62.237.107",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "185.20.185.65",
-        "Port": 20000,
-        "Vulnerabilities": "None"
-    },
-    {
-        "IP": "45.83.205.2",
+        "IP": "83.149.104.68",
         "Port": 20000,
         "Vulnerabilities": "None"
     },
@@ -500,7 +135,7 @@
         "Vulnerabilities": {
             "CVE-2022-31628": {
                 "verified": false,
-                "ranking_epss": 0.19013,
+                "ranking_epss": 0.19121,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the phar uncompressor code would recursively uncompress \"quines\" gzip files, resulting in an infinite loop.",
@@ -519,7 +154,7 @@
             },
             "CVE-2022-31629": {
                 "verified": false,
-                "ranking_epss": 0.79555,
+                "ranking_epss": 0.79585,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications.",
@@ -542,7 +177,7 @@
             },
             "CVE-2022-0778": {
                 "verified": false,
-                "ranking_epss": 0.87634,
+                "ranking_epss": 0.8765,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "The BN_mod_sqrt() function, which computes a modular square root, contains a bug that can cause it to loop forever for non-prime moduli. Internally this function is used when parsing certificates that contain elliptic curve public keys in compressed form or explicit elliptic curve parameters with a base point encoded in compressed form. It is possible to trigger the infinite loop by crafting a certificate that has invalid explicit curve parameters. Since certificate parsing happens prior to verification of the certificate signature, any process that parses an externally supplied certificate may thus be subject to a denial of service attack. The infinite loop can also be reached when parsing crafted private keys as they can contain explicit elliptic curve parameters. Thus vulnerable situations include: - TLS clients consuming server certificates - TLS servers consuming client certificates - Hosting providers taking certificates or private keys from customers - Certificate authorities parsing certification requests from subscribers - Anything else which parses ASN.1 elliptic curve parameters Also any other applications that use the BN_mod_sqrt() where the attacker can control the parameter values are vulnerable to this DoS issue. In the OpenSSL 1.0.2 version the public key is not parsed during initial parsing of the certificate which makes it slightly harder to trigger the infinite loop. However any operation which requires the public key from the certificate will trigger the infinite loop. In particular the attacker can use a self-signed certificate to trigger the loop during verification of the certificate signature. This issue affects OpenSSL versions 1.0.2, 1.1.1 and 3.0. It was addressed in the releases of 1.1.1n and 3.0.2 on the 15th March 2022. Fixed in OpenSSL 3.0.2 (Affected 3.0.0,3.0.1). Fixed in OpenSSL 1.1.1n (Affected 1.1.1-1.1.1m). Fixed in OpenSSL 1.0.2zd (Affected 1.0.2-1.0.2zc).",
@@ -582,7 +217,7 @@
             },
             "CVE-2018-5407": {
                 "verified": false,
-                "ranking_epss": 0.26965,
+                "ranking_epss": 0.27048,
                 "cvss_v2": 1.9,
                 "cvss_version": 2.0,
                 "summary": "Simultaneous Multi-threading (SMT) in processors can enable local users to exploit software vulnerable to timing attacks via a side-channel timing attack on 'port contention'.",
@@ -622,7 +257,7 @@
             "CVE-2024-4577": {
                 "verified": false,
                 "ransomware_campaign": "Known",
-                "ranking_epss": 0.99594,
+                "ranking_epss": 0.99595,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions\u00a08.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use \"Best-Fit\" behavior to replace characters in command line given to\u00a0Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.",
@@ -653,7 +288,7 @@
             },
             "CVE-2020-1971": {
                 "verified": false,
-                "ranking_epss": 0.75657,
+                "ranking_epss": 0.75694,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "The X.509 GeneralName type is a generic type for representing different types of names. One of those name types is known as EDIPartyName. OpenSSL provides a function GENERAL_NAME_cmp which compares different instances of a GENERAL_NAME to see if they are equal or not. This function behaves incorrectly when both GENERAL_NAMEs contain an EDIPARTYNAME. A NULL pointer dereference and a crash may occur leading to a possible denial of service attack. OpenSSL itself uses the GENERAL_NAME_cmp function for two purposes: 1) Comparing CRL distribution point names between an available CRL and a CRL distribution point embedded in an X509 certificate 2) When verifying that a timestamp response token signer matches the timestamp authority name (exposed via the API functions TS_RESP_verify_response and TS_RESP_verify_token) If an attacker can control both items being compared then that attacker could trigger a crash. For example if the attacker can trick a client or server into checking a malicious certificate against a malicious CRL then this may occur. Note that some applications automatically download CRLs based on a URL embedded in a certificate. This checking happens prior to the signatures on the certificate and CRL being verified. OpenSSL's s_server, s_client and verify tools have support for the \"-crl_download\" option which implements automatic CRL downloading and this attack has been demonstrated to work against those tools. Note that an unrelated bug means that affected versions of OpenSSL cannot parse or construct correct encodings of EDIPARTYNAME. However it is possible to construct a malformed EDIPARTYNAME that OpenSSL's parser will accept and hence trigger this attack. All OpenSSL 1.1.1 and 1.0.2 versions are affected by this issue. Other OpenSSL releases are out of support and have not been checked. Fixed in OpenSSL 1.1.1i (Affected 1.1.1-1.1.1h). Fixed in OpenSSL 1.0.2x (Affected 1.0.2-1.0.2w).",
@@ -690,7 +325,7 @@
             },
             "CVE-2022-4304": {
                 "verified": false,
-                "ranking_epss": 0.55158,
+                "ranking_epss": 0.55222,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "A timing based side channel exists in the OpenSSL RSA Decryption implementation\nwhich could be sufficient to recover a plaintext across a network in a\nBleichenbacher style attack. To achieve a successful decryption an attacker\nwould have to be able to send a very large number of trial messages for\ndecryption. The vulnerability affects all RSA padding modes: PKCS#1 v1.5,\nRSA-OEAP and RSASVE.\n\nFor example, in a TLS connection, RSA is commonly used by a client to send an\nencrypted pre-master secret to the server. An attacker that had observed a\ngenuine connection between a client and a server could use this flaw to send\ntrial messages to the server and record the time taken to process them. After a\nsufficiently large number of messages the attacker could recover the pre-master\nsecret used for the original connection and thus be able to decrypt the\napplication data sent over that connection.\n\n",
@@ -703,7 +338,7 @@
             },
             "CVE-2009-1390": {
                 "verified": false,
-                "ranking_epss": 0.81288,
+                "ranking_epss": 0.81319,
                 "cvss_v2": 6.8,
                 "cvss_version": 2.0,
                 "summary": "Mutt 1.5.19, when linked against (1) OpenSSL (mutt_ssl.c) or (2) GnuTLS (mutt_ssl_gnutls.c), allows connections when only one TLS certificate in the chain is accepted instead of verifying the entire chain, which allows remote attackers to spoof trusted servers via a man-in-the-middle attack.",
@@ -720,7 +355,7 @@
             },
             "CVE-2019-1563": {
                 "verified": false,
-                "ranking_epss": 0.91321,
+                "ranking_epss": 0.91337,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "In situations where an attacker receives automated notification of the success or failure of a decryption attempt an attacker, after sending a very large number of messages to be decrypted, can recover a CMS/PKCS7 transported encryption key or decrypt any RSA encrypted message that was encrypted with the public RSA key, using a Bleichenbacher padding oracle attack. Applications are not affected if they use a certificate together with the private RSA key to the CMS_decrypt or PKCS7_decrypt functions to select the correct recipient info to decrypt. Fixed in OpenSSL 1.1.1d (Affected 1.1.1-1.1.1c). Fixed in OpenSSL 1.1.0l (Affected 1.1.0-1.1.0k). Fixed in OpenSSL 1.0.2t (Affected 1.0.2-1.0.2s).",
@@ -761,7 +396,7 @@
             },
             "CVE-2007-3205": {
                 "verified": false,
-                "ranking_epss": 0.93539,
+                "ranking_epss": 0.93547,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "The parse_str function in (1) PHP, (2) Hardened-PHP, and (3) Suhosin, when called without a second parameter, might allow remote attackers to overwrite arbitrary variables by specifying variable names and values in the string to be parsed.  NOTE: it is not clear whether this is a design limitation of the function or a bug in PHP, although it is likely to be regarded as a bug in Hardened-PHP and Suhosin.",
@@ -779,7 +414,7 @@
             },
             "CVE-2023-5678": {
                 "verified": false,
-                "ranking_epss": 0.33958,
+                "ranking_epss": 0.34045,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "Issue summary: Generating excessively long X9.42 DH keys or checking\nexcessively long X9.42 DH keys or parameters may be very slow.\n\nImpact summary: Applications that use the functions DH_generate_key() to\ngenerate an X9.42 DH key may experience long delays.  Likewise, applications\nthat use DH_check_pub_key(), DH_check_pub_key_ex() or EVP_PKEY_public_check()\nto check an X9.42 DH key or X9.42 DH parameters may experience long delays.\nWhere the key or parameters that are being checked have been obtained from\nan untrusted source this may lead to a Denial of Service.\n\nWhile DH_check() performs all the necessary checks (as of CVE-2023-3817),\nDH_check_pub_key() doesn't make any of these checks, and is therefore\nvulnerable for excessively large P and Q parameters.\n\nLikewise, while DH_generate_key() performs a check for an excessively large\nP, it doesn't check for an excessively large Q.\n\nAn application that calls DH_generate_key() or DH_check_pub_key() and\nsupplies a key or parameters obtained from an untrusted source could be\nvulnerable to a Denial of Service attack.\n\nDH_generate_key() and DH_check_pub_key() are also called by a number of\nother OpenSSL functions.  An application calling any of those other\nfunctions may similarly be affected.  The other functions affected by this\nare DH_check_pub_key_ex(), EVP_PKEY_public_check(), and EVP_PKEY_generate().\n\nAlso vulnerable are the OpenSSL pkey command line application when using the\n\"-pubcheck\" option, as well as the OpenSSL genpkey command line application.\n\nThe OpenSSL SSL/TLS implementation is not affected by this issue.\n\nThe OpenSSL 3.0 and 3.1 FIPS providers are not affected by this issue.",
@@ -795,7 +430,7 @@
             },
             "CVE-2017-3736": {
                 "verified": false,
-                "ranking_epss": 0.54764,
+                "ranking_epss": 0.54829,
                 "cvss_v2": 4.0,
                 "cvss_version": 2.0,
                 "summary": "There is a carry propagating bug in the x86_64 Montgomery squaring procedure in OpenSSL before 1.0.2m and 1.1.0 before 1.1.0g. No EC algorithms are affected. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH are considered just feasible (although very difficult) because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be very significant and likely only accessible to a limited number of attackers. An attacker would additionally need online access to an unpatched system using the target private key in a scenario with persistent DH parameters and a private key that is shared between multiple clients. This only affects processors that support the BMI1, BMI2 and ADX extensions like Intel Broadwell (5th generation) and later or AMD Ryzen.",
@@ -833,7 +468,7 @@
             },
             "CVE-2024-0727": {
                 "verified": false,
-                "ranking_epss": 0.61241,
+                "ranking_epss": 0.61298,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "Issue summary: Processing a maliciously formatted PKCS12 file may lead OpenSSL\nto crash leading to a potential Denial of Service attack\n\nImpact summary: Applications loading files in the PKCS12 format from untrusted\nsources might terminate abruptly.\n\nA file in PKCS12 format can contain certificates and keys and may come from an\nuntrusted source. The PKCS12 specification allows certain fields to be NULL, but\nOpenSSL does not correctly check for this case. This can lead to a NULL pointer\ndereference that results in OpenSSL crashing. If an application processes PKCS12\nfiles from an untrusted source using the OpenSSL APIs then that application will\nbe vulnerable to this issue.\n\nOpenSSL APIs that are vulnerable to this are: PKCS12_parse(),\nPKCS12_unpack_p7data(), PKCS12_unpack_p7encdata(), PKCS12_unpack_authsafes()\nand PKCS12_newpass().\n\nWe have also fixed a similar issue in SMIME_write_PKCS7(). However since this\nfunction is related to writing data we do not consider it security significant.\n\nThe FIPS modules in 3.2, 3.1 and 3.0 are not affected by this issue.",
@@ -850,7 +485,7 @@
             },
             "CVE-2020-7071": {
                 "verified": false,
-                "ranking_epss": 0.78018,
+                "ranking_epss": 0.7805,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.26, 7.4.x below 7.4.14 and 8.0.0, when validating URL with functions like filter_var($url, FILTER_VALIDATE_URL), PHP will accept an URL with invalid password as valid URL. This may lead to functions that rely on URL being valid to mis-parse the URL and produce wrong data as components of the URL.",
@@ -868,7 +503,7 @@
             },
             "CVE-2020-7070": {
                 "verified": false,
-                "ranking_epss": 0.74814,
+                "ranking_epss": 0.74853,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.2.x below 7.2.34, 7.3.x below 7.3.23 and 7.4.x below 7.4.11, when PHP is processing incoming HTTP cookie values, the cookie names are url-decoded. This may lead to cookies with prefixes like __Host confused with cookies that decode to such prefix, thus leading to an attacker being able to forge cookie which is supposed to be secure. See also CVE-2020-8184 for more information.",
@@ -894,7 +529,7 @@
             },
             "CVE-2009-3766": {
                 "verified": false,
-                "ranking_epss": 0.3691,
+                "ranking_epss": 0.36991,
                 "cvss_v2": 6.8,
                 "cvss_version": 2.0,
                 "summary": "mutt_ssl.c in mutt 1.5.16 and other versions before 1.5.19, when OpenSSL is used, does not verify the domain name in the subject's Common Name (CN) field of an X.509 certificate, which allows man-in-the-middle attackers to spoof SSL servers via an arbitrary valid certificate.",
@@ -908,7 +543,7 @@
             },
             "CVE-2022-1292": {
                 "verified": false,
-                "ranking_epss": 0.94167,
+                "ranking_epss": 0.94175,
                 "cvss_v2": 10.0,
                 "cvss_version": 2.0,
                 "summary": "The c_rehash script does not properly sanitise shell metacharacters to prevent command injection. This script is distributed by some operating systems in a manner where it is automatically executed. On such operating systems, an attacker could execute arbitrary commands with the privileges of the script. Use of the c_rehash script is considered obsolete and should be replaced by the OpenSSL rehash command line tool. Fixed in OpenSSL 3.0.3 (Affected 3.0.0,3.0.1,3.0.2). Fixed in OpenSSL 1.1.1o (Affected 1.1.1-1.1.1n). Fixed in OpenSSL 1.0.2ze (Affected 1.0.2-1.0.2zd).",
@@ -933,7 +568,7 @@
             },
             "CVE-2017-3738": {
                 "verified": false,
-                "ranking_epss": 0.81587,
+                "ranking_epss": 0.81619,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "There is an overflow bug in the AVX2 Montgomery multiplication procedure used in exponentiation with 1024-bit moduli. No EC algorithms are affected. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH1024 are considered just feasible, because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be significant. However, for an attack on TLS to be meaningful, the server would have to share the DH1024 private key among multiple clients, which is no longer an option since CVE-2016-0701. This only affects processors that support the AVX2 but not ADX extensions like Intel Haswell (4th generation). Note: The impact from this issue is similar to CVE-2017-3736, CVE-2017-3732 and CVE-2015-3193. OpenSSL version 1.0.2-1.0.2m and 1.1.0-1.1.0g are affected. Fixed in OpenSSL 1.0.2n. Due to the low severity of this issue we are not issuing a new release of OpenSSL 1.1.0 at this time. The fix will be included in OpenSSL 1.1.0h when it becomes available. The fix is also available in commit e502cc86d in the OpenSSL git repository.",
@@ -971,7 +606,7 @@
             },
             "CVE-2009-3765": {
                 "verified": false,
-                "ranking_epss": 0.24601,
+                "ranking_epss": 0.24695,
                 "cvss_v2": 6.8,
                 "cvss_version": 2.0,
                 "summary": "mutt_ssl.c in mutt 1.5.19 and 1.5.20, when OpenSSL is used, does not properly handle a '\\0' character in a domain name in the subject's Common Name (CN) field of an X.509 certificate, which allows man-in-the-middle attackers to spoof arbitrary SSL servers via a crafted certificate issued by a legitimate Certification Authority, a related issue to CVE-2009-2408.",
@@ -986,7 +621,7 @@
             },
             "CVE-2022-37454": {
                 "verified": false,
-                "ranking_epss": 0.91261,
+                "ranking_epss": 0.91277,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "The Keccak XKCP SHA-3 reference implementation before fdc6fef has an integer overflow and resultant buffer overflow that allows attackers to execute arbitrary code or eliminate expected cryptographic properties. This occurs in the sponge function interface.",
@@ -1010,7 +645,7 @@
             },
             "CVE-2021-21707": {
                 "verified": false,
-                "ranking_epss": 0.60505,
+                "ranking_epss": 0.60563,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.",
@@ -1026,7 +661,7 @@
             },
             "CVE-2021-21706": {
                 "verified": false,
-                "ranking_epss": 0.40592,
+                "ranking_epss": 0.40673,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.31, 7.4.x below 7.4.24 and 8.0.x below 8.0.11, in Microsoft Windows environment, ZipArchive::extractTo may be tricked into writing a file outside target directory when extracting a ZIP file, thus potentially causing files to be created or overwritten, subject to OS permissions.",
@@ -1039,7 +674,7 @@
             },
             "CVE-2021-21705": {
                 "verified": false,
-                "ranking_epss": 0.40544,
+                "ranking_epss": 0.40625,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.29, 7.4.x below 7.4.21 and 8.0.x below 8.0.8, when using URL validation functionality via filter_var() function with FILTER_VALIDATE_URL parameter, an URL with invalid password field can be accepted as valid. This can lead to the code incorrectly parsing the URL and potentially leading to other security implications - like contacting a wrong server or making a wrong access decision.",
@@ -1054,7 +689,7 @@
             },
             "CVE-2021-21704": {
                 "verified": false,
-                "ranking_epss": 0.73344,
+                "ranking_epss": 0.73385,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.29, 7.4.x below 7.4.21 and 8.0.x below 8.0.8, when using Firebird PDO driver extension, a malicious database server could cause crashes in various database functions, such as getAttribute(), execute(), fetch() and others by returning invalid response data that is not parsed correctly by the driver. This can result in crashes, denial of service or potentially memory corruption.",
@@ -1071,7 +706,7 @@
             },
             "CVE-2021-21703": {
                 "verified": false,
-                "ranking_epss": 0.51526,
+                "ranking_epss": 0.51593,
                 "cvss_v2": 6.9,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x up to and including 7.3.31, 7.4.x below 7.4.25 and 8.0.x below 8.0.12, when running PHP FPM SAPI with main FPM daemon process running as root and child worker processes running as lower-privileged users, it is possible for the child processes to access memory shared with the main process and write to it, modifying it in a way that would cause the root process to conduct invalid memory reads and writes, which can be used to escalate privileges from local unprivileged user to the root user.",
@@ -1094,7 +729,7 @@
             },
             "CVE-2021-21702": {
                 "verified": false,
-                "ranking_epss": 0.85784,
+                "ranking_epss": 0.85805,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.3.x below 7.3.27, 7.4.x below 7.4.15 and 8.0.x below 8.0.2, when using SOAP extension to connect to a SOAP server, a malicious SOAP server could return malformed XML data as a response that would cause PHP to access a null pointer and thus cause a crash.",
@@ -1112,7 +747,7 @@
             },
             "CVE-2023-0466": {
                 "verified": false,
-                "ranking_epss": 0.54955,
+                "ranking_epss": 0.5502,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "The function X509_VERIFY_PARAM_add0_policy() is documented to\nimplicitly enable the certificate policy check when doing certificate\nverification. However the implementation of the function does not\nenable the check which allows certificates with invalid or incorrect\npolicies to pass the certificate verification.\n\nAs suddenly enabling the policy check could break existing deployments it was\ndecided to keep the existing behavior of the X509_VERIFY_PARAM_add0_policy()\nfunction.\n\nInstead the applications that require OpenSSL to perform certificate\npolicy check need to use X509_VERIFY_PARAM_set1_policies() or explicitly\nenable the policy check by calling X509_VERIFY_PARAM_set_flags() with\nthe X509_V_FLAG_POLICY_CHECK flag argument.\n\nCertificate policy checks are disabled by default in OpenSSL and are not\ncommonly used by applications.",
@@ -1133,7 +768,7 @@
             },
             "CVE-2013-2220": {
                 "verified": false,
-                "ranking_epss": 0.9302,
+                "ranking_epss": 0.93028,
                 "cvss_v2": 7.5,
                 "cvss_version": 2.0,
                 "summary": "Buffer overflow in the radius_get_vendor_attr function in the Radius extension before 1.2.7 for PHP allows remote attackers to cause a denial of service (crash) and possibly execute arbitrary code via a large Vendor Specific Attributes (VSA) length value.",
@@ -1148,7 +783,7 @@
             },
             "CVE-2023-0464": {
                 "verified": false,
-                "ranking_epss": 0.72478,
+                "ranking_epss": 0.72518,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "A security vulnerability has been identified in all supported versions\n\nof OpenSSL related to the verification of X.509 certificate chains\nthat include policy constraints.  Attackers may be able to exploit this\nvulnerability by creating a malicious certificate chain that triggers\nexponential use of computational resources, leading to a denial-of-service\n(DoS) attack on affected systems.\n\nPolicy processing is disabled by default but can be enabled by passing\nthe `-policy' argument to the command line utilities or by calling the\n`X509_VERIFY_PARAM_set1_policies()' function.",
@@ -1169,7 +804,7 @@
             },
             "CVE-2023-0465": {
                 "verified": false,
-                "ranking_epss": 0.54527,
+                "ranking_epss": 0.54592,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "Applications that use a non-default option when verifying certificates may be\nvulnerable to an attack from a malicious CA to circumvent certain checks.\n\nInvalid certificate policies in leaf certificates are silently ignored by\nOpenSSL and other certificate policy checks are skipped for that certificate.\nA malicious CA could use this to deliberately assert invalid certificate policies\nin order to circumvent policy checking on the certificate altogether.\n\nPolicy processing is disabled by default but can be enabled by passing\nthe `-policy' argument to the command line utilities or by calling the\n`X509_VERIFY_PARAM_set1_policies()' function.",
@@ -1189,7 +824,7 @@
             },
             "CVE-2018-0737": {
                 "verified": false,
-                "ranking_epss": 0.84312,
+                "ranking_epss": 0.84341,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "The OpenSSL RSA Key generation algorithm has been shown to be vulnerable to a cache timing side channel attack. An attacker with sufficient access to mount cache timing attacks during the RSA key generation process could recover the private key. Fixed in OpenSSL 1.1.0i-dev (Affected 1.1.0-1.1.0h). Fixed in OpenSSL 1.0.2p-dev (Affected 1.0.2b-1.0.2o).",
@@ -1234,7 +869,7 @@
             },
             "CVE-2018-0734": {
                 "verified": false,
-                "ranking_epss": 0.71909,
+                "ranking_epss": 0.71949,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "The OpenSSL DSA signature algorithm has been shown to be vulnerable to a timing side channel attack. An attacker could use variations in the signing algorithm to recover the private key. Fixed in OpenSSL 1.1.1a (Affected 1.1.1). Fixed in OpenSSL 1.1.0j (Affected 1.1.0-1.1.0i). Fixed in OpenSSL 1.0.2q (Affected 1.0.2-1.0.2p).",
@@ -1274,7 +909,7 @@
             },
             "CVE-2018-0732": {
                 "verified": false,
-                "ranking_epss": 0.92886,
+                "ranking_epss": 0.92896,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "During key agreement in a TLS handshake using a DH(E) based ciphersuite a malicious server can send a very large prime value to the client. This will cause the client to spend an unreasonably long period of time generating a key for this prime resulting in a hang until the client has finished. This could be exploited in a Denial Of Service attack. Fixed in OpenSSL 1.1.0i-dev (Affected 1.1.0-1.1.0h). Fixed in OpenSSL 1.0.2p-dev (Affected 1.0.2-1.0.2o).",
@@ -1322,7 +957,7 @@
             },
             "CVE-2017-3735": {
                 "verified": false,
-                "ranking_epss": 0.90822,
+                "ranking_epss": 0.90837,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "While parsing an IPAddressFamily extension in an X.509 certificate, it is possible to do a one-byte overread. This would result in an incorrect text display of the certificate. This bug has been present since 2006 and is present in all versions of OpenSSL before 1.0.2m and 1.1.0g.",
@@ -1360,7 +995,7 @@
             },
             "CVE-2021-23840": {
                 "verified": false,
-                "ranking_epss": 0.82527,
+                "ranking_epss": 0.8256,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "Calls to EVP_CipherUpdate, EVP_EncryptUpdate and EVP_DecryptUpdate may overflow the output length argument in some cases where the input length is close to the maximum permissable length for an integer on the platform. In such cases the return value from the function call will be 1 (indicating success), but the output length value will be negative. This could cause applications to behave incorrectly or crash. OpenSSL versions 1.1.1i and below are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1j. OpenSSL versions 1.0.2x and below are affected by this issue. However OpenSSL 1.0.2 is out of support and no longer receiving public updates. Premium support customers of OpenSSL 1.0.2 should upgrade to 1.0.2y. Other users should upgrade to 1.1.1j. Fixed in OpenSSL 1.1.1j (Affected 1.1.1-1.1.1i). Fixed in OpenSSL 1.0.2y (Affected 1.0.2-1.0.2x).",
@@ -1391,7 +1026,7 @@
             },
             "CVE-2021-23841": {
                 "verified": false,
-                "ranking_epss": 0.74499,
+                "ranking_epss": 0.74536,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "The OpenSSL public API function X509_issuer_and_serial_hash() attempts to create a unique hash value based on the issuer and serial number data contained within an X509 certificate. However it fails to correctly handle any errors that may occur while parsing the issuer field (which might occur if the issuer field is maliciously constructed). This may subsequently result in a NULL pointer deref and a crash leading to a potential denial of service attack. The function X509_issuer_and_serial_hash() is never directly called by OpenSSL itself so applications are only vulnerable if they use this function directly and they use it on certificates that may have been obtained from untrusted sources. OpenSSL versions 1.1.1i and below are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1j. OpenSSL versions 1.0.2x and below are affected by this issue. However OpenSSL 1.0.2 is out of support and no longer receiving public updates. Premium support customers of OpenSSL 1.0.2 should upgrade to 1.0.2y. Other users should upgrade to 1.1.1j. Fixed in OpenSSL 1.1.1j (Affected 1.1.1-1.1.1i). Fixed in OpenSSL 1.0.2y (Affected 1.0.2-1.0.2x).",
@@ -1424,7 +1059,7 @@
             },
             "CVE-2023-0286": {
                 "verified": false,
-                "ranking_epss": 0.73615,
+                "ranking_epss": 0.73656,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "There is a type confusion vulnerability relating to X.400 address processing\ninside an X.509 GeneralName. X.400 addresses were parsed as an ASN1_STRING but\nthe public structure definition for GENERAL_NAME incorrectly specified the type\nof the x400Address field as ASN1_TYPE. This field is subsequently interpreted by\nthe OpenSSL function GENERAL_NAME_cmp as an ASN1_TYPE rather than an\nASN1_STRING.\n\nWhen CRL checking is enabled (i.e. the application sets the\nX509_V_FLAG_CRL_CHECK flag), this vulnerability may allow an attacker to pass\narbitrary pointers to a memcmp call, enabling them to read memory contents or\nenact a denial of service. In most cases, the attack requires the attacker to\nprovide both the certificate chain and CRL, neither of which need to have a\nvalid signature. If the attacker only controls one of these inputs, the other\ninput must already contain an X.400 address as a CRL distribution point, which\nis uncommon. As such, this vulnerability is most likely to only affect\napplications which have implemented their own functionality for retrieving CRLs\nover a network.\n\n",
@@ -1442,7 +1077,7 @@
             },
             "CVE-2023-3817": {
                 "verified": false,
-                "ranking_epss": 0.46403,
+                "ranking_epss": 0.46477,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "Issue summary: Checking excessively long DH keys or parameters may be very slow.\n\nImpact summary: Applications that use the functions DH_check(), DH_check_ex()\nor EVP_PKEY_param_check() to check a DH key or DH parameters may experience long\ndelays. Where the key or parameters that are being checked have been obtained\nfrom an untrusted source this may lead to a Denial of Service.\n\nThe function DH_check() performs various checks on DH parameters. After fixing\nCVE-2023-3446 it was discovered that a large q parameter value can also trigger\nan overly long computation during some of these checks. A correct q value,\nif present, cannot be larger than the modulus p parameter, thus it is\nunnecessary to perform these checks if q is larger than p.\n\nAn application that calls DH_check() and supplies a key or parameters obtained\nfrom an untrusted source could be vulnerable to a Denial of Service attack.\n\nThe function DH_check() is itself called by a number of other OpenSSL functions.\nAn application calling any of those other functions may similarly be affected.\nThe other functions affected by this are DH_check_ex() and\nEVP_PKEY_param_check().\n\nAlso vulnerable are the OpenSSL dhparam and pkeyparam command line applications\nwhen using the \"-check\" option.\n\nThe OpenSSL SSL/TLS implementation is not affected by this issue.\n\nThe OpenSSL 3.0 and 3.1 FIPS providers are not affected by this issue.",
@@ -1458,7 +1093,7 @@
             },
             "CVE-2020-1968": {
                 "verified": false,
-                "ranking_epss": 0.78137,
+                "ranking_epss": 0.78169,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "The Raccoon attack exploits a flaw in the TLS specification which can lead to an attacker being able to compute the pre-master secret in connections which have used a Diffie-Hellman (DH) based ciphersuite. In such a case this would result in the attacker being able to eavesdrop on all encrypted communications sent over that TLS connection. The attack can only be exploited if an implementation re-uses a DH secret across multiple TLS connections. Note that this issue only impacts DH ciphersuites and not ECDH ciphersuites. This issue affects OpenSSL 1.0.2 which is out of support and no longer receiving public updates. OpenSSL 1.1.1 is not vulnerable to this issue. Fixed in OpenSSL 1.0.2w (Affected 1.0.2-1.0.2v).",
@@ -1479,7 +1114,7 @@
             },
             "CVE-2019-1551": {
                 "verified": false,
-                "ranking_epss": 0.60107,
+                "ranking_epss": 0.60176,
                 "cvss_v2": 5.0,
                 "cvss_version": 2.0,
                 "summary": "There is an overflow bug in the x64_64 Montgomery squaring procedure used in exponentiation with 512-bit moduli. No EC algorithms are affected. Analysis suggests that attacks against 2-prime RSA1024, 3-prime RSA1536, and DSA1024 as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH512 are considered just feasible. However, for an attack the target would have to re-use the DH512 private key, which is not recommended anyway. Also applications directly using the low level API BN_mod_exp may be affected if they use BN_FLG_CONSTTIME. Fixed in OpenSSL 1.1.1e (Affected 1.1.1-1.1.1d). Fixed in OpenSSL 1.0.2u (Affected 1.0.2-1.0.2t).",
@@ -1514,7 +1149,7 @@
             },
             "CVE-2018-0739": {
                 "verified": false,
-                "ranking_epss": 0.83257,
+                "ranking_epss": 0.83287,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "Constructed ASN.1 types with a recursive definition (such as can be found in PKCS7) could eventually exceed the stack given malicious input with excessive recursion. This could result in a Denial Of Service attack. There are no such structures used within SSL/TLS that come from untrusted sources so this is considered safe. Fixed in OpenSSL 1.1.0h (Affected 1.1.0-1.1.0g). Fixed in OpenSSL 1.0.2o (Affected 1.0.2b-1.0.2n).",
@@ -1559,7 +1194,7 @@
             },
             "CVE-2017-3737": {
                 "verified": false,
-                "ranking_epss": 0.99301,
+                "ranking_epss": 0.99302,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "OpenSSL 1.0.2 (starting from version 1.0.2b) introduced an \"error state\" mechanism. The intent was that if a fatal error occurred during a handshake then OpenSSL would move into the error state and would immediately fail if you attempted to continue the handshake. This works as designed for the explicit handshake functions (SSL_do_handshake(), SSL_accept() and SSL_connect()), however due to a bug it does not work correctly if SSL_read() or SSL_write() is called directly. In that scenario, if the handshake fails then a fatal error will be returned in the initial function call. If SSL_read()/SSL_write() is subsequently called by the application for the same SSL object then it will succeed and the data is passed without being decrypted/encrypted directly from the SSL/TLS record layer. In order to exploit this issue an application bug would have to be present that resulted in a call to SSL_read()/SSL_write() being issued after having already received a fatal error. OpenSSL version 1.0.2b-1.0.2m are affected. Fixed in OpenSSL 1.0.2n. OpenSSL 1.1.0 is not affected.",
@@ -1591,7 +1226,7 @@
             },
             "CVE-2019-1552": {
                 "verified": false,
-                "ranking_epss": 0.49694,
+                "ranking_epss": 0.49765,
                 "cvss_v2": 1.9,
                 "cvss_version": 2.0,
                 "summary": "OpenSSL has internal defaults for a directory tree where it can find a configuration file as well as certificates used for verification in TLS. This directory is most commonly referred to as OPENSSLDIR, and is configurable with the --prefix / --openssldir configuration options. For OpenSSL versions 1.1.0 and 1.1.1, the mingw configuration targets assume that resulting programs and libraries are installed in a Unix-like environment and the default prefix for program installation as well as for OPENSSLDIR should be '/usr/local'. However, mingw programs are Windows programs, and as such, find themselves looking at sub-directories of 'C:/usr/local', which may be world writable, which enables untrusted users to modify OpenSSL's default configuration, insert CA certificates, modify (or even replace) existing engine modules, etc. For OpenSSL 1.0.2, '/usr/local/ssl' is used as default for OPENSSLDIR on all Unix and Windows targets, including Visual C builds. However, some build instructions for the diverse Windows targets on 1.0.2 encourage you to specify your own --prefix. OpenSSL versions 1.1.1, 1.1.0 and 1.0.2 are affected by this issue. Due to the limited scope of affected deployments this has been assessed as low severity and therefore we are not creating new releases at this time. Fixed in OpenSSL 1.1.1d (Affected 1.1.1-1.1.1c). Fixed in OpenSSL 1.1.0l (Affected 1.1.0-1.1.0k). Fixed in OpenSSL 1.0.2t (Affected 1.0.2-1.0.2s).",
@@ -1623,7 +1258,7 @@
             },
             "CVE-2021-4160": {
                 "verified": false,
-                "ranking_epss": 0.79667,
+                "ranking_epss": 0.79698,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "There is a carry propagation bug in the MIPS32 and MIPS64 squaring procedure. Many EC algorithms are affected, including some of the TLS 1.3 default curves. Impact was not analyzed in detail, because the pre-requisites for attack are considered unlikely and include reusing private keys. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH are considered just feasible (although very difficult) because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be significant. However, for an attack on TLS to be meaningful, the server would have to share the DH private key among multiple clients, which is no longer an option since CVE-2016-0701. This issue affects OpenSSL versions 1.0.2, 1.1.1 and 3.0.0. It was addressed in the releases of 1.1.1m and 3.0.1 on the 15th of December 2021. For the 1.0.2 release it is addressed in git commit 6fc1aaaf3 that is available to premium support customers only. It will be made available in 1.0.2zc when it is released. The issue only affects OpenSSL on MIPS platforms. Fixed in OpenSSL 3.0.1 (Affected 3.0.0). Fixed in OpenSSL 1.1.1m (Affected 1.1.1-1.1.1l). Fixed in OpenSSL 1.0.2zc-dev (Affected 1.0.2-1.0.2zb).",
@@ -1644,7 +1279,7 @@
             },
             "CVE-2019-1547": {
                 "verified": false,
-                "ranking_epss": 0.46785,
+                "ranking_epss": 0.46859,
                 "cvss_v2": 1.9,
                 "cvss_version": 2.0,
                 "summary": "Normally in OpenSSL EC groups always have a co-factor present and this is used in side channel resistant code paths. However, in some cases, it is possible to construct a group using explicit parameters (instead of using a named curve). In those cases it is possible that such a group does not have the cofactor present. This can occur even where all the parameters match a known named curve. If such a curve is used then OpenSSL falls back to non-side channel resistant code paths which may result in full key recovery during an ECDSA signature operation. In order to be vulnerable an attacker would have to have the ability to time the creation of a large number of signatures where explicit parameters with no co-factor present are in use by an application using libcrypto. For the avoidance of doubt libssl is not vulnerable because explicit parameters are never used. Fixed in OpenSSL 1.1.1d (Affected 1.1.1-1.1.1c). Fixed in OpenSSL 1.1.0l (Affected 1.1.0-1.1.0k). Fixed in OpenSSL 1.0.2t (Affected 1.0.2-1.0.2s).",
@@ -1690,7 +1325,7 @@
             },
             "CVE-2023-2650": {
                 "verified": false,
-                "ranking_epss": 0.65957,
+                "ranking_epss": 0.65997,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "Issue summary: Processing some specially crafted ASN.1 object identifiers or\ndata containing them may be very slow.\n\nImpact summary: Applications that use OBJ_obj2txt() directly, or use any of\nthe OpenSSL subsystems OCSP, PKCS7/SMIME, CMS, CMP/CRMF or TS with no message\nsize limit may experience notable to very long delays when processing those\nmessages, which may lead to a Denial of Service.\n\nAn OBJECT IDENTIFIER is composed of a series of numbers - sub-identifiers -\nmost of which have no size limit.  OBJ_obj2txt() may be used to translate\nan ASN.1 OBJECT IDENTIFIER given in DER encoding form (using the OpenSSL\ntype ASN1_OBJECT) to its canonical numeric text form, which are the\nsub-identifiers of the OBJECT IDENTIFIER in decimal form, separated by\nperiods.\n\nWhen one of the sub-identifiers in the OBJECT IDENTIFIER is very large\n(these are sizes that are seen as absurdly large, taking up tens or hundreds\nof KiBs), the translation to a decimal number in text may take a very long\ntime.  The time complexity is O(n^2) with 'n' being the size of the\nsub-identifiers in bytes (*).\n\nWith OpenSSL 3.0, support to fetch cryptographic algorithms using names /\nidentifiers in string form was introduced.  This includes using OBJECT\nIDENTIFIERs in canonical numeric text form as identifiers for fetching\nalgorithms.\n\nSuch OBJECT IDENTIFIERs may be received through the ASN.1 structure\nAlgorithmIdentifier, which is commonly used in multiple protocols to specify\nwhat cryptographic algorithm should be used to sign or verify, encrypt or\ndecrypt, or digest passed data.\n\nApplications that call OBJ_obj2txt() directly with untrusted data are\naffected, with any version of OpenSSL.  If the use is for the mere purpose\nof display, the severity is considered low.\n\nIn OpenSSL 3.0 and newer, this affects the subsystems OCSP, PKCS7/SMIME,\nCMS, CMP/CRMF or TS.  It also impacts anything that processes X.509\ncertificates, including simple things like verifying its signature.\n\nThe impact on TLS is relatively low, because all versions of OpenSSL have a\n100KiB limit on the peer's certificate chain.  Additionally, this only\nimpacts clients, or servers that have explicitly enabled client\nauthentication.\n\nIn OpenSSL 1.1.1 and 1.0.2, this only affects displaying diverse objects,\nsuch as X.509 certificates.  This is assumed to not happen in such a way\nthat it would cause a Denial of Service, so these versions are considered\nnot affected by this issue in such a way that it would be cause for concern,\nand the severity is therefore considered low.",
@@ -1713,7 +1348,7 @@
             },
             "CVE-2020-7069": {
                 "verified": false,
-                "ranking_epss": 0.61245,
+                "ranking_epss": 0.61302,
                 "cvss_v2": 6.4,
                 "cvss_version": 2.0,
                 "summary": "In PHP versions 7.2.x below 7.2.34, 7.3.x below 7.3.23 and 7.4.x below 7.4.11, when AES-CCM mode is used with openssl_encrypt() function with 12 bytes IV, only first 7 bytes of the IV is actually used. This can lead to both decreased security and incorrect encryption data.",
@@ -1737,7 +1372,7 @@
             },
             "CVE-2019-1559": {
                 "verified": false,
-                "ranking_epss": 0.8626,
+                "ranking_epss": 0.86278,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "If an application encounters a fatal protocol error and then calls SSL_shutdown() twice (once to send a close_notify, and once to receive one) then OpenSSL can respond differently to the calling application if a 0 byte record is received with invalid padding compared to if a 0 byte record is received with an invalid MAC. If the application then behaves differently based on that in a way that is detectable to the remote peer, then this amounts to a padding oracle that could be used to decrypt data. In order for this to be exploitable \"non-stitched\" ciphersuites must be in use. Stitched ciphersuites are optimised implementations of certain commonly used ciphersuites. Also the application must call SSL_shutdown() twice even if a protocol error has occurred (applications should not do this but some do anyway). Fixed in OpenSSL 1.0.2r (Affected 1.0.2-1.0.2q).",
@@ -1784,7 +1419,7 @@
             },
             "CVE-2017-8923": {
                 "verified": false,
-                "ranking_epss": 0.77677,
+                "ranking_epss": 0.7771,
                 "cvss_v2": 7.5,
                 "cvss_version": 2.0,
                 "summary": "The zend_string_extend function in Zend/zend_string.h in PHP through 7.1.5 does not prevent changes to string objects that result in a negative length, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact by leveraging a script's use of .= with a long string.",
@@ -1797,7 +1432,7 @@
             },
             "CVE-2023-0215": {
                 "verified": false,
-                "ranking_epss": 0.79461,
+                "ranking_epss": 0.79491,
                 "cvss_v2": null,
                 "cvss_version": 2.0,
                 "summary": "The public API function BIO_new_NDEF is a helper function used for streaming\nASN.1 data via a BIO. It is primarily used internally to OpenSSL to support the\nSMIME, CMS and PKCS7 streaming capabilities, but may also be called directly by\nend user applications.\n\nThe function receives a BIO from the caller, prepends a new BIO_f_asn1 filter\nBIO onto the front of it to form a BIO chain, and then returns the new head of\nthe BIO chain to the caller. Under certain conditions, for example if a CMS\nrecipient public key is invalid, the new filter BIO is freed and the function\nreturns a NULL result indicating a failure. However, in this case, the BIO chain\nis not properly cleaned up and the BIO passed by the caller still retains\ninternal pointers to the previously freed filter BIO. If the caller then goes on\nto call BIO_pop() on the BIO then a use-after-free will occur. This will most\nlikely result in a crash.\n\n\n\nThis scenario occurs directly in the internal function B64_write_ASN1() which\nmay cause BIO_new_NDEF() to be called and will subsequently call BIO_pop() on\nthe BIO. This internal function is in turn called by the public API functions\nPEM_write_bio_ASN1_stream, PEM_write_bio_CMS_stream, PEM_write_bio_PKCS7_stream,\nSMIME_write_ASN1, SMIME_write_CMS and SMIME_write_PKCS7.\n\nOther public API functions that may be impacted by this include\ni2d_ASN1_bio_stream, BIO_new_CMS, BIO_new_PKCS7, i2d_CMS_bio_stream and\ni2d_PKCS7_bio_stream.\n\nThe OpenSSL cms and smime command line applications are similarly affected.\n\n\n\n",
@@ -1816,7 +1451,7 @@
             },
             "CVE-2022-2068": {
                 "verified": false,
-                "ranking_epss": 0.95535,
+                "ranking_epss": 0.95539,
                 "cvss_v2": 10.0,
                 "cvss_version": 2.0,
                 "summary": "In addition to the c_rehash shell command injection identified in CVE-2022-1292, further circumstances where the c_rehash script does not properly sanitise shell metacharacters to prevent command injection were found by code review. When the CVE-2022-1292 was fixed it was not discovered that there are other places in the script where the file names of certificates being hashed were possibly passed to a command executed through the shell. This script is distributed by some operating systems in a manner where it is automatically executed. On such operating systems, an attacker could execute arbitrary commands with the privileges of the script. Use of the c_rehash script is considered obsolete and should be replaced by the OpenSSL rehash command line tool. Fixed in OpenSSL 3.0.4 (Affected 3.0.0,3.0.1,3.0.2,3.0.3). Fixed in OpenSSL 1.1.1p (Affected 1.1.1-1.1.1o). Fixed in OpenSSL 1.0.2zf (Affected 1.0.2-1.0.2ze).",
@@ -1836,7 +1471,7 @@
             },
             "CVE-2009-3767": {
                 "verified": false,
-                "ranking_epss": 0.66145,
+                "ranking_epss": 0.66185,
                 "cvss_v2": 4.3,
                 "cvss_version": 2.0,
                 "summary": "libraries/libldap/tls_o.c in OpenLDAP 2.2 and 2.4, and possibly other versions, when OpenSSL is used, does not properly handle a '\\0' character in a domain name in the subject's Common Name (CN) field of an X.509 certificate, which allows man-in-the-middle attackers to spoof arbitrary SSL servers via a crafted certificate issued by a legitimate Certification Authority, a related issue to CVE-2009-2408.",
@@ -1863,7 +1498,7 @@
             },
             "CVE-2021-3712": {
                 "verified": false,
-                "ranking_epss": 0.76416,
+                "ranking_epss": 0.76452,
                 "cvss_v2": 5.8,
                 "cvss_version": 2.0,
                 "summary": "ASN.1 strings are represented internally within OpenSSL as an ASN1_STRING structure which contains a buffer holding the string data and a field holding the buffer length. This contrasts with normal C strings which are repesented as a buffer for the string data which is terminated with a NUL (0) byte. Although not a strict requirement, ASN.1 strings that are parsed using OpenSSL's own \"d2i\" functions (and other similar parsing functions) as well as any string whose value has been set with the ASN1_STRING_set() function will additionally NUL terminate the byte array in the ASN1_STRING structure. However, it is possible for applications to directly construct valid ASN1_STRING structures which do not NUL terminate the byte array by directly setting the \"data\" and \"length\" fields in the ASN1_STRING array. This can also happen by using the ASN1_STRING_set0() function. Numerous OpenSSL functions that print ASN.1 data have been found to assume that the ASN1_STRING byte array will be NUL terminated, even though this is not guaranteed for strings that have been directly constructed. Where an application requests an ASN.1 structure to be printed, and where that ASN.1 structure contains ASN1_STRINGs that have been directly constructed by the application without NUL terminating the \"data\" field, then a read buffer overrun can occur. The same thing can also occur during name constraints processing of certificates (for example if a certificate has been directly constructed by the application instead of loading it via the OpenSSL parsing functions, and the certificate contains non NUL terminated ASN1_STRING structures). It can also occur in the X509_get1_email(), X509_REQ_get1_email() and X509_get1_ocsp() functions. If a malicious actor can cause an application to directly construct an ASN1_STRING and then process it through one of the affected OpenSSL functions then this issue could be hit. This might result in a crash (causing a Denial of Service attack). It could also result in the disclosure of private memory contents (such as private keys, or sensitive plaintext). Fixed in OpenSSL 1.1.1l (Affected 1.1.1-1.1.1k). Fixed in OpenSSL 1.0.2za (Affected 1.0.2-1.0.2y).",
@@ -1894,5 +1529,1370 @@
                 "cvss": 5.8
             }
         }
+    },
+    {
+        "IP": "138.113.210.140",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.222",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.153.184.157",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.4",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "167.172.33.225",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.217",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "165.140.94.1",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.13",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.142.100.57",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.50",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.106",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.69.127.223",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.145.201.170",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.225",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.111.91.2",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.238",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.95",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.162.162.95",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.92.206.33",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.41",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.115.20.110",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "13.93.5.125",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.21.117.74",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.211.19.24",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.34.180.106",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.107",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.154",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.8.172",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.166.84.82",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.107",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.48.73.76",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "165.22.197.185",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.21.146.79",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.239",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.38.142.47",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.36.36",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.166.79.10",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "143.47.186.76",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.37",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "64.227.64.197",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.222.235.224",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.21.113.50",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.145.200.166",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.255.124.141",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "20.101.95.92",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.248.89.91",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "64.227.66.140",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.83.205.2",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.249.36.197",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.192",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.170.83.177",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.117.75.107",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.172.161.192",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.244.104.59",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.62",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.40",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.156.253.8",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.190.146.153",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.105",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.88.200.41",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.27",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.44",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "192.121.16.194",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.40",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.34.50.117",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.244",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.235.43.104",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.210.203.116",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.207",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.81.28.107",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "142.93.228.162",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.184.21",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.104",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.82",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.146.55",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.29.182.39",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.90.102.19",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.154.33.24",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "175.110.114.45",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.42",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.195",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "35.204.250.195",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.36.52",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.219",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.61.120.76",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "152.70.57.180",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.255.109.173",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.42.189.243",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.164",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.15.23.77",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.43",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.8.142",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.149.207.102",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.226.173.142",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.115.61.23",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.155",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.157.0.110",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.144",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "88.211.147.141",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.10.150.58",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "108.181.124.29",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "165.140.94.32",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.102",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.158.186.165",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.171.2.164",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.158.186.91",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.137",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.196.0.239",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.114",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "202.133.89.93",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "169.150.245.196",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.231",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.126.75.8",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.211.60",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.149.84.143",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.106.152.254",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "23.97.152.232",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.172.120.235",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "150.230.22.107",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.86",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.106.123.149",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.13.60.51",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.48.197",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.152.42.121",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.140.160",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.181",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.102",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.166.15.64",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.34",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.141.27.110",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.194.94.51",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.45.112.233",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.139.86.197",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.18.85.215",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.3.62.57",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.237.35.120",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.45",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.227",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.190.137.38",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.117.75.110",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.69.89.34",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.63",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "165.140.94.57",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.91.0.219",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.36.193",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.196.170.111",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.100",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.165",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.22.97.203",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.175",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "142.93.232.3",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.184.153",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.97",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.6",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.194",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.62.248.111",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.80",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.79.71.226",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.158.186.156",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "167.99.219.48",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.127",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.210.139.49",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.33",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.235",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.23",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.108",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.42.188.124",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.76",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "23.254.227.74",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.131",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.208.87.12",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.217.200",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.70",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.209",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.17",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.192",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.70",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.83",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.66.175.56",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.149.106.197",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.158.186.249",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.119.112.210",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "169.51.161.134",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.224.202.139",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "108.143.76.52",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "165.140.94.39",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.209.58",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.172.160.82",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.39",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.170.145.54",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.171",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.204",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.83",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.102.54.196",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.137",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.112.11.204",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.229",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "2.59.169.67",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.159.188.148",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.111",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.209.89.98",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.207",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.182.193.38",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.235.43.118",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "178.132.2.165",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.36.79",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.79.113.191",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.103",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.154.33.9",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.85",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.15.4.80",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.69",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.254.124.101",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.89",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.141",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.226.108.142",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.145.152.216",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.210.200",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.39.105.89",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.117.72.20",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.154.86.245",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.236.93.106",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.201",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.70",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.223.93.169",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.250.230",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.166.151.191",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.75",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "163.171.160.216",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.15.10.238",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.158",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.39.106.52",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.211.90",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.171.8.73",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.211.49",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.23",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.39",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.29.182.56",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.139.49.145",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.158.184.126",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.137.83.186",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "79.141.164.37",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.93.238.140",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.106.123.151",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.149.84.45",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "217.121.190.49",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.84",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.204.37.60",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.146.103",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.249.63.151",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.31",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.134.228.224",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.152.42.100",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.210.138.38",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.152.211.33",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.210.5.231",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.165.93",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.48.93.145",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.208.200",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.210.3",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.211.55",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.235.174.120",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.117.75.2",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.38.98.72",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "103.45.247.112",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "138.113.133.36",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.110.85.180",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.65.93.66",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.78.220.214",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.9",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.81",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.80.53.29",
+        "Port": 20000,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.149",
+        "Port": 20000,
+        "Vulnerabilities": "None"
     }
 ]

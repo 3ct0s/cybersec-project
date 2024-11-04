@@ -1,0 +1,1934 @@
+[
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2024-38474",
+        "Summary": "Substitution encoding issue in mod_rewrite in Apache HTTP Server 2.4.59 and earlier allows attacker to execute scripts in\ndirectories permitted by the configuration but not directly reachable by any\u00a0URL or source disclosure of scripts meant to only to be executed as CGI.\n\nUsers are recommended to upgrade to version 2.4.60, which fixes this issue.\n\nSome RewriteRules that capture and substitute unsafely will now fail unless rewrite flag \"UnsafeAllow3F\" is specified."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-10549",
+        "Summary": "An issue was discovered in PHP before 5.6.36, 7.0.x before 7.0.30, 7.1.x before 7.1.17, and 7.2.x before 7.2.5. exif_read_data in ext/exif/exif.c has an out-of-bounds read for crafted JPEG data because exif_iif_add_value mishandles the case of a MakerNote that lacks a final '\\0' character."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-10548",
+        "Summary": "An issue was discovered in PHP before 5.6.36, 7.0.x before 7.0.30, 7.1.x before 7.1.17, and 7.2.x before 7.2.5. ext/ldap/ldap.c allows remote LDAP servers to cause a denial of service (NULL pointer dereference and application crash) because of mishandling of the ldap_get_dn return value."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-3141",
+        "Summary": "Use-after-free vulnerability in wddx.c in the WDDX extension in PHP before 5.5.33 and 5.6.x before 5.6.19 allows remote attackers to cause a denial of service (memory corruption and application crash) or possibly have unspecified other impact by triggering a wddx_deserialize call on XML data containing a crafted var element."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-10545",
+        "Summary": "An issue was discovered in PHP before 5.6.35, 7.0.x before 7.0.29, 7.1.x before 7.1.16, and 7.2.x before 7.2.4. Dumpable FPM child processes allow bypassing opcache access controls because fpm_unix.c makes a PR_SET_DUMPABLE prctl call, allowing one user (in a multiuser environment) to obtain sensitive information from the process memory of a second user's PHP applications by running gcore on the PID of the PHP-FPM worker process."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-10547",
+        "Summary": "An issue was discovered in ext/phar/phar_object.c in PHP before 5.6.36, 7.0.x before 7.0.30, 7.1.x before 7.1.17, and 7.2.x before 7.2.5. There is Reflected XSS on the PHAR 403 and 404 error pages via request data of a request for a .phar file. NOTE: this vulnerability exists because of an incomplete fix for CVE-2018-5712."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-10546",
+        "Summary": "An issue was discovered in PHP before 5.6.36, 7.0.x before 7.0.30, 7.1.x before 7.1.17, and 7.2.x before 7.2.5. An infinite loop exists in ext/iconv/iconv.c because the iconv stream filter does not reject invalid multibyte sequences."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-7272",
+        "Summary": "PHP through 7.1.11 enables potential SSRF in applications that accept an fsockopen or pfsockopen hostname argument with an expectation that the port number is constrained. Because a :port syntax is recognized, fsockopen will use the port number that is specified in the hostname argument, instead of the port number in the second argument of the function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-9798",
+        "Summary": "Apache httpd allows remote attackers to read secret data from process memory if the Limit directive can be set in a user's .htaccess file, or if httpd.conf has certain misconfigurations, aka Optionsbleed. This affects the Apache HTTP Server through 2.2.34 and 2.4.x through 2.4.27. The attacker sends an unauthenticated OPTIONS HTTP request when attempting to read secret data. This is a use-after-free issue and thus secret data is not always sent, and the specific data depends on many factors including configuration. Exploitation with .htaccess can be blocked with a patch to the ap_limit_section function in server/core.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3523",
+        "Summary": "Memory leak in the winnt_accept function in server/mpm/winnt/child.c in the WinNT MPM in the Apache HTTP Server 2.4.x before 2.4.10 on Windows, when the default AcceptFilter is enabled, allows remote attackers to cause a denial of service (memory consumption) via crafted requests."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8387",
+        "Summary": "PCRE before 8.38 mishandles (?123) subroutine calls and related subroutine calls, which allows remote attackers to cause a denial of service (integer overflow) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-0232",
+        "Summary": "The exif_process_unicode function in ext/exif/exif.c in PHP before 5.4.37, 5.5.x before 5.5.21, and 5.6.x before 5.6.5 allows remote attackers to execute arbitrary code or cause a denial of service (uninitialized pointer free and application crash) via crafted EXIF data in a JPEG image."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3184",
+        "Summary": "mod_authz_svn in Apache Subversion 1.7.x before 1.7.21 and 1.8.x before 1.8.14, when using Apache httpd 2.4.x, does not properly restrict anonymous access, which allows remote anonymous users to read hidden files via the path name."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2024-4577",
+        "Summary": "In PHP versions\u00a08.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use \"Best-Fit\" behavior to replace characters in command line given to\u00a0Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-0235",
+        "Summary": "Heap-based buffer overflow in the __nss_hostname_digits_dots function in glibc 2.2, and other 2.x versions before 2.18, allows context-dependent attackers to execute arbitrary code via vectors related to the (1) gethostbyname or (2) gethostbyname2 function, aka \"GHOST.\""
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-32786",
+        "Summary": "mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In versions prior to 2.4.9, `oidc_validate_redirect_url()` does not parse URLs the same way as most browsers do. As a result, this function can be bypassed and leads to an Open Redirect vulnerability in the logout functionality. This bug has been fixed in version 2.4.9 by replacing any backslash of the URL to redirect with slashes to address a particular breaking change between the different specifications (RFC2396 / RFC3986 and WHATWG). As a workaround, this vulnerability can be mitigated by configuring `mod_auth_openidc` to only allow redirection whose destination matches a given regular expression."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-3142",
+        "Summary": "The phar_parse_zipfile function in zip.c in the PHAR extension in PHP before 5.5.33 and 5.6.x before 5.6.19 allows remote attackers to obtain sensitive information from process memory or cause a denial of service (out-of-bounds read and application crash) by placing a PK\\x05\\x06 signature at an invalid location."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-32785",
+        "Summary": "mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. When mod_auth_openidc versions prior to 2.4.9 are configured to use an unencrypted Redis cache (`OIDCCacheEncrypt off`, `OIDCSessionType server-cache`, `OIDCCacheType redis`), `mod_auth_openidc` wrongly performed argument interpolation before passing Redis requests to `hiredis`, which would perform it again and lead to an uncontrolled format string bug. Initial assessment shows that this bug does not appear to allow gaining arbitrary code execution, but can reliably provoke a denial of service by repeatedly crashing the Apache workers. This bug has been corrected in version 2.4.9 by performing argument interpolation only once, using the `hiredis` API. As a workaround, this vulnerability can be mitigated by setting `OIDCCacheEncrypt` to `on`, as cache keys are cryptographically hashed before use when this option is enabled."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-28330",
+        "Summary": "Apache HTTP Server 2.4.53 and earlier on Windows may read beyond bounds when configured to process requests with the mod_isapi module."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-5459",
+        "Summary": "The PEAR_REST class in REST.php in PEAR in PHP through 5.6.0 allows local users to write to arbitrary files via a symlink attack on a (1) rest.cachefile or (2) rest.cacheid file in /tmp/pear/cache/, related to the retrieveCacheFirst and useLocalCache functions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-32791",
+        "Summary": "mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In mod_auth_openidc before version 2.4.9, the AES GCM encryption in mod_auth_openidc uses a static IV and AAD. It is important to fix because this creates a static nonce and since aes-gcm is a stream cipher, this can lead to known cryptographic issues, since the same key is being reused. From 2.4.9 onwards this has been patched to use dynamic values through usage of cjose AES encryption routines."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-32792",
+        "Summary": "mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In mod_auth_openidc before version 2.4.9, there is an XSS vulnerability in when using `OIDCPreservePost On`."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8835",
+        "Summary": "The make_http_soap_request function in ext/soap/php_http.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 does not properly retrieve keys, which allows remote attackers to cause a denial of service (NULL pointer dereference, type confusion, and application crash) or possibly execute arbitrary code via crafted serialized data representing a numerically indexed _cookies array, related to the SoapClient::__call method in ext/soap/soap.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7418",
+        "Summary": "The php_wddx_push_element function in ext/wddx/wddx.c in PHP before 5.6.26 and 7.x before 7.0.11 allows remote attackers to cause a denial of service (invalid pointer access and out-of-bounds read) or possibly have unspecified other impact via an incorrect boolean element in a wddxPacket XML document, leading to mishandling in a wddx_deserialize call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7414",
+        "Summary": "The ZIP signature-verification feature in PHP before 5.6.26 and 7.x before 7.0.11 does not ensure that the uncompressed_filesize field is large enough, which allows remote attackers to cause a denial of service (out-of-bounds memory access) or possibly have unspecified other impact via a crafted PHAR archive, related to ext/phar/util.c and ext/phar/zip.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2024-38477",
+        "Summary": "null pointer dereference in mod_proxy in Apache HTTP Server 2.4.59 and earlier allows an attacker to crash the server via a malicious request.\nUsers are recommended to upgrade to version 2.4.60, which fixes this issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7416",
+        "Summary": "ext/intl/msgformat/msgformat_format.c in PHP before 5.6.26 and 7.x before 7.0.11 does not properly restrict the locale length provided to the Locale class in the ICU library, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a MessageFormatter::formatMessage call with a long first argument."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7417",
+        "Summary": "ext/spl/spl_array.c in PHP before 5.6.26 and 7.x before 7.0.11 proceeds with SplArray unserialization without validating a return value and data type, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via crafted serialized data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0185",
+        "Summary": "sapi/fpm/fpm/fpm_unix.c in the FastCGI Process Manager (FPM) in PHP before 5.4.28 and 5.5.x before 5.5.12 uses 0666 permissions for the UNIX socket, which allows local users to gain privileges via a crafted FastCGI client."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7411",
+        "Summary": "ext/standard/var_unserializer.re in PHP before 5.6.26 mishandles object-deserialization failures, which allows remote attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via an unserialize call that references a partially constructed object."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7412",
+        "Summary": "ext/mysqlnd/mysqlnd_wireprotocol.c in PHP before 5.6.26 and 7.x before 7.0.11 does not verify that a BIT field has the UNSIGNED_FLAG flag, which allows remote MySQL servers to cause a denial of service (heap-based buffer overflow) or possibly have unspecified other impact via crafted field metadata."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7413",
+        "Summary": "Use-after-free vulnerability in the wddx_stack_destroy function in ext/wddx/wddx.c in PHP before 5.6.26 and 7.x before 7.0.11 allows remote attackers to cause a denial of service or possibly have unspecified other impact via a wddxPacket XML document that lacks an end-tag for a recordset field element, leading to mishandling in a wddx_deserialize call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2009-0796",
+        "Summary": "Cross-site scripting (XSS) vulnerability in Status.pm in Apache::Status and Apache2::Status in mod_perl1 and mod_perl2 for the Apache HTTP Server, when /perl-status is accessible, allows remote attackers to inject arbitrary web script or HTML via the URI."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6832",
+        "Summary": "Use-after-free vulnerability in the SPL unserialize implementation in ext/spl/spl_array.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 allows remote attackers to execute arbitrary code via crafted serialized data that triggers misuse of an array field."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-8670",
+        "Summary": "Integer signedness error in the dynamicGetbuf function in gd_io_dp.c in the GD Graphics Library (aka libgd) through 2.2.3, as used in PHP before 5.6.28 and 7.x before 7.0.13, allows remote attackers to cause a denial of service (stack-based buffer overflow) or possibly have unspecified other impact via a crafted imagecreatefromstring call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8994",
+        "Summary": "An issue was discovered in PHP 5.x and 7.x, when the configuration uses apache2handler/mod_php or php-fpm with OpCache enabled. With 5.x after 5.6.28 or 7.x after 7.0.13, the issue is resolved in a non-default configuration with the opcache.validate_permission=1 setting. The vulnerability details are as follows. In PHP SAPIs where PHP interpreters share a common parent process, Zend OpCache creates a shared memory object owned by the common parent during initialization. Child PHP processes inherit the SHM descriptor, using it to cache and retrieve compiled script bytecode (\"opcode\" in PHP jargon). Cache keys vary depending on configuration, but filename is a central key component, and compiled opcode can generally be run if a script's filename is known or can be guessed. Many common shared-hosting configurations change EUID in child processes to enforce privilege separation among hosted users (for example using mod_ruid2 for the Apache HTTP Server, or php-fpm user settings). In these scenarios, the default Zend OpCache behavior defeats script file permissions by sharing a single SHM cache among all child PHP processes. PHP scripts often contain sensitive information: Think of CMS configurations where reading or running another user's script usually means gaining privileges to the CMS database."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0117",
+        "Summary": "The mod_proxy module in the Apache HTTP Server 2.4.x before 2.4.10, when a reverse proxy is enabled, allows remote attackers to cause a denial of service (child-process crash) via a crafted HTTP Connection header."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4148",
+        "Summary": "The do_soap_call function in ext/soap/soap.c in PHP before 5.4.39, 5.5.x before 5.5.23, and 5.6.x before 5.6.7 does not verify that the uri property is a string, which allows remote attackers to obtain sensitive information by providing crafted serialized data with an int data type, related to a \"type confusion\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3587",
+        "Summary": "Integer overflow in the cdf_read_property_info function in cdf.c in file through 5.19, as used in the Fileinfo component in PHP before 5.4.32 and 5.5.x before 5.5.16, allows remote attackers to cause a denial of service (application crash) via a crafted CDF file.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2012-1571."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5773",
+        "Summary": "php_zip.c in the zip extension in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8 improperly interacts with the unserialize implementation and garbage collection, which allows remote attackers to execute arbitrary code or cause a denial of service (use-after-free and application crash) via crafted serialized data containing a ZipArchive object."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5772",
+        "Summary": "Double free vulnerability in the php_wddx_process_data function in wddx.c in the WDDX extension in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8 allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via crafted XML data that is mishandled in a wddx_deserialize call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5771",
+        "Summary": "spl_array.c in the SPL extension in PHP before 5.5.37 and 5.6.x before 5.6.23 improperly interacts with the unserialize implementation and garbage collection, which allows remote attackers to execute arbitrary code or cause a denial of service (use-after-free and application crash) via crafted serialized data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5770",
+        "Summary": "Integer overflow in the SplFileObject::fread function in spl_directory.c in the SPL extension in PHP before 5.5.37 and 5.6.x before 5.6.23 allows remote attackers to cause a denial of service or possibly have unspecified other impact via a large integer argument, a related issue to CVE-2016-5096."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-1927",
+        "Summary": "In Apache HTTP Server 2.4.0 to 2.4.41, redirects configured with mod_rewrite that were intended to be self-referential might be fooled by encoded newlines and redirect instead to an an unexpected URL within the request URL."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8935",
+        "Summary": "The sapi_header_op function in main/SAPI.c in PHP before 5.4.38, 5.5.x before 5.5.22, and 5.6.x before 5.6.6 supports deprecated line folding without considering browser compatibility, which allows remote attackers to conduct cross-site scripting (XSS) attacks against Internet Explorer by leveraging (1) %0A%20 or (2) %0D%0A%20 mishandling in the header function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-20783",
+        "Summary": "In PHP before 5.6.39, 7.x before 7.0.33, 7.1.x before 7.1.25, and 7.2.x before 7.2.13, a buffer over-read in PHAR reading functions may allow an attacker to read allocated or unallocated memory past the actual data when trying to parse a .phar file. This is related to phar_parse_pharfile in ext/phar/phar.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4147",
+        "Summary": "The SoapClient::__call method in ext/soap/soap.c in PHP before 5.4.39, 5.5.x before 5.5.23, and 5.6.x before 5.6.7 does not verify that __default_headers is an array, which allows remote attackers to execute arbitrary code by providing crafted serialized data with an unexpected data type, related to a \"type confusion\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5766",
+        "Summary": "Integer overflow in the _gd2GetHeader function in gd_gd2.c in the GD Graphics Library (aka libgd) before 2.2.3, as used in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8, allows remote attackers to cause a denial of service (heap-based buffer overflow and application crash) or possibly have unspecified other impact via crafted chunk dimensions in an image."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3581",
+        "Summary": "The cache_merge_headers_out function in modules/cache/cache_util.c in the mod_cache module in the Apache HTTP Server before 2.4.11 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via an empty HTTP Content-Type header."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2348",
+        "Summary": "The move_uploaded_file implementation in ext/standard/basic_functions.c in PHP before 5.4.39, 5.5.x before 5.5.23, and 5.6.x before 5.6.7 truncates a pathname upon encountering a \\x00 character, which allows remote attackers to bypass intended extension restrictions and create files with unexpected names via a crafted second argument.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2006-7243."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2305",
+        "Summary": "Integer overflow in the regcomp implementation in the Henry Spencer BSD regex library (aka rxspencer) alpha3.8.g5 on 32-bit platforms, as used in NetBSD through 6.1.5 and other products, might allow context-dependent attackers to execute arbitrary code via a large regular expression that leads to a heap-based buffer overflow."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-3167",
+        "Summary": "In Apache httpd 2.2.x before 2.2.33 and 2.4.x before 2.4.26, use of the ap_get_basic_auth_pw() by third-party modules outside of the authentication phase may lead to authentication requirements being bypassed."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-0736",
+        "Summary": "In Apache HTTP Server versions 2.4.0 to 2.4.23, mod_session_crypto was encrypting its data/cookie using the configured ciphers with possibly either CBC or ECB modes of operation (AES256-CBC by default), hence no selectable or builtin authenticated encryption. This made it vulnerable to padding oracle attacks, particularly with CBC."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8838",
+        "Summary": "ext/mysqlnd/mysqlnd.c in PHP before 5.4.43, 5.5.x before 5.5.27, and 5.6.x before 5.6.11 uses a client SSL option to mean that SSL is optional, which allows man-in-the-middle attackers to spoof servers via a cleartext-downgrade attack, a related issue to CVE-2015-3152."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4073",
+        "Summary": "Multiple integer overflows in the mbfl_strcut function in ext/mbstring/libmbfl/mbfl/mbfilter.c in PHP before 5.5.34, 5.6.x before 5.6.20, and 7.x before 7.0.5 allow remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted mb_strcut call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4072",
+        "Summary": "The Phar extension in PHP before 5.5.34, 5.6.x before 5.6.20, and 7.x before 7.0.5 allows remote attackers to execute arbitrary code via a crafted filename, as demonstrated by mishandling of \\0 characters by the phar_analyze_path function in ext/phar/phar.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4071",
+        "Summary": "Format string vulnerability in the php_snmp_error function in ext/snmp/snmp.c in PHP before 5.5.34, 5.6.x before 5.6.20, and 7.x before 7.0.5 allows remote attackers to execute arbitrary code via format string specifiers in an SNMP::get call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4070",
+        "Summary": "Integer overflow in the php_raw_url_encode function in ext/standard/url.c in PHP before 5.5.34, 5.6.x before 5.6.20, and 7.x before 7.0.5 allows remote attackers to cause a denial of service (application crash) via a long string to the rawurlencode function. NOTE: the vendor says \"Not sure if this qualifies as security issue (probably not)."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-34798",
+        "Summary": "Malformed requests may cause the server to dereference a NULL pointer. This issue affects Apache HTTP Server 2.4.48 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4024",
+        "Summary": "Algorithmic complexity vulnerability in the multipart_buffer_headers function in main/rfc1867.c in PHP before 5.4.41, 5.5.x before 5.5.25, and 5.6.x before 5.6.9 allows remote attackers to cause a denial of service (CPU consumption) via crafted form data that triggers an improper order-of-growth outcome."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-44790",
+        "Summary": "A carefully crafted request body can cause a buffer overflow in the mod_lua multipart parser (r:parsebody() called from Lua scripts). The Apache httpd team is not aware of an exploit for the vulnerabilty though it might be possible to craft one. This issue affects Apache HTTP Server 2.4.51 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-14851",
+        "Summary": "exif_process_IFD_in_MAKERNOTE in ext/exif/exif.c in PHP before 5.6.37, 7.0.x before 7.0.31, 7.1.x before 7.1.20, and 7.2.x before 7.2.8 allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted JPEG file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3538",
+        "Summary": "file before 5.19 does not properly restrict the amount of data read during a regex search, which allows remote attackers to cause a denial of service (CPU consumption) via a crafted file that triggers backtracking during processing of an awk rule.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2013-7345."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-17199",
+        "Summary": "In Apache HTTP Server 2.4 release 2.4.37 and prior, mod_session checks the session expiry time before decoding the session. This causes session expiry time to be ignored for mod_session_cookie sessions since the expiry time is loaded when the session is decoded."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-0231",
+        "Summary": "Use-after-free vulnerability in the process_nested_data function in ext/standard/var_unserializer.re in PHP before 5.4.37, 5.5.x before 5.5.21, and 5.6.x before 5.6.5 allows remote attackers to execute arbitrary code via a crafted unserialize call that leverages improper handling of duplicate numerical keys within the serialized properties of an object.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2014-8142."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2301",
+        "Summary": "Use-after-free vulnerability in the phar_rename_archive function in phar_object.c in PHP before 5.5.22 and 5.6.x before 5.6.6 allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors that trigger an attempted renaming of a Phar archive to the name of an existing file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-10098",
+        "Summary": "In Apache HTTP server 2.4.0 to 2.4.39, Redirects configured with mod_rewrite that were intended to be self-referential might be fooled by encoded newlines and redirect instead to an unexpected URL within the request URL."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3185",
+        "Summary": "The ap_some_auth_required function in server/request.c in the Apache HTTP Server 2.4.x before 2.4.14 does not consider that a Require directive may be associated with an authorization setting rather than an authentication setting, which allows remote attackers to bypass intended access restrictions in opportunistic circumstances by leveraging the presence of a module that relies on the 2.2 API behavior."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0231",
+        "Summary": "The mod_cgid module in the Apache HTTP Server before 2.4.10 does not have a timeout mechanism, which allows remote attackers to cause a denial of service (process hang) via a request to a CGI script that does not read from its stdin file descriptor."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4975",
+        "Summary": "Possible CRLF injection allowing HTTP response splitting attacks for sites which use mod_userdir. This issue was mitigated by changes made in 2.4.25 and 2.2.32 which prohibit CR or LF injection into the \"Location\" or other outbound header key or value. Fixed in Apache HTTP Server 2.4.25 (Affected 2.4.1-2.4.23). Fixed in Apache HTTP Server 2.2.32 (Affected 2.2.0-2.2.31)."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-13938",
+        "Summary": "Apache HTTP Server versions 2.4.0 to 2.4.46 Unprivileged local users can stop httpd on Windows"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-8923",
+        "Summary": "The zend_string_extend function in Zend/zend_string.h in PHP through 7.1.5 does not prevent changes to string objects that result in a negative length, which allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact by leveraging a script's use of .= with a long string."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-4365",
+        "Summary": "Heap-based buffer overflow in the fcgid_header_bucket_read function in fcgid_bucket.c in the mod_fcgid module before 2.3.9 for the Apache HTTP Server allows remote attackers to have an unspecified impact via unknown vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-6501",
+        "Summary": "The default soap.wsdl_cache_dir setting in (1) php.ini-production and (2) php.ini-development in PHP through 5.6.7 specifies the /tmp directory, which makes it easier for local users to conduct WSDL injection attacks by creating a file under /tmp with a predictable filename that is used by the get_sdl function in ext/soap/php_sdl.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-1312",
+        "Summary": "In Apache httpd 2.2.0 to 2.4.29, when generating an HTTP Digest authentication challenge, the nonce sent to prevent reply attacks was not correctly generated using a pseudo-random seed. In a cluster of servers using a common Digest authentication configuration, HTTP requests could be replayed across servers by an attacker without detection."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-3074",
+        "Summary": "Integer signedness error in GD Graphics Library 2.1.1 (aka libgd or libgd2) allows remote attackers to cause a denial of service (crash) or potentially execute arbitrary code via crafted compressed gd2 data, which triggers a heap-based buffer overflow."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-2220",
+        "Summary": "Buffer overflow in the radius_get_vendor_attr function in the Radius extension before 1.2.7 for PHP allows remote attackers to cause a denial of service (crash) and possibly execute arbitrary code via a large Vendor Specific Attributes (VSA) length value."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-2497",
+        "Summary": "The gdImageCreateFromXpm function in gdxpm.c in libgd, as used in PHP 5.4.26 and earlier, allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted color table in an XPM file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3183",
+        "Summary": "The chunked transfer coding implementation in the Apache HTTP Server before 2.4.14 does not properly parse chunk headers, which allows remote attackers to conduct HTTP request smuggling attacks via a crafted request, related to mishandling of large chunk-size values and invalid chunk-extension characters in modules/http/http_filters.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-35452",
+        "Summary": "Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Digest nonce can cause a stack overflow in mod_auth_digest. There is no report of this overflow being exploitable, nor the Apache HTTP Server team could create one, though some particular compiler and/or compilation option might make it possible, with limited consequences anyway due to the size (a single byte) and the value (zero byte) of the overflow"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3487",
+        "Summary": "The cdf_read_property_info function in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, does not properly validate a stream offset, which allows remote attackers to cause a denial of service (application crash) via a crafted CDF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-22719",
+        "Summary": "A carefully crafted request body can cause a read to a random memory area which could cause the process to crash. This issue affects Apache HTTP Server 2.4.52 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-26691",
+        "Summary": "In Apache HTTP Server versions 2.4.0 to 2.4.46 a specially crafted SessionHeader sent by an origin server could cause a heap overflow"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9426",
+        "Summary": "The apprentice_load function in libmagic/apprentice.c in the Fileinfo component in PHP through 5.6.4 attempts to perform a free operation on a stack-based character array, which allows remote attackers to cause a denial of service (memory corruption or application crash) or possibly have unspecified other impact via unknown vectors.  NOTE: this is disputed by the vendor because the standard erealloc behavior makes the free operation unreachable"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-5712",
+        "Summary": "An issue was discovered in PHP before 5.6.33, 7.0.x before 7.0.27, 7.1.x before 7.1.13, and 7.2.x before 7.2.1. There is Reflected XSS on the PHAR 404 error page via the URI of a request for a .phar file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-31628",
+        "Summary": "In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the phar uncompressor code would recursively uncompress \"quines\" gzip files, resulting in an infinite loop."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-31629",
+        "Summary": "In PHP versions before 7.4.31, 8.0.24 and 8.1.11, the vulnerability enables network and same-site attackers to set a standard insecure cookie in the victim's browser which is treated as a `__Host-` or `__Secure-` cookie by PHP applications."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5768",
+        "Summary": "Double free vulnerability in the _php_mb_regex_ereg_replace_exec function in php_mbregex.c in the mbstring extension in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8 allows remote attackers to execute arbitrary code or cause a denial of service (application crash) by leveraging a callback exception."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5769",
+        "Summary": "Multiple integer overflows in mcrypt.c in the mcrypt extension in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8 allow remote attackers to cause a denial of service (heap-based buffer overflow and application crash) or possibly have unspecified other impact via a crafted length value, related to the (1) mcrypt_generic and (2) mdecrypt_generic functions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-9137",
+        "Summary": "Use-after-free vulnerability in the CURLFile implementation in ext/curl/curl_file.c in PHP before 5.6.27 and 7.x before 7.0.12 allows remote attackers to cause a denial of service or possibly have unspecified other impact via crafted serialized data that is mishandled during __wakeup processing."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-3185",
+        "Summary": "The make_http_soap_request function in ext/soap/php_http.c in PHP before 5.4.44, 5.5.x before 5.5.28, 5.6.x before 5.6.12, and 7.x before 7.0.4 allows remote attackers to obtain sensitive information from process memory or cause a denial of service (type confusion and application crash) via crafted serialized _cookies data, related to the SoapClient::__call method in ext/soap/soap.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-1934",
+        "Summary": "In Apache HTTP Server 2.4.0 to 2.4.41, mod_proxy_ftp may use uninitialized memory when proxying to a malicious FTP server."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2787",
+        "Summary": "Use-after-free vulnerability in the process_nested_data function in ext/standard/var_unserializer.re in PHP before 5.4.39, 5.5.x before 5.5.23, and 5.6.x before 5.6.7 allows remote attackers to execute arbitrary code via a crafted unserialize call that leverages use of the unset function within an __wakeup function, a related issue to CVE-2015-0231."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-36760",
+        "Summary": "Inconsistent Interpretation of HTTP Requests ('HTTP Request Smuggling') vulnerability in mod_proxy_ajp of Apache HTTP Server allows an attacker to smuggle requests to the AJP server it forwards requests to.  This issue affects Apache HTTP Server Apache HTTP Server 2.4 version 2.4.54 and prior versions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6831",
+        "Summary": "Multiple use-after-free vulnerabilities in SPL in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 allow remote attackers to execute arbitrary code via vectors involving (1) ArrayObject, (2) SplObjectStorage, and (3) SplDoublyLinkedList, which are mishandled during unserialization."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5116",
+        "Summary": "gd_xbm.c in the GD Graphics Library (aka libgd) before 2.2.0, as used in certain custom PHP 5.5.x configurations, allows context-dependent attackers to obtain sensitive information from process memory or cause a denial of service (stack-based buffer under-read and application crash) via a long name."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6833",
+        "Summary": "Directory traversal vulnerability in the PharData class in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 allows remote attackers to write to arbitrary files via a .. (dot dot) in a ZIP archive entry that is mishandled during an extractTo call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6834",
+        "Summary": "Multiple use-after-free vulnerabilities in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13 allow remote attackers to execute arbitrary code via vectors related to (1) the Serializable interface, (2) the SplObjectStorage class, and (3) the SplDoublyLinkedList class, which are mishandled during unserialization."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6835",
+        "Summary": "The session deserializer in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13 mishandles multiple php_var_unserialize calls, which allow remote attackers to execute arbitrary code or cause a denial of service (use-after-free) via crafted session content."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6836",
+        "Summary": "The SoapClient __call method in ext/soap/soap.c in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13 does not properly manage headers, which allows remote attackers to execute arbitrary code via crafted serialized data that triggers a \"type confusion\" in the serialize_function_call function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6837",
+        "Summary": "The xsl_ext_function_php function in ext/xsl/xsltprocessor.c in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13, when libxml2 before 2.9.2 is used, does not consider the possibility of a NULL valuePop return value before proceeding with a free operation during initial error checking, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted XML document, a different vulnerability than CVE-2015-6838."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-6838",
+        "Summary": "The xsl_ext_function_php function in ext/xsl/xsltprocessor.c in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13, when libxml2 before 2.9.2 is used, does not consider the possibility of a NULL valuePop return value before proceeding with a free operation after the principal argument loop, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted XML document, a different vulnerability than CVE-2015-6837."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-19520",
+        "Summary": "An issue was discovered in SDCMS 1.6 with PHP 5.x. app/admin/controller/themecontroller.php uses a check_bad function in an attempt to block certain PHP functions such as eval, but does not prevent use of preg_replace 'e' calls, allowing users to execute arbitrary code by leveraging access to admin template management."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-9934",
+        "Summary": "ext/wddx/wddx.c in PHP before 5.6.28 and 7.x before 7.0.13 allows remote attackers to cause a denial of service (NULL pointer dereference) via crafted serialized data in a wddxPacket XML document, as demonstrated by a PDORow string."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7478",
+        "Summary": "Zend/zend_exceptions.c in PHP, possibly 5.x before 5.6.28 and 7.x before 7.0.13, allows remote attackers to cause a denial of service (infinite loop) via a crafted Exception object in serialized data, a related issue to CVE-2015-8876."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-7890",
+        "Summary": "The GIF decoding function gdImageCreateFromGifCtx in gd_gif_in.c in the GD Graphics Library (aka libgd), as used in PHP before 5.6.31 and 7.x before 7.1.7, does not zero colorMap arrays before use. A specially crafted GIF image could use the uninitialized tables to read ~700 bytes from the top of the stack, potentially disclosing sensitive information."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11145",
+        "Summary": "In PHP before 5.6.31, 7.x before 7.0.21, and 7.1.x before 7.1.7, an error in the date extension's timelib_meridian parsing code could be used by attackers able to supply date strings to leak information from the interpreter, related to ext/date/lib/parse_date.c out-of-bounds reads affecting the php_parse_date function. NOTE: the correct fix is in the e8b7698f5ee757ce2c8bd10a192a491a498f891c commit, not the bd77ac90d3bdf31ce2a5251ad92e9e75 gist."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11144",
+        "Summary": "In PHP before 5.6.31, 7.x before 7.0.21, and 7.1.x before 7.1.7, the openssl extension PEM sealing code did not check the return value of the OpenSSL sealing function, which could lead to a crash of the PHP interpreter, related to an interpretation conflict for a negative number in ext/openssl/openssl.c, and an OpenSSL documentation omission."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11147",
+        "Summary": "In PHP before 5.6.30 and 7.x before 7.0.15, the PHAR archive handler could be used by attackers supplying malicious archive files to crash the PHP interpreter or potentially disclose information due to a buffer over-read in the phar_parse_pharfile function in ext/phar/phar.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3416",
+        "Summary": "The sqlite3VXPrintf function in printf.c in SQLite before 3.8.9 does not properly handle precision and width values during floating-point conversions, which allows context-dependent attackers to cause a denial of service (integer overflow and stack-based buffer overflow) or possibly have unspecified other impact via large integers in a crafted printf function call in a SELECT statement."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-0217",
+        "Summary": "In Apache HTTP Server 2.4 release 2.4.38 and prior, a race condition in mod_auth_digest when running in a threaded server could allow a user with valid credentials to authenticate using another username, bypassing configured access control restrictions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3411",
+        "Summary": "PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 does not ensure that pathnames lack %00 sequences, which might allow remote attackers to read or write to arbitrary files via crafted input to an application that calls (1) a DOMDocument load method, (2) the xmlwriter_open_uri function, (3) the finfo_file function, or (4) the hash_hmac_file function, as demonstrated by a filename\\0.xml attack that bypasses an intended configuration in which client users may read only .xml files."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0207",
+        "Summary": "The cdf_read_short_sector function in cdf.c in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, allows remote attackers to cause a denial of service (assertion failure and application exit) via a crafted CDF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-17082",
+        "Summary": "The Apache2 component in PHP before 5.6.38, 7.0.x before 7.0.32, 7.1.x before 7.1.22, and 7.2.x before 7.2.10 allows XSS via the body of a \"Transfer-Encoding: chunked\" request, because the bucket brigade is mishandled in the php_handler function in sapi/apache2handler/sapi_apache2.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-5704",
+        "Summary": "The mod_headers module in the Apache HTTP Server 2.2.22 allows remote attackers to bypass \"RequestHeader unset\" directives by placing a header in the trailer portion of data sent with chunked transfer coding.  NOTE: the vendor states \"this is not a security issue in httpd as such.\""
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9639",
+        "Summary": "An issue was discovered in the EXIF component in PHP before 7.1.27, 7.2.x before 7.2.16, and 7.3.x before 7.3.3. There is an uninitialized read in exif_process_IFD_in_MAKERNOTE because of mishandling the data_len variable."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9638",
+        "Summary": "An issue was discovered in the EXIF component in PHP before 7.1.27, 7.2.x before 7.2.16, and 7.3.x before 7.3.3. There is an uninitialized read in exif_process_IFD_in_MAKERNOTE because of mishandling the maker_note->offset relationship to value_len."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-17567",
+        "Summary": "Apache HTTP Server versions 2.4.6 to 2.4.46 mod_proxy_wstunnel configured on an URL that is not necessarily Upgraded by the origin server was tunneling the whole connection regardless, thus allowing for subsequent requests on the same connection to pass through with no HTTP validation, authentication or authorization possibly configured."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-31813",
+        "Summary": "Apache HTTP Server 2.4.53 and earlier may not send the X-Forwarded-* headers to the origin server based on client side Connection header hop-by-hop mechanism. This may be used to bypass IP based authentication on the origin server/application."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-1903",
+        "Summary": "The gdImageRotateInterpolated function in ext/gd/libgd/gd_interpolation.c in PHP before 5.5.31, 5.6.x before 5.6.17, and 7.x before 7.0.2 allows remote attackers to obtain sensitive information or cause a denial of service (out-of-bounds read and application crash) via a large bgd_color argument to the imagerotate function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-7456",
+        "Summary": "gd_interpolation.c in the GD Graphics Library (aka libgd) before 2.1.1, as used in PHP before 5.5.36, 5.6.x before 5.6.22, and 7.x before 7.0.7, allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via a crafted image that is mishandled by the imagescale function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-0273",
+        "Summary": "Multiple use-after-free vulnerabilities in ext/date/php_date.c in PHP before 5.4.38, 5.5.x before 5.5.22, and 5.6.x before 5.6.6 allow remote attackers to execute arbitrary code via crafted serialized input containing a (1) R or (2) r type specifier in (a) DateTimeZone data handled by the php_date_timezone_initialize_from_hash function or (b) DateTime data handled by the php_date_initialize_from_hash function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9637",
+        "Summary": "An issue was discovered in PHP before 7.1.27, 7.2.x before 7.2.16, and 7.3.x before 7.3.3. Due to the way rename() across filesystems is implemented, it is possible that file being renamed is briefly available with wrong permissions while the rename is ongoing, thus enabling unauthorized users to access the data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6289",
+        "Summary": "Integer overflow in the virtual_file_ex function in TSRM/tsrm_virtual_cwd.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 allows remote attackers to cause a denial of service (stack-based buffer overflow) or possibly have unspecified other impact via a crafted extract operation on a ZIP archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2012-4360",
+        "Summary": "Cross-site scripting (XSS) vulnerability in the mod_pagespeed module 0.10.19.1 through 0.10.22.4 for the Apache HTTP Server allows remote attackers to inject arbitrary web script or HTML via unspecified vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4602",
+        "Summary": "The __PHP_Incomplete_Class function in ext/standard/incomplete_class.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via an unexpected data type, related to a \"type confusion\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-8743",
+        "Summary": "Apache HTTP Server, in all releases prior to 2.2.32 and 2.4.25, was liberal in the whitespace accepted from requests and sent in response lines and headers. Accepting these different behaviors represented a security concern when httpd participates in any chain of proxies or interacts with back-end application servers, either through mod_proxy or using conventional CGI mechanisms, and may result in request smuggling, response splitting and cache pollution."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-12868",
+        "Summary": "The secureCompare method in lib/SimpleSAML/Utils/Crypto.php in SimpleSAMLphp 1.14.13 and earlier, when used with PHP before 5.6, allows attackers to conduct session fixation attacks or possibly bypass authentication by leveraging missing character conversions before an XOR operation."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4601",
+        "Summary": "PHP before 5.6.7 might allow remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via an unexpected data type, related to \"type confusion\" issues in (1) ext/soap/php_encoding.c, (2) ext/soap/php_http.c, and (3) ext/soap/soap.c, a different issue than CVE-2015-4600."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4600",
+        "Summary": "The SoapClient implementation in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via an unexpected data type, related to \"type confusion\" issues in the (1) SoapClient::__getLastRequest, (2) SoapClient::__getLastResponse, (3) SoapClient::__getLastRequestHeaders, (4) SoapClient::__getLastResponseHeaders, (5) SoapClient::__getCookies, and (6) SoapClient::__setCookie methods."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4603",
+        "Summary": "The exception::getTraceAsString function in Zend/zend_exceptions.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to execute arbitrary code via an unexpected data type, related to a \"type confusion\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-14883",
+        "Summary": "An issue was discovered in PHP before 5.6.37, 7.0.x before 7.0.31, 7.1.x before 7.1.20, and 7.2.x before 7.2.8. An Integer Overflow leads to a heap-based buffer over-read in exif_thumbnail_extract of exif.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4605",
+        "Summary": "The mcopy function in softmagic.c in file 5.x, as used in the Fileinfo component in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8, does not properly restrict a certain offset value, which allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted string that is mishandled by a \"Python script text executable\" rule."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4604",
+        "Summary": "The mget function in softmagic.c in file 5.x, as used in the Fileinfo component in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8, does not properly maintain a certain pointer relationship, which allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted string that is mishandled by a \"Python script text executable\" rule."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-9788",
+        "Summary": "In Apache httpd before 2.2.34 and 2.4.x before 2.4.27, the value placeholder in [Proxy-]Authorization headers of type 'Digest' was not initialized or reset before or between successive key=value assignments by mod_auth_digest. Providing an initial key with no '=' assignment could reflect the stale value of uninitialized pool memory used by the prior request, leading to leakage of potentially confidential information, and a segfault in other cases resulting in denial of service."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3597",
+        "Summary": "Multiple buffer overflows in the php_parserr function in ext/standard/dns.c in PHP before 5.4.32 and 5.5.x before 5.5.16 allow remote DNS servers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted DNS record, related to the dns_get_record function and the dn_expand function.  NOTE: this issue exists because of an incomplete fix for CVE-2014-4049."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-4670",
+        "Summary": "Use-after-free vulnerability in ext/spl/spl_dllist.c in the SPL component in PHP through 5.5.14 allows context-dependent attackers to cause a denial of service or possibly have unspecified other impact via crafted iterator usage within applications in certain web-hosting environments."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-29404",
+        "Summary": "In Apache HTTP Server 2.4.53 and earlier, a malicious request to a lua script that calls r:parsebody(0) may cause a denial of service due to no default limit on possible input size."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9912",
+        "Summary": "The get_icu_disp_value_src_php function in ext/intl/locale/locale_methods.c in PHP before 5.3.29, 5.4.x before 5.4.30, and 5.5.x before 5.5.14 does not properly restrict calls to the ICU uresbund.cpp component, which allows remote attackers to cause a denial of service (buffer overflow) or possibly have unspecified other impact via a locale_get_display_name call with a long first argument."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0237",
+        "Summary": "The cdf_unpack_summary_info function in cdf.c in the Fileinfo component in PHP before 5.4.29 and 5.5.x before 5.5.13 allows remote attackers to cause a denial of service (performance degradation) by triggering many file_printf calls."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5093",
+        "Summary": "The get_icu_value_internal function in ext/intl/locale/locale_methods.c in PHP before 5.5.36, 5.6.x before 5.6.22, and 7.x before 7.0.7 does not ensure the presence of a '\\0' character, which allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via a crafted locale_get_primary_language call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-4049",
+        "Summary": "Heap-based buffer overflow in the php_parserr function in ext/standard/dns.c in PHP 5.6.0beta4 and earlier allows remote servers to cause a denial of service (crash) and possibly execute arbitrary code via a crafted DNS TXT record, related to the dns_get_record function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8394",
+        "Summary": "PCRE before 8.38 mishandles the (?(<digits>) and (?(R<digits>) conditions, which allows remote attackers to cause a denial of service (integer overflow) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5096",
+        "Summary": "Integer overflow in the fread function in ext/standard/file.c in PHP before 5.5.36 and 5.6.x before 5.6.22 allows remote attackers to cause a denial of service or possibly have unspecified other impact via a large integer in the second argument."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9653",
+        "Summary": "readelf.c in file before 5.22, as used in the Fileinfo component in PHP before 5.4.37, 5.5.x before 5.5.21, and 5.6.x before 5.6.5, does not consider that pread calls sometimes read only a subset of the available data, which allows remote attackers to cause a denial of service (uninitialized memory access) or possibly have unspecified other impact via a crafted ELF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5094",
+        "Summary": "Integer overflow in the php_html_entities function in ext/standard/html.c in PHP before 5.5.36 and 5.6.x before 5.6.22 allows remote attackers to cause a denial of service or possibly have unspecified other impact by triggering a large output string from the htmlspecialchars function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5095",
+        "Summary": "Integer overflow in the php_escape_html_entities_ex function in ext/standard/html.c in PHP before 5.5.36 and 5.6.x before 5.6.22 allows remote attackers to cause a denial of service or possibly have unspecified other impact by triggering a large output string from a FILTER_SANITIZE_FULL_SPECIAL_CHARS filter_var call.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2016-5094."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4543",
+        "Summary": "The exif_process_IFD_in_JPEG function in ext/exif/exif.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 does not validate IFD sizes, which allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via crafted header data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4542",
+        "Summary": "The exif_process_IFD_TAG function in ext/exif/exif.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 does not properly construct spprintf arguments, which allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via crafted header data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4541",
+        "Summary": "The grapheme_strpos function in ext/intl/grapheme/grapheme_string.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via a negative offset."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4540",
+        "Summary": "The grapheme_stripos function in ext/intl/grapheme/grapheme_string.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via a negative offset."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-7963",
+        "Summary": "The GNU Multiple Precision Arithmetic Library (GMP) interfaces for PHP through 7.1.4 allow attackers to cause a denial of service (memory consumption and application crash) via operations on long strings. NOTE: the vendor disputes this, stating \"There is no security issue here, because GMP safely aborts in case of an OOM condition. The only attack vector here is denial of service. However, if you allow attacker-controlled, unbounded allocations you have a DoS vector regardless of GMP's OOM behavior."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3515",
+        "Summary": "The SPL component in PHP before 5.4.30 and 5.5.x before 5.5.14 incorrectly anticipates that certain data structures will have the array data type after unserialization, which allows remote attackers to execute arbitrary code via a crafted string that triggers use of a Hashtable destructor, related to \"type confusion\" issues in (1) ArrayObject and (2) SPLObjectStorage."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4544",
+        "Summary": "The exif_process_TIFF_in_JPEG function in ext/exif/exif.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 does not validate TIFF start data, which allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via crafted header data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5399",
+        "Summary": "The bzread function in ext/bz2/bz2.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 allows remote attackers to cause a denial of service (out-of-bounds write) or execute arbitrary code via a crafted bz2 archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9023",
+        "Summary": "An issue was discovered in PHP before 5.6.40, 7.x before 7.1.26, 7.2.x before 7.2.14, and 7.3.x before 7.3.1. A number of heap-based buffer over-read instances are present in mbstring regular expression functions when supplied with invalid multibyte data. These occur in ext/mbstring/oniguruma/regcomp.c, ext/mbstring/oniguruma/regexec.c, ext/mbstring/oniguruma/regparse.c, ext/mbstring/oniguruma/enc/unicode.c, and ext/mbstring/oniguruma/src/utf32_be.c when a multibyte regular expression pattern contains invalid multibyte sequences."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9020",
+        "Summary": "An issue was discovered in PHP before 5.6.40, 7.x before 7.1.26, 7.2.x before 7.2.14, and 7.3.x before 7.3.1. Invalid input to the function xmlrpc_decode() can lead to an invalid memory access (heap out of bounds read or read after free). This is related to xml_elem_parse_buf in ext/xmlrpc/libxmlrpc/xml_element.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9021",
+        "Summary": "An issue was discovered in PHP before 5.6.40, 7.x before 7.1.26, 7.2.x before 7.2.14, and 7.3.x before 7.3.1. A heap-based buffer over-read in PHAR reading functions in the PHAR extension may allow an attacker to read allocated or unallocated memory past the actual data when trying to parse the file name, a different vulnerability than CVE-2018-20783. This is related to phar_detect_phar_fname_ext in ext/phar/phar.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9024",
+        "Summary": "An issue was discovered in PHP before 5.6.40, 7.x before 7.1.26, 7.2.x before 7.2.14, and 7.3.x before 7.3.1. xmlrpc_decode() can allow a hostile XMLRPC server to cause PHP to read memory outside of allocated areas in base64_decode_xmlrpc in ext/xmlrpc/libxmlrpc/base64.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8389",
+        "Summary": "PCRE before 8.38 mishandles the /(?:|a|){100}x/ pattern and related patterns, which allows remote attackers to cause a denial of service (infinite recursion) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-7345",
+        "Summary": "The BEGIN regular expression in the awk script detector in magic/Magdir/commands in file before 5.15 uses multiple wildcards with unlimited repetitions, which allows context-dependent attackers to cause a denial of service (CPU consumption) via a crafted ASCII file that triggers a large amount of backtracking, as demonstrated via a file with many newline characters."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-39275",
+        "Summary": "ap_escape_quotes() may write beyond the end of a buffer when given malicious input. No included modules pass untrusted data to these functions, but third-party / external modules may. This issue affects Apache HTTP Server 2.4.48 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6291",
+        "Summary": "The exif_process_IFD_in_MAKERNOTE function in ext/exif/exif.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 allows remote attackers to cause a denial of service (out-of-bounds array access and memory corruption), obtain sensitive information from process memory, or possibly have unspecified other impact via a crafted JPEG image."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6290",
+        "Summary": "ext/session/session.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 does not properly maintain a certain hash data structure, which allows remote attackers to cause a denial of service (use-after-free) or possibly have unspecified other impact via vectors related to session deserialization."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6292",
+        "Summary": "The exif_process_user_comment function in ext/exif/exif.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted JPEG image."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6295",
+        "Summary": "ext/snmp/snmp.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 improperly interacts with the unserialize implementation and garbage collection, which allows remote attackers to cause a denial of service (use-after-free and application crash) or possibly have unspecified other impact via crafted serialized data, a related issue to CVE-2016-5773."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6294",
+        "Summary": "The locale_accept_from_http function in ext/intl/locale/locale_methods.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 does not properly restrict calls to the ICU uloc_acceptLanguageFromHTTP function, which allows remote attackers to cause a denial of service (out-of-bounds read) or possibly have unspecified other impact via a call with a long argument."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6297",
+        "Summary": "Integer overflow in the php_stream_zip_opener function in ext/zip/zip_stream.c in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9 allows remote attackers to cause a denial of service (stack-based buffer overflow) or possibly have unspecified other impact via a crafted zip:// URL."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6296",
+        "Summary": "Integer signedness error in the simplestring_addn function in simplestring.c in xmlrpc-epi through 0.54.2, as used in PHP before 5.5.38, 5.6.x before 5.6.24, and 7.x before 7.0.9, allows remote attackers to cause a denial of service (heap-based buffer overflow) or possibly have unspecified other impact via a long first argument to the PHP xmlrpc_encode_request function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-5120",
+        "Summary": "gd_ctx.c in the GD component in PHP 5.4.x before 5.4.32 and 5.5.x before 5.5.16 does not ensure that pathnames lack %00 sequences, which might allow remote attackers to overwrite arbitrary files via crafted input to an application that calls the (1) imagegd, (2) imagegd2, (3) imagegif, (4) imagejpeg, (5) imagepng, (6) imagewbmp, or (7) imagewebp function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4642",
+        "Summary": "The escapeshellarg function in ext/standard/exec.c in PHP before 5.4.42, 5.5.x before 5.5.26, and 5.6.x before 5.6.10 on Windows allows remote attackers to execute arbitrary OS commands via a crafted string to an application that accepts command-line arguments for a call to the PHP system function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-1351",
+        "Summary": "Use-after-free vulnerability in the _zend_shared_memdup function in zend_shared_alloc.c in the OPcache extension in PHP through 5.6.7 allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-1352",
+        "Summary": "The build_tablename function in pgsql.c in the PostgreSQL (aka pgsql) extension in PHP through 5.6.7 does not validate token extraction for table names, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted name."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-0941",
+        "Summary": "EMC RSA Authentication API before 8.1 SP1, RSA Web Agent before 5.3.5 for Apache Web Server, RSA Web Agent before 5.3.5 for IIS, RSA PAM Agent before 7.0, and RSA Agent before 6.1.4 for Microsoft Windows use an improper encryption algorithm and a weak key for maintaining the stored data of the node secret for the SecurID Authentication API, which allows local users to obtain sensitive information via cryptographic attacks on this data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4116",
+        "Summary": "Use-after-free vulnerability in the spl_ptr_heap_insert function in ext/spl/spl_heap.c in PHP before 5.5.27 and 5.6.x before 5.6.11 allows remote attackers to execute arbitrary code by triggering a failed SplMinHeap::compare operation."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8865",
+        "Summary": "The file_check_mem function in funcs.c in file before 5.23, as used in the Fileinfo component in PHP before 5.5.34, 5.6.x before 5.6.20, and 7.x before 7.0.5, mishandles continuation-level jumps, which allows context-dependent attackers to cause a denial of service (buffer overflow and application crash) or possibly execute arbitrary code via a crafted magic file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9705",
+        "Summary": "Heap-based buffer overflow in the enchant_broker_request_dict function in ext/enchant/enchant.c in PHP before 5.4.38, 5.5.x before 5.5.22, and 5.6.x before 5.6.6 allows remote attackers to execute arbitrary code via vectors that trigger creation of multiple dictionaries."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8867",
+        "Summary": "The openssl_random_pseudo_bytes function in ext/openssl/openssl.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 incorrectly relies on the deprecated RAND_pseudo_bytes function, which makes it easier for remote attackers to defeat cryptographic protection mechanisms via unspecified vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8866",
+        "Summary": "ext/libxml/libxml.c in PHP before 5.5.22 and 5.6.x before 5.6.6, when PHP-FPM is used, does not isolate each thread from libxml_disable_entity_loader changes in other threads, which allows remote attackers to conduct XML External Entity (XXE) and XML Entity Expansion (XEE) attacks via a crafted XML document, a related issue to CVE-2015-5161."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-10712",
+        "Summary": "In PHP before 5.5.32, 5.6.x before 5.6.18, and 7.x before 7.0.3, all of the return values of stream_get_meta_data can be controlled if the input can be controlled (e.g., during file uploads). For example, a \"$uri = stream_get_meta_data(fopen($file, \"r\"))['uri']\" call mishandles the case where $file is data:text/plain;uri=eviluri, -- in other words, metadata can be set by an attacker."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9709",
+        "Summary": "The GetCode_ function in gd_gif_in.c in GD 2.1.1 and earlier, as used in PHP before 5.5.21 and 5.6.x before 5.6.5, allows remote attackers to cause a denial of service (buffer over-read and application crash) via a crafted GIF image that is improperly handled by the gdImageCreateFromGif function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-22720",
+        "Summary": "Apache HTTP Server 2.4.52 and earlier fails to close inbound connection when errors are encountered discarding the request body, exposing the server to HTTP Request Smuggling"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-5589",
+        "Summary": "The phar_convert_to_other function in ext/phar/phar_object.c in PHP before 5.4.43, 5.5.x before 5.5.27, and 5.6.x before 5.6.11 does not validate a file pointer before a close operation, which allows remote attackers to cause a denial of service (segmentation fault) or possibly have unspecified other impact via a crafted TAR archive that is mishandled in a Phar::convertToData call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2007-3205",
+        "Summary": "The parse_str function in (1) PHP, (2) Hardened-PHP, and (3) Suhosin, when called without a second parameter, might allow remote attackers to overwrite arbitrary variables by specifying variable names and values in the string to be parsed.  NOTE: it is not clear whether this is a design limitation of the function or a bug in PHP, although it is likely to be regarded as a bug in Hardened-PHP and Suhosin."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-9138",
+        "Summary": "PHP through 5.6.27 and 7.x through 7.0.12 mishandles property modification during __wakeup processing, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via crafted serialized data, as demonstrated by Exception::__toString with DateInterval::__wakeup."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-7584",
+        "Summary": "In PHP through 5.6.33, 7.0.x before 7.0.28, 7.1.x through 7.1.14, and 7.2.x through 7.2.2, there is a stack-based buffer under-read while parsing an HTTP response in the php_stream_url_wrap_http_ex function in ext/standard/http_fopen_wrapper.c. This subsequently results in copying a large string."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-10397",
+        "Summary": "In PHP before 5.6.28 and 7.x before 7.0.13, incorrect handling of various URI components in the URL parser could be used by attackers to bypass hostname-specific URL checks, as demonstrated by evil.example.com:80#@good.example.com/ and evil.example.com:80?@good.example.com/ inputs to the parse_url function (implemented in the php_url_parse_ex function in ext/standard/url.c)."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8383",
+        "Summary": "PCRE before 8.38 mishandles certain repeated conditional groups, which allows remote attackers to cause a denial of service (buffer overflow) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3669",
+        "Summary": "Integer overflow in the object_custom function in ext/standard/var_unserializer.c in PHP before 5.4.34, 5.5.x before 5.5.18, and 5.6.x before 5.6.2 allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via an argument to the unserialize function that triggers calculation of a large length value."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-5711",
+        "Summary": "gd_gif_in.c in the GD Graphics Library (aka libgd), as used in PHP before 5.6.33, 7.0.x before 7.0.27, 7.1.x before 7.1.13, and 7.2.x before 7.2.1, has an integer signedness error that leads to an infinite loop via a crafted GIF file, as demonstrated by a call to the imagecreatefromgif or imagecreatefromstring PHP function. This is related to GetCode_ and gdImageCreateFromGifCtx."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8386",
+        "Summary": "PCRE before 8.38 mishandles the interaction of lookbehind assertions and mutually recursive subpatterns, which allows remote attackers to cause a denial of service (buffer overflow) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11143",
+        "Summary": "In PHP before 5.6.31, an invalid free in the WDDX deserialization of boolean parameters could be used by attackers able to inject XML for deserialization to crash the PHP interpreter, related to an invalid free for an empty boolean element in ext/wddx/wddx.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-10161",
+        "Summary": "The object_common1 function in ext/standard/var_unserializer.c in PHP before 5.6.30, 7.0.x before 7.0.15, and 7.1.x before 7.1.1 allows remote attackers to cause a denial of service (buffer over-read and application crash) via crafted serialized data that is mishandled in a finish_nested_data call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3412",
+        "Summary": "PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 does not ensure that pathnames lack %00 sequences, which might allow remote attackers to read arbitrary files via crafted input to an application that calls the stream_resolve_include_path function in ext/standard/streamsfuncs.c, as demonstrated by a filename\\0.extension attack that bypasses an intended configuration in which client users may read files with only one specific extension."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5767",
+        "Summary": "Integer overflow in the gdImageCreate function in gd.c in the GD Graphics Library (aka libgd) before 2.0.34RC1, as used in PHP before 5.5.37, 5.6.x before 5.6.23, and 7.x before 7.0.8, allows remote attackers to cause a denial of service (heap-based buffer overflow and application crash) or possibly have unspecified other impact via a crafted image dimensions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-10092",
+        "Summary": "In Apache HTTP Server 2.4.0-2.4.39, a limited cross-site scripting issue was reported affecting the mod_proxy error page. An attacker could cause the link on the error page to be malformed and instead point to a page of their choice. This would only be exploitable where a server was set up with proxying enabled but was misconfigured in such a way that the Proxy Error page was displayed."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-22721",
+        "Summary": "If LimitXMLRequestBody is set to allow request bodies larger than 350MB (defaults to 1M) on 32 bit systems an integer overflow happens which later causes out of bounds writes. This issue affects Apache HTTP Server 2.4.52 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2006-20001",
+        "Summary": "A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash.\n\nThis issue affects Apache HTTP Server 2.4.54 and earlier.\n"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4599",
+        "Summary": "The SoapFault::__toString method in ext/soap/soap.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to obtain sensitive information, cause a denial of service (application crash), or possibly execute arbitrary code via an unexpected data type, related to a \"type confusion\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4598",
+        "Summary": "PHP before 5.4.42, 5.5.x before 5.5.26, and 5.6.x before 5.6.10 does not ensure that pathnames lack %00 sequences, which might allow remote attackers to read or write to arbitrary files via crafted input to an application that calls (1) a DOMDocument save method or (2) the GD imagepsloadfont function, as demonstrated by a filename\\0.html attack that bypasses an intended configuration in which client users may write to only .html files."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-7679",
+        "Summary": "In Apache httpd 2.2.x before 2.2.33 and 2.4.x before 2.4.26, mod_mime can read one byte past the end of a buffer when sending a malicious Content-Type response header."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9652",
+        "Summary": "The mconvert function in softmagic.c in file before 5.21, as used in the Fileinfo component in PHP before 5.4.37, 5.5.x before 5.5.21, and 5.6.x before 5.6.5, does not properly handle a certain string-length field during a copy of a truncated version of a Pascal string, which might allow remote attackers to cause a denial of service (out-of-bounds memory access and application crash) via a crafted file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2783",
+        "Summary": "ext/phar/phar.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to obtain sensitive information from process memory or cause a denial of service (buffer over-read and application crash) via a crafted length value in conjunction with crafted serialized data in a phar archive, related to the phar_parse_metadata and phar_parse_pharfile functions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-9253",
+        "Summary": "An issue was discovered in PHP 7.3.x before 7.3.0alpha3, 7.2.x before 7.2.8, and before 7.1.20. The php-fpm master process restarts a child process in an endless loop when using program execution functions (e.g., passthru, exec, shell_exec, or system) with a non-blocking STDIN stream, causing this master process to consume 100% of the CPU, and consume disk space with a large volume of error logs, as demonstrated by an attack by a customer of a shared-hosting facility."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3981",
+        "Summary": "acinclude.m4, as used in the configure script in PHP 5.5.13 and earlier, allows local users to overwrite arbitrary files via a symlink attack on the /tmp/phpglibccheck file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-9226",
+        "Summary": "An issue was discovered in Oniguruma 6.2.0, as used in Oniguruma-mod in Ruby through 2.4.1 and mbstring in PHP through 7.1.5. A heap out-of-bounds write or read occurs in next_state_val() during regular expression compilation. Octal numbers larger than 0xff are not handled correctly in fetch_token() and fetch_token_in_cc(). A malformed regular expression containing an octal number in the form of '\\700' would produce an invalid code point value larger than 0xff in next_state_val(), resulting in an out-of-bounds write memory corruption."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5387",
+        "Summary": "The Apache HTTP Server through 2.4.23 follows RFC 3875 section 4.1.18 and therefore does not protect applications from the presence of untrusted client data in the HTTP_PROXY environment variable, which might allow remote attackers to redirect an application's outbound HTTP traffic to an arbitrary proxy server via a crafted Proxy header in an HTTP request, aka an \"httpoxy\" issue.  NOTE: the vendor states \"This mitigation has been assigned the identifier CVE-2016-5387\"; in other words, this is not a CVE ID for a vulnerability."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-9224",
+        "Summary": "An issue was discovered in Oniguruma 6.2.0, as used in Oniguruma-mod in Ruby through 2.4.1 and mbstring in PHP through 7.1.5. A stack out-of-bounds read occurs in match_at() during regular expression searching. A logical error involving order of validation and access in match_at() could result in an out-of-bounds read from a stack buffer."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5385",
+        "Summary": "PHP through 7.0.8 does not attempt to address RFC 3875 section 4.1.18 namespace conflicts and therefore does not protect applications from the presence of untrusted client data in the HTTP_PROXY environment variable, which might allow remote attackers to redirect an application's outbound HTTP traffic to an arbitrary proxy server via a crafted Proxy header in an HTTP request, as demonstrated by (1) an application that makes a getenv('HTTP_PROXY') call or (2) a CGI configuration of PHP, aka an \"httpoxy\" issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-40438",
+        "Summary": "A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2011-1176",
+        "Summary": "The configuration merger in itk.c in the Steinar H. Gunderson mpm-itk Multi-Processing Module 2.2.11-01 and 2.2.11-02 for the Apache HTTP Server does not properly handle certain configuration sections that specify NiceValue but not AssignUserID, which might allow remote attackers to gain privileges by leveraging the root uid and root gid of an mpm-itk process."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-5590",
+        "Summary": "Stack-based buffer overflow in the phar_fix_filepath function in ext/phar/phar.c in PHP before 5.4.43, 5.5.x before 5.5.27, and 5.6.x before 5.6.11 allows remote attackers to cause a denial of service or possibly have unspecified other impact via a large length value, as demonstrated by mishandling of an e-mail attachment by the imap PHP extension."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0236",
+        "Summary": "file before 5.18, as used in the Fileinfo component in PHP before 5.6.0, allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a zero root_storage value in a CDF file, related to cdf.c and readcdf.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7132",
+        "Summary": "ext/wddx/wddx.c in PHP before 5.6.25 and 7.x before 7.0.10 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) or possibly have unspecified other impact via an invalid wddxPacket XML document that is mishandled in a wddx_deserialize call, as demonstrated by a stray element inside a boolean element, leading to incorrect pop processing."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7131",
+        "Summary": "ext/wddx/wddx.c in PHP before 5.6.25 and 7.x before 7.0.10 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) or possibly have unspecified other impact via a malformed wddxPacket XML document that is mishandled in a wddx_deserialize call, as demonstrated by a tag that lacks a < (less than) character."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7130",
+        "Summary": "The php_wddx_pop_element function in ext/wddx/wddx.c in PHP before 5.6.25 and 7.x before 7.0.10 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) or possibly have unspecified other impact via an invalid base64 binary value, as demonstrated by a wddx_deserialize call that mishandles a binary element in a wddxPacket XML document."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-15715",
+        "Summary": "In Apache httpd 2.4.0 to 2.4.29, the expression specified in <FilesMatch> could match '$' to a newline character in a malicious filename, rather than matching only the end of the filename. This could be exploited in environments where uploads of some files are are externally blocked, but only by matching the trailing portion of the filename."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-23943",
+        "Summary": "Out-of-bounds Write vulnerability in mod_sed of Apache HTTP Server allows an attacker to overwrite heap memory with possibly attacker provided data. This issue affects Apache HTTP Server 2.4 version 2.4.52 and prior versions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-6977",
+        "Summary": "gdImageColorMatch in gd_color_match.c in the GD Graphics Library (aka LibGD) 2.2.5, as used in the imagecolormatch function in PHP before 5.6.40, 7.x before 7.1.26, 7.2.x before 7.2.14, and 7.3.x before 7.3.1, has a heap-based buffer overflow. This can be exploited by an attacker who is able to trigger imagecolormatch calls with crafted image data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-15710",
+        "Summary": "In Apache httpd 2.0.23 to 2.0.65, 2.2.0 to 2.2.34, and 2.4.0 to 2.4.29, mod_authnz_ldap, if configured with AuthLDAPCharsetConfig, uses the Accept-Language header value to lookup the right charset encoding when verifying the user's credentials. If the header value is not present in the charset conversion table, a fallback mechanism is used to truncate it to a two characters value to allow a quick retry (for example, 'en-US' is truncated to 'en'). A header value of less than two characters forces an out of bound write of one NUL byte to a memory location that is not part of the string. In the worst case, quite unlikely, the process would crash which could be used as a Denial of Service attack. In the more likely case, this memory is already reserved for future use and the issue has no effect at all."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3478",
+        "Summary": "Buffer overflow in the mconvert function in softmagic.c in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, allows remote attackers to cause a denial of service (application crash) via a crafted Pascal string in a FILE_PSTRING conversion."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8873",
+        "Summary": "Stack consumption vulnerability in Zend/zend_exceptions.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 allows remote attackers to cause a denial of service (segmentation fault) via recursive method calls."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-1302",
+        "Summary": "When an HTTP/2 stream was destroyed after being handled, the Apache HTTP Server prior to version 2.4.30 could have written a NULL pointer potentially to an already freed memory. The memory pools maintained by the server make this vulnerability hard to trigger in usual configurations, the reporter and the team could not reproduce it outside debug builds, so it is classified as low risk."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-1303",
+        "Summary": "A specially crafted HTTP request header could have crashed the Apache HTTP Server prior to version 2.4.30 due to an out of bound read while preparing data to be cached in shared memory. It could be used as a Denial of Service attack against users of mod_cache_socache. The vulnerability is considered as low risk since mod_cache_socache is not widely used, mod_cache_disk is not concerned by this vulnerability."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8876",
+        "Summary": "Zend/zend_exceptions.c in PHP before 5.4.44, 5.5.x before 5.5.28, and 5.6.x before 5.6.12 does not validate certain Exception objects, which allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) or trigger unintended method execution via crafted serialized data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8877",
+        "Summary": "The gdImageScaleTwoPass function in gd_interpolation.c in the GD Graphics Library (aka libgd) before 2.2.0, as used in PHP before 5.6.12, uses inconsistent allocate and free approaches, which allows remote attackers to cause a denial of service (memory consumption) via a crafted call, as demonstrated by a call to the PHP imagescale function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8874",
+        "Summary": "Stack consumption vulnerability in GD in PHP before 5.6.12 allows remote attackers to cause a denial of service via a crafted imagefilltoborder call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2023-25690",
+        "Summary": "Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.\n\n\n\n\nConfigurations are affected when mod_proxy is enabled along with some form of RewriteRule\n or ProxyPassMatch in which a non-specific pattern matches\n some portion of the user-supplied request-target (URL) data and is then\n re-inserted into the proxied request-target using variable \nsubstitution. For example, something like:\n\n\n\n\nRewriteEngine on\nRewriteRule \"^/here/(.*)\" \"http://example.com:8080/elsewhere?$1\"; [P]\nProxyPassReverse /here/ http://example.com:8080/\n\n\nRequest splitting/smuggling could result in bypass of access controls in the proxy server, proxying unintended URLs to existing origin servers, and cache poisoning. Users are recommended to update to at least version 2.4.56 of Apache HTTP Server.\n\n\n"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8393",
+        "Summary": "pcregrep in PCRE before 8.38 mishandles the -q option for binary files, which might allow remote attackers to obtain sensitive information via a crafted file, as demonstrated by a CGI script that sends stdout data to a client."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8878",
+        "Summary": "main/php_open_temporary_file.c in PHP before 5.5.28 and 5.6.x before 5.6.12 does not ensure thread safety, which allows remote attackers to cause a denial of service (race condition and heap memory corruption) by leveraging an application that performs many temporary-file accesses."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8879",
+        "Summary": "The odbc_bindcols function in ext/odbc/php_odbc.c in PHP before 5.6.12 mishandles driver behavior for SQL_WVARCHAR columns, which allows remote attackers to cause a denial of service (application crash) in opportunistic circumstances by leveraging use of the odbc_fetch_array function to access a certain type of Microsoft SQL Server table."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3307",
+        "Summary": "The phar_parse_metadata function in ext/phar/phar.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allows remote attackers to cause a denial of service (heap metadata corruption) or possibly have unspecified other impact via a crafted tar archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-11985",
+        "Summary": "IP address spoofing when proxying using mod_remoteip and mod_rewrite For configurations using proxying with mod_remoteip and certain mod_rewrite rules, an attacker could spoof their IP address for logging and PHP scripts. Note this issue was fixed in Apache HTTP Server 2.4.24 but was retrospectively allocated a low severity CVE in 2020."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0118",
+        "Summary": "The deflate_in_filter function in mod_deflate.c in the mod_deflate module in the Apache HTTP Server before 2.4.10, when request body decompression is enabled, allows remote attackers to cause a denial of service (resource consumption) via crafted request data that decompresses to a much larger size."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4021",
+        "Summary": "The phar_parse_tarfile function in ext/phar/tar.c in PHP before 5.4.41, 5.5.x before 5.5.25, and 5.6.x before 5.6.9 does not verify that the first character of a filename is different from the \\0 character, which allows remote attackers to cause a denial of service (integer underflow and memory corruption) via a crafted entry in a tar archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9425",
+        "Summary": "Double free vulnerability in the zend_ts_hash_graceful_destroy function in zend_ts_hash.c in the Zend Engine in PHP through 5.5.20 and 5.6.x through 5.6.4 allows remote attackers to cause a denial of service or possibly have unspecified other impact via unknown vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4022",
+        "Summary": "Integer overflow in the ftp_genlist function in ext/ftp/ftp.c in PHP before 5.4.41, 5.5.x before 5.5.25, and 5.6.x before 5.6.9 allows remote FTP servers to execute arbitrary code via a long reply to a LIST command, leading to a heap-based buffer overflow."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4025",
+        "Summary": "PHP before 5.4.41, 5.5.x before 5.5.25, and 5.6.x before 5.6.9 truncates a pathname upon encountering a \\x00 character in certain situations, which allows remote attackers to bypass intended extension restrictions and access files or directories with unexpected names via a crafted argument to (1) set_include_path, (2) tempnam, (3) rmdir, or (4) readlink.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2006-7243."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8391",
+        "Summary": "The pcre_compile function in pcre_compile.c in PCRE before 8.38 mishandles certain [: nesting, which allows remote attackers to cause a denial of service (CPU consumption) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4026",
+        "Summary": "The pcntl_exec implementation in PHP before 5.4.41, 5.5.x before 5.5.25, and 5.6.x before 5.6.9 truncates a pathname upon encountering a \\x00 character, which might allow remote attackers to bypass intended extension restrictions and execute files with unexpected names via a crafted first argument.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2006-7243."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4643",
+        "Summary": "Integer overflow in the ftp_genlist function in ext/ftp/ftp.c in PHP before 5.4.42, 5.5.x before 5.5.26, and 5.6.x before 5.6.10 allows remote FTP servers to execute arbitrary code via a long reply to a LIST command, leading to a heap-based buffer overflow.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2015-4022."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-8612",
+        "Summary": "Apache HTTP Server mod_cluster before version httpd 2.4.23 is vulnerable to an Improper Input Validation in the protocol parsing logic in the load balancer resulting in a Segmentation Fault in the serving httpd process."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9427",
+        "Summary": "sapi/cgi/cgi_main.c in the CGI component in PHP through 5.4.36, 5.5.x through 5.5.20, and 5.6.x through 5.6.4, when mmap is used to read a .php file, does not properly consider the mapping's length during processing of an invalid file that begins with a # character and lacks a newline character, which causes an out-of-bounds read and might (1) allow remote attackers to obtain sensitive information from php-cgi process memory by leveraging the ability to upload a .php file or (2) trigger unexpected code execution if a valid PHP script is present in memory locations adjacent to the mapping."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-8390",
+        "Summary": "PCRE before 8.38 mishandles the [: and \\\\ substrings in character classes, which allows remote attackers to cause a denial of service (uninitialized memory read) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-10158",
+        "Summary": "The exif_convert_any_to_int function in ext/exif/exif.c in PHP before 5.6.30, 7.0.x before 7.0.15, and 7.1.x before 7.1.1 allows remote attackers to cause a denial of service (application crash) via crafted EXIF data that triggers an attempt to divide the minimum representable negative integer by -1."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-10159",
+        "Summary": "Integer overflow in the phar_parse_pharfile function in ext/phar/phar.c in PHP before 5.6.30 and 7.0.x before 7.0.15 allows remote attackers to cause a denial of service (memory consumption or application crash) via a truncated manifest entry in a PHAR archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3670",
+        "Summary": "The exif_ifd_make_value function in exif.c in the EXIF extension in PHP before 5.4.34, 5.5.x before 5.5.18, and 5.6.x before 5.6.2 operates on floating-point arrays incorrectly, which allows remote attackers to cause a denial of service (heap memory corruption and application crash) or possibly execute arbitrary code via a crafted JPEG image with TIFF thumbnail data that is improperly handled by the exif_thumbnail function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0098",
+        "Summary": "The log_cookie function in mod_log_config.c in the mod_log_config module in the Apache HTTP Server before 2.4.8 allows remote attackers to cause a denial of service (segmentation fault and daemon crash) via a crafted cookie that is not properly handled during truncation."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-0228",
+        "Summary": "The lua_websocket_read function in lua_request.c in the mod_lua module in the Apache HTTP Server through 2.4.12 allows remote attackers to cause a denial of service (child-process crash) by sending a crafted WebSocket Ping frame after a Lua script has called the wsupgrade function."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-26690",
+        "Summary": "Apache HTTP Server versions 2.4.0 to 2.4.46 A specially crafted Cookie header handled by mod_session can cause a NULL pointer dereference and crash, leading to a possible Denial Of Service"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-9641",
+        "Summary": "An issue was discovered in the EXIF component in PHP before 7.1.27, 7.2.x before 7.2.16, and 7.3.x before 7.3.3. There is an uninitialized read in exif_process_IFD_in_TIFF."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3152",
+        "Summary": "Oracle MySQL before 5.7.3, Oracle MySQL Connector/C (aka libmysqlclient) before 6.1.3, and MariaDB before 5.5.44 use the --ssl option to mean that SSL is optional, which allows man-in-the-middle attackers to spoof servers via a cleartext-downgrade attack, aka a \"BACKRONYM\" attack."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2024-40898",
+        "Summary": "SSRF in Apache HTTP Server on Windows with mod_rewrite in server/vhost context, allows to potentially leak NTML hashes to a malicious server via SSRF and malicious requests.\n\nUsers are recommended to upgrade to version 2.4.62 which fixes this issue.\u00a0"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-6438",
+        "Summary": "The dav_xml_get_cdata function in main/util.c in the mod_dav module in the Apache HTTP Server before 2.4.8 does not properly remove whitespace characters from CDATA sections, which allows remote attackers to cause a denial of service (daemon crash) via a crafted DAV WRITE request."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-15132",
+        "Summary": "An issue was discovered in ext/standard/link_win32.c in PHP before 5.6.37, 7.0.x before 7.0.31, 7.1.x before 7.1.20, and 7.2.x before 7.2.8. The linkinfo function on Windows doesn't implement the open_basedir check. This could be abused to find files on paths outside of the allowed directories."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-2270",
+        "Summary": "softmagic.c in file before 5.17 and libmagic allows context-dependent attackers to cause a denial of service (out-of-bounds memory access and crash) via crafted offsets in the softmagic of a PE executable."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7124",
+        "Summary": "ext/standard/var_unserializer.c in PHP before 5.6.25 and 7.x before 7.0.10 mishandles certain invalid objects, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via crafted serialized data that leads to a (1) __destruct call or (2) magic method call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7125",
+        "Summary": "ext/session/session.c in PHP before 5.6.25 and 7.x before 7.0.10 skips invalid session names in a way that triggers incorrect parsing, which allows remote attackers to inject arbitrary-type session data by leveraging control of a session name, as demonstrated by object injection."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7126",
+        "Summary": "The imagetruecolortopalette function in ext/gd/gd.c in PHP before 5.6.25 and 7.x before 7.0.10 does not properly validate the number of colors, which allows remote attackers to cause a denial of service (select_colors allocation error and out-of-bounds write) or possibly have unspecified other impact via a large value in the third argument."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7127",
+        "Summary": "The imagegammacorrect function in ext/gd/gd.c in PHP before 5.6.25 and 7.x before 7.0.10 does not properly validate gamma values, which allows remote attackers to cause a denial of service (out-of-bounds write) or possibly have unspecified other impact by providing different signs for the second and third arguments."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-2765",
+        "Summary": "The ModSecurity module before 2.7.4 for the Apache HTTP Server allows remote attackers to cause a denial of service (NULL pointer dereference, process crash, and disk consumption) via a POST request with a large body and a crafted Content-Type header."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-1943",
+        "Summary": "Fine Free file before 5.17 allows context-dependent attackers to cause a denial of service (infinite recursion, CPU consumption, and crash) via a crafted indirect offset value in the magic of a file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7128",
+        "Summary": "The exif_process_IFD_in_TIFF function in ext/exif/exif.c in PHP before 5.6.25 and 7.x before 7.0.10 mishandles the case of a thumbnail offset that exceeds the file size, which allows remote attackers to obtain sensitive information from process memory via a crafted TIFF image."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-7129",
+        "Summary": "The php_wddx_process_data function in ext/wddx/wddx.c in PHP before 5.6.25 and 7.x before 7.0.10 allows remote attackers to cause a denial of service (segmentation fault) or possibly have unspecified other impact via an invalid ISO 8601 time value, as demonstrated by a wddx_deserialize call that mishandles a dateTime element in a wddxPacket XML document."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-1301",
+        "Summary": "A specially crafted request could have crashed the Apache HTTP Server prior to version 2.4.30, due to an out of bound access after a size limit is reached by reading the HTTP header. This vulnerability is considered very hard if not impossible to trigger in non-debug mode (both log and build level), so it is classified as low risk for common server usage."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-2554",
+        "Summary": "Stack-based buffer overflow in ext/phar/tar.c in PHP before 5.5.32, 5.6.x before 5.6.18, and 7.x before 7.0.3 allows remote attackers to cause a denial of service (application crash) or possibly have unspecified other impact via a crafted TAR archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11628",
+        "Summary": "In PHP before 5.6.31, 7.x before 7.0.21, and 7.1.x before 7.1.7, a stack-based buffer overflow in the zend_ini_do_op() function in Zend/zend_ini_parser.c could cause a denial of service or potentially allow executing code. NOTE: this is only relevant for PHP applications that accept untrusted input (instead of the system's php.ini file) for the parse_ini_string or parse_ini_file function, e.g., a web application for syntax validation of php.ini directives."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3480",
+        "Summary": "The cdf_count_chain function in cdf.c in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, does not properly validate sector-count data, which allows remote attackers to cause a denial of service (application crash) via a crafted CDF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-12933",
+        "Summary": "The finish_nested_data function in ext/standard/var_unserializer.re in PHP before 5.6.31, 7.0.x before 7.0.21, and 7.1.x before 7.1.7 is prone to a buffer over-read while unserializing untrusted data. Exploitation of this issue can have an unspecified impact on the integrity of PHP."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2023-31122",
+        "Summary": "Out-of-bounds Read vulnerability in mod_macro of Apache HTTP Server.This issue affects Apache HTTP Server: through 2.4.57.\n\n"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0238",
+        "Summary": "The cdf_read_property_info function in cdf.c in the Fileinfo component in PHP before 5.4.29 and 5.5.x before 5.5.13 allows remote attackers to cause a denial of service (infinite loop or out-of-bounds memory access) via a vector that (1) has zero length or (2) is too long."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-4721",
+        "Summary": "The phpinfo implementation in ext/standard/info.c in PHP before 5.4.30 and 5.5.x before 5.5.14 does not ensure use of the string data type for the PHP_AUTH_PW, PHP_AUTH_TYPE, PHP_AUTH_USER, and PHP_SELF variables, which might allow context-dependent attackers to obtain sensitive information from process memory by using the integer data type with crafted values, related to a \"type confusion\" vulnerability, as demonstrated by reading a private SSL key in an Apache HTTP Server web-hosting environment with mod_ssl and a PHP 5.3.x mod_php."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2012-3526",
+        "Summary": "The reverse proxy add forward module (mod_rpaf) 0.5 and 0.6 for the Apache HTTP Server allows remote attackers to cause a denial of service (server or application crash) via multiple X-Forwarded-For headers in a request."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-9767",
+        "Summary": "Directory traversal vulnerability in the ZipArchive::extractTo function in ext/zip/php_zip.c in PHP before 5.4.45, 5.5.x before 5.5.29, and 5.6.x before 5.6.13 and ext/zip/ext_zip.cpp in HHVM before 3.12.1 allows remote attackers to create arbitrary empty directories via a crafted ZIP archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2331",
+        "Summary": "Integer overflow in the _zip_cdir_new function in zip_dirent.c in libzip 0.11.2 and earlier, as used in the ZIP extension in PHP before 5.4.39, 5.5.x before 5.5.23, and 5.6.x before 5.6.7 and other products, allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a ZIP archive that contains many entries, leading to a heap-based buffer overflow."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-0226",
+        "Summary": "Race condition in the mod_status module in the Apache HTTP Server before 2.4.10 allows remote attackers to cause a denial of service (heap-based buffer overflow), or possibly obtain sensitive credential information or execute arbitrary code, via a crafted request that triggers improper scoreboard handling within the status_handler function in modules/generators/mod_status.c and the lua_ap_scoreboard_worker function in modules/lua/lua_request.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4537",
+        "Summary": "The bcpowmod function in ext/bcmath/bcmath.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 accepts a negative integer for the scale argument, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via a crafted call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2009-2299",
+        "Summary": "The Artofdefence Hyperguard Web Application Firewall (WAF) module before 2.5.5-11635, 3.0 before 3.0.3-11636, and 3.1 before 3.1.1-11637, a module for the Apache HTTP Server, allows remote attackers to cause a denial of service (memory consumption) via an HTTP request with a large Content-Length value but no POST data."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2019-0220",
+        "Summary": "A vulnerability was found in Apache HTTP Server 2.4.0 to 2.4.38. When the path component of a request URL contains multiple consecutive slashes ('/'), directives such as LocationMatch and RewriteRule must account for duplicates in regular expressions while other aspects of the servers processing will implicitly collapse them."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4538",
+        "Summary": "The bcpowmod function in ext/bcmath/bcmath.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 modifies certain data structures without considering whether they are copies of the _zero_, _one_, or _two_ global variable, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via a crafted call."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4539",
+        "Summary": "The xml_parse_into_struct function in ext/xml/xml.c in PHP before 5.5.35, 5.6.x before 5.6.21, and 7.x before 7.0.6 allows remote attackers to cause a denial of service (buffer under-read and segmentation fault) or possibly have unspecified other impact via crafted XML data in the second argument, leading to a parser level of zero."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6207",
+        "Summary": "Integer overflow in the _gdContributionsAlloc function in gd_interpolation.c in GD Graphics Library (aka libgd) before 2.2.3 allows remote attackers to cause a denial of service (out-of-bounds memory write or memory consumption) via unspecified vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-4698",
+        "Summary": "Use-after-free vulnerability in ext/spl/spl_array.c in the SPL component in PHP through 5.5.14 allows context-dependent attackers to cause a denial of service or possibly have unspecified other impact via crafted ArrayIterator usage within applications in certain web-hosting environments."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3329",
+        "Summary": "Multiple stack-based buffer overflows in the phar_set_inode function in phar_internal.h in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8 allow remote attackers to execute arbitrary code via a crafted length value in a (1) tar, (2) phar, or (3) ZIP archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2020-11579",
+        "Summary": "An issue was discovered in Chadha PHPKB 9.0 Enterprise Edition. installer/test-connection.php (part of the installation process) allows a remote unauthenticated attacker to disclose local files on hosts running PHP before 7.2.16, or on hosts where the MySQL ALLOW LOCAL DATA INFILE option is enabled."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2012-4001",
+        "Summary": "The mod_pagespeed module before 0.10.22.6 for the Apache HTTP Server does not properly verify its host name, which allows remote attackers to trigger HTTP requests to arbitrary hosts via unspecified vectors, as demonstrated by requests to intranet servers."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-37436",
+        "Summary": "Prior to Apache HTTP Server 2.4.55, a malicious backend can cause the response headers to be truncated early, resulting in some headers being incorporated into the response body. If the later headers have any security purpose, they will not be interpreted by the client."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-6288",
+        "Summary": "The php_url_parse_ex function in ext/standard/url.c in PHP before 5.5.38 allows remote attackers to cause a denial of service (buffer over-read) or possibly have unspecified other impact via vectors involving the smart_str data type."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3415",
+        "Summary": "The sqlite3VdbeExec function in vdbe.c in SQLite before 3.8.9 does not properly implement comparison operators, which allows context-dependent attackers to cause a denial of service (invalid free operation) or possibly have unspecified other impact via a crafted CHECK clause, as demonstrated by CHECK(0&O>O) in a CREATE TABLE statement."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-9935",
+        "Summary": "The php_wddx_push_element function in ext/wddx/wddx.c in PHP before 5.6.29 and 7.x before 7.0.14 allows remote attackers to cause a denial of service (out-of-bounds read and memory corruption) or possibly have unspecified other impact via an empty boolean element in a wddxPacket XML document."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-5114",
+        "Summary": "sapi/fpm/fpm/fpm_log.c in PHP before 5.5.31, 5.6.x before 5.6.17, and 7.x before 7.0.2 misinterprets the semantics of the snprintf return value, which allows attackers to obtain sensitive information from process memory or cause a denial of service (out-of-bounds read and buffer overflow) via a long string, as demonstrated by a long URI in a configuration with custom REQUEST_URI logging."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-19396",
+        "Summary": "ext/standard/var_unserializer.c in PHP 5.x through 7.1.24 allows attackers to cause a denial of service (application crash) via an unserialize call for the com, dotnet, or variant class."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2007-4723",
+        "Summary": "Directory traversal vulnerability in Ragnarok Online Control Panel 4.3.4a, when the Apache HTTP Server is used, allows remote attackers to bypass authentication via directory traversal sequences in a URI that ends with the name of a publicly available page, as demonstrated by a \"/...../\" sequence and an account_manage.php/login.php final component for reaching the protected account_manage.php page."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-19395",
+        "Summary": "ext/standard/var.c in PHP 5.x through 7.1.24 on Windows allows attackers to cause a denial of service (NULL pointer dereference and application crash) because com and com_safearray_proxy return NULL in com_properties_get in ext/com_dotnet/com_handlers.c, as demonstrated by a serialize call on COM(\"WScript.Shell\")."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3668",
+        "Summary": "Buffer overflow in the date_from_ISO8601 function in the mkgmtime implementation in libxmlrpc/xmlrpc.c in the XMLRPC extension in PHP before 5.4.34, 5.5.x before 5.5.18, and 5.6.x before 5.6.2 allows remote attackers to cause a denial of service (application crash) via (1) a crafted first argument to the xmlrpc_set_type function or (2) a crafted argument to the xmlrpc_decode function, related to an out-of-bounds read operation."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-8109",
+        "Summary": "mod_lua.c in the mod_lua module in the Apache HTTP Server 2.3.x and 2.4.x through 2.4.10 does not support an httpd configuration in which the same Lua authorization provider is used with different arguments within different contexts, which allows remote attackers to bypass intended access restrictions in opportunistic circumstances by leveraging multiple Require directives, as demonstrated by a configuration that specifies authorization for one group to access a certain directory, and authorization for a second group to access a second directory."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-4644",
+        "Summary": "The php_pgsql_meta_data function in pgsql.c in the PostgreSQL (aka pgsql) extension in PHP before 5.4.42, 5.5.x before 5.5.26, and 5.6.x before 5.6.10 does not validate token extraction for table names, which might allow remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted name.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2015-1352."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-11142",
+        "Summary": "In PHP before 5.6.31, 7.x before 7.0.17, and 7.1.x before 7.1.3, remote attackers could cause a CPU consumption denial of service attack by injecting long form variables, related to main/php_variables.c."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3710",
+        "Summary": "The donote function in readelf.c in file through 5.20, as used in the Fileinfo component in PHP 5.4.34, does not ensure that sufficient note headers are present, which allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted ELF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4343",
+        "Summary": "The phar_make_dirstream function in ext/phar/dirstream.c in PHP before 5.6.18 and 7.x before 7.0.3 mishandles zero-size ././@LongLink files, which allows remote attackers to cause a denial of service (uninitialized pointer dereference) or possibly have unspecified other impact via a crafted TAR archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-4342",
+        "Summary": "ext/phar/phar_object.c in PHP before 5.5.32, 5.6.x before 5.6.18, and 7.x before 7.0.3 mishandles zero-length uncompressed data, which allows remote attackers to cause a denial of service (heap memory corruption) or possibly have unspecified other impact via a crafted (1) TAR, (2) ZIP, or (3) PHAR archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2325",
+        "Summary": "The compile_branch function in PCRE before 8.37 allows context-dependent attackers to compile incorrect code, cause a denial of service (out-of-bounds heap read and crash), or possibly have other unspecified impact via a regular expression with a group containing a forward reference repeated a large number of times within a repeated outer group that has a zero minimum quantifier."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-2326",
+        "Summary": "The pcre_compile2 function in PCRE before 8.37 allows context-dependent attackers to compile incorrect code and cause a denial of service (out-of-bounds read) via regular expression with a group containing both a forward referencing subroutine call and a recursive back reference, as demonstrated by \"((?+1)(\\1))/\"."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2011-2688",
+        "Summary": "SQL injection vulnerability in mysql/mysql-auth.pl in the mod_authnz_external module 3.2.5 and earlier for the Apache HTTP Server allows remote attackers to execute arbitrary SQL commands via the user field."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2021-44224",
+        "Summary": "A crafted URI sent to httpd configured as a forward proxy (ProxyRequests on) can cause a crash (NULL pointer dereference) or, for configurations mixing forward and reverse proxy declarations, can allow for requests to be directed to a declared Unix Domain Socket endpoint (Server Side Request Forgery). This issue affects Apache HTTP Server 2.4.7 up to 2.4.51 (included)."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-2161",
+        "Summary": "In Apache HTTP Server versions 2.4.0 to 2.4.23, malicious input to mod_auth_digest can cause the server to crash, and each instance continues to crash even for subsequently valid requests."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3414",
+        "Summary": "SQLite before 3.8.9 does not properly implement the dequoting of collation-sequence names, which allows context-dependent attackers to cause a denial of service (uninitialized memory access and application crash) or possibly have unspecified other impact via a crafted COLLATE clause, as demonstrated by COLLATE\"\"\"\"\"\"\"\" at the end of a SELECT statement."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-7803",
+        "Summary": "The phar_get_entry_data function in ext/phar/util.c in PHP before 5.5.30 and 5.6.x before 5.6.14 allows remote attackers to cause a denial of service (NULL pointer dereference and application crash) via a .phar file with a crafted TAR archive entry in which the Link indicator references a file that does not exist."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2013-0942",
+        "Summary": "Cross-site scripting (XSS) vulnerability in EMC RSA Authentication Agent 7.1 before 7.1.1 for Web for Internet Information Services, and 7.1 before 7.1.1 for Web for Apache, allows remote attackers to inject arbitrary web script or HTML via unspecified vectors."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2016-9933",
+        "Summary": "Stack consumption vulnerability in the gdImageFillToBorder function in gd.c in the GD Graphics Library (aka libgd) before 2.2.2, as used in PHP before 5.6.28 and 7.x before 7.0.13, allows remote attackers to cause a denial of service (segmentation violation) via a crafted imagefilltoborder call that triggers use of a negative color value."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-7804",
+        "Summary": "Off-by-one error in the phar_parse_zipfile function in ext/phar/zip.c in PHP before 5.5.30 and 5.6.x before 5.6.14 allows remote attackers to cause a denial of service (uninitialized pointer dereference and application crash) by including the / filename in a .zip PHAR archive."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-3479",
+        "Summary": "The cdf_check_stream_offset function in cdf.c in file before 5.19, as used in the Fileinfo component in PHP before 5.4.30 and 5.5.x before 5.5.14, relies on incorrect sector-size data, which allows remote attackers to cause a denial of service (application crash) via a crafted stream offset in a CDF file."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-26377",
+        "Summary": "Inconsistent Interpretation of HTTP Requests ('HTTP Request Smuggling') vulnerability in mod_proxy_ajp of Apache HTTP Server allows an attacker to smuggle requests to the AJP server it forwards requests to. This issue affects Apache HTTP Server Apache HTTP Server 2.4 version 2.4.53 and prior versions."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2014-8142",
+        "Summary": "Use-after-free vulnerability in the process_nested_data function in ext/standard/var_unserializer.re in PHP before 5.4.36, 5.5.x before 5.5.20, and 5.6.x before 5.6.4 allows remote attackers to execute arbitrary code via a crafted unserialize call that leverages improper handling of duplicate keys within the serialized properties of an object, a different vulnerability than CVE-2004-1019."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2023-45802",
+        "Summary": "When a HTTP/2 stream was reset (RST frame) by a client, there was a time window were the request's memory resources were not reclaimed immediately. Instead, de-allocation was deferred to connection close. A client could send new requests and resets, keeping the connection busy and open and causing the memory footprint to keep on growing. On connection close, all resources were reclaimed, but the process might run out of memory before that.\n\nThis was found by the reporter during testing of\u00a0CVE-2023-44487 (HTTP/2 Rapid Reset Exploit) with their own test client. During \"normal\" HTTP/2 use, the probability to hit this bug is very low. The kept memory would not become noticeable before the connection closes or times out.\n\nUsers are recommended to upgrade to version 2.4.58, which fixes the issue.\n"
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-30556",
+        "Summary": "Apache HTTP Server 2.4.53 and earlier may return lengths to applications calling r:wsread() that point past the end of the storage allocated for the buffer."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2018-1283",
+        "Summary": "In Apache httpd 2.4.0 to 2.4.29, when mod_session is configured to forward its session data to CGI applications (SessionEnv on, not the default), a remote user may influence their content by using a \"Session\" header. This comes from the \"HTTP_SESSION\" variable name used by mod_session to forward its data to CGIs, since the prefix \"HTTP_\" is also used by the Apache HTTP Server to pass HTTP header fields, per CGI specifications."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2015-3330",
+        "Summary": "The php_handler function in sapi/apache2handler/sapi_apache2.c in PHP before 5.4.40, 5.5.x before 5.5.24, and 5.6.x before 5.6.8, when the Apache HTTP Server 2.4.x is used, allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via pipelined HTTP requests that result in a \"deconfigured interpreter.\""
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2017-16642",
+        "Summary": "In PHP before 5.6.32, 7.x before 7.0.25, and 7.1.x before 7.1.11, an error in the date extension's timelib_meridian handling of 'front of' and 'back of' directives could be used by attackers able to supply date strings to leak information from the interpreter, related to ext/date/lib/parse_date.c out-of-bounds reads affecting the php_parse_date function. NOTE: this is a different issue than CVE-2017-11145."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2024-38476",
+        "Summary": "Vulnerability in core of Apache HTTP Server 2.4.59 and earlier are vulnerably to information disclosure, SSRF or local script execution via\u00a0backend applications whose response headers are malicious or exploitable.\n\nUsers are recommended to upgrade to version 2.4.60, which fixes this issue."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-28615",
+        "Summary": "Apache HTTP Server 2.4.53 and earlier may crash or disclose information due to a read beyond bounds in ap_strcmp_match() when provided with an extremely large input buffer. While no code distributed with the server can be coerced into such a call, third-party modules or lua scripts that use ap_strcmp_match() may hypothetically be affected."
+    },
+    {
+        "IP": "178.62.208.168",
+        "Port": 443,
+        "CVE": "CVE-2022-28614",
+        "Summary": "The ap_rwrite() function in Apache HTTP Server 2.4.53 and earlier may read unintended memory if an attacker can cause the server to reflect very large input using ap_rwrite() or ap_rputs(), such as with mod_luas r:puts() function. Modules compiled and distributed separately from Apache HTTP Server that use the 'ap_rputs' function and may pass it a very large (INT_MAX or larger) string must be compiled against current headers to resolve the issue."
+    }
+]

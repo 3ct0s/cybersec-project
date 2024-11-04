@@ -1,0 +1,2177 @@
+[
+    {
+        "IP": "72.11.156.22",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.96.252.131",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.124.105.95",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "156.236.31.144",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.26.192.148",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "93.190.139.248",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "190.2.153.246",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.70.186.100",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.131.14",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.103.19.105",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.4.121.72",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "130.161.220.200",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.120.116.99",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "46.149.74.64",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "93.184.111.178",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.197.163.150",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.131",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.177.222.63",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.34.154.209",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "23.176.184.7",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "88.210.3.208",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.209.23.223",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.85.141.156",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.30.37.241",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.157.167.240",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.149.76.218",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "5.253.37.129",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "137.117.177.133",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "98.98.132.83",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.2.76.195",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.255.119.5",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "68.183.13.101",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.160.60.201",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.8.246.20",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "190.2.135.35",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.142.59.67",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "91.211.251.134",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "190.2.141.52",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.238.42.65",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.94.210.55",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.56.239.99",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "23.254.226.29",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.177.127.49",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "63.250.57.141",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "4.180.150.204",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.110.87.147",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.91.152.162",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "88.216.131.60",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "213.125.234.10",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.238.228.175",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "66.151.33.89",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.61.56.12",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.72.68.44",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.252.121.86",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "87.120.114.193",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.146.20",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.207.173.172",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "172.233.59.42",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.128.132",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.92.84.160",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.45.126.61",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "20.126.169.133",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.56.137.68",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.183.79",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.161.208.129",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.135.107",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.174.84.49",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.182.183.6",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "4.231.51.139",
+        "Port": 445,
+        "Vulnerabilities": {
+            "MS17-010": {
+                "references": [
+                    "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010"
+                ],
+                "verified": true,
+                "cvss": 8.1,
+                "summary": "This security update resolves vulnerabilities in Microsoft Windows. The most severe of the vulnerabilities could allow remote code execution if an attacker sends specially crafted messages to a Microsoft Server Message Block 1.0 (SMBv1) server. This security update is rated Critical for all supported releases of Microsoft Windows."
+            }
+        }
+    },
+    {
+        "IP": "217.23.11.117",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.254.226.222",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.2.83.45",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "87.121.69.200",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "23.254.228.205",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.45.94.235",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.49.227.129",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.61.55.225",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.241.52.100",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "82.94.210.30",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.83.169.100",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.147.198.200",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "80.79.40.196",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "212.23.221.189",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.189.96.194",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "43.175.222.108",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "136.144.215.205",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.182.180.107",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.102.59.175",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.88.106.213",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "5.180.181.43",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.113.141.99",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.248.163.168",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.45.72.161",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.58.190.190",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.224",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.148.10.193",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "45.88.106.244",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.42.44.74",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.120.177.74",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.70.186.246",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "193.124.205.254",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "209.250.248.21",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "175.110.112.204",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "34.90.68.231",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.88.107.51",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.59.139",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.14.50.133",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "13.81.222.64",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.110.172.178",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.185.49.127",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "87.120.116.4",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.235.129.252",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "4.180.190.29",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "103.104.251.27",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.97.137.85",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.137.198.182",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "212.129.13.73",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.133.103",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "80.79.6.149",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "141.224.195.69",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.222.93",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "20.101.72.73",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.87.223.118",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "94.103.125.43",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.101.65.252",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.182.180.120",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.247.9.246",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.91.89.108",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.124.205.41",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.66.112.119",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.160.222.43",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.150.35.104",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.210.191.180",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.76.43.246",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "20.61.223.28",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.56.137.53",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.58.141.123",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.228.82.70",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "64.227.79.33",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "108.61.166.25",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.45.70.4",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.97.230.135",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.129.59",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "107.6.173.50",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.34.155.213",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.46.38.179",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "146.19.254.141",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.172.217.190",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.22.106.121",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.116.24.157",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.1.200.42",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.188.50.217",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.235.129.168",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.144.103.124",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.178.250",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.57.246",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.198.77.121",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "31.134.201.84",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "168.63.25.32",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.80.218.250",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.164.251.14",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.83.127.8",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "79.99.129.184",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.66.8.135",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "74.82.28.129",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "212.83.222.194",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "91.198.77.20",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "159.8.210.86",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.26.192.147",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.49.233",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "168.63.96.10",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "168.63.127.129",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.246.102.28",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.38.97.185",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "198.16.76.21",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.34.78.171",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.252.122.87",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "23.97.228.28",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.4.96.11",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.131.181",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "212.80.218.80",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.231",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.208.88.252",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.35.44.46",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.89.99.249",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "136.144.231.239",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "193.3.168.82",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "45.87.172.203",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "77.246.110.79",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "62.238.223.44",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "92.69.104.250",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "79.132.137.211",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.170.87.78",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.131.135.251",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "94.103.125.186",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "77.238.241.137",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.246.101.170",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.200.16.90",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.86.109.163",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "95.179.152.143",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.100.234.147",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "192.236.163.59",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "78.141.213.9",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.10.133.163",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "84.241.175.81",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.242.118.41",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.222.58.44",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "176.57.71.206",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.236.134.134",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.143.82.110",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.19.216.201",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "92.68.208.39",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "34.141.211.115",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "188.93.233.177",
+        "Port": 445,
+        "Vulnerabilities": {
+            "MS17-010": {
+                "references": [
+                    "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010"
+                ],
+                "verified": true,
+                "cvss": 8.1,
+                "summary": "This security update resolves vulnerabilities in Microsoft Windows. The most severe of the vulnerabilities could allow remote code execution if an attacker sends specially crafted messages to a Microsoft Server Message Block 1.0 (SMBv1) server. This security update is rated Critical for all supported releases of Microsoft Windows."
+            }
+        }
+    },
+    {
+        "IP": "136.144.253.236",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "87.233.196.165",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "43.175.211.71",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "192.236.162.160",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.15.16.94",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "185.95.30.30",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "62.45.80.62",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "40.115.3.200",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.23.107.208",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "128.90.145.129",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "34.91.181.162",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "98.98.132.69",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.73.125.70",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "93.186.178.55",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "87.121.86.15",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "38.170.241.77",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "37.97.231.143",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.220.205.105",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "78.140.160.211",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "141.105.126.32",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.81.114.88",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.72.149.131",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "195.160.220.60",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "20.67.98.215",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "46.182.183.165",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "164.152.123.220",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "74.234.252.156",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "142.93.232.3",
+        "Port": 445,
+        "Vulnerabilities": {
+            "MS17-010": {
+                "references": [
+                    "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010"
+                ],
+                "verified": true,
+                "cvss": 8.1,
+                "summary": "This security update resolves vulnerabilities in Microsoft Windows. The most severe of the vulnerabilities could allow remote code execution if an attacker sends specially crafted messages to a Microsoft Server Message Block 1.0 (SMBv1) server. This security update is rated Critical for all supported releases of Microsoft Windows."
+            }
+        }
+    },
+    {
+        "IP": "20.67.35.216",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "109.236.92.26",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "91.217.235.39",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.247.109.45",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "176.56.182.178",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.146.33",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.136.192.134",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "77.74.50.156",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.138.39.94",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.39.106.81",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "194.37.81.35",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.210.159.196",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "89.110.103.204",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "149.143.119.59",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "78.142.18.111",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.88.106.198",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "136.144.210.62",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.88.149.27",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.72.125.202",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.142.146.78",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.80.217.193",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.96.150.240",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "134.122.56.231",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.245.104.24",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.48.61",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "212.8.252.96",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "45.137.203.12",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "86.81.133.79",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.234.75.96",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.203.242.193",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "52.236.177.10",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "136.144.219.238",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "190.2.154.37",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "90.145.215.158",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "51.15.21.215",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "185.180.223.60",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "5.180.183.205",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "84.85.17.35",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "193.124.44.153",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "46.182.182.120",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "104.46.47.27",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "147.78.47.195",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "109.232.226.189",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "81.161.238.196",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.148.10.63",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "141.144.197.170",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "85.209.88.4",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.87.216.189",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "13.94.157.254",
+        "Port": 445,
+        "Vulnerabilities": {
+            "MS17-010": {
+                "references": [
+                    "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010"
+                ],
+                "verified": true,
+                "cvss": 8.1,
+                "summary": "This security update resolves vulnerabilities in Microsoft Windows. The most severe of the vulnerabilities could allow remote code execution if an attacker sends specially crafted messages to a Microsoft Server Message Block 1.0 (SMBv1) server. This security update is rated Critical for all supported releases of Microsoft Windows."
+            }
+        }
+    },
+    {
+        "IP": "149.210.132.26",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "194.110.172.234",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.148.10.138",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "216.108.228.50",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.87.2.106",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "45.82.178.47",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "172.233.53.108",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "213.206.230.85",
+        "Port": 445,
+        "Vulnerabilities": {
+            "CVE-2020-0796": {
+                "references": [
+                    "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796"
+                ],
+                "verified": true,
+                "cvss": 10.0,
+                "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client."
+            }
+        }
+    },
+    {
+        "IP": "31.24.227.24",
+        "Port": 445,
+        "Vulnerabilities": "None"
+    }
+]

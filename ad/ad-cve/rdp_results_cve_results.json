@@ -1,0 +1,12 @@
+[
+    {
+        "IP": "158.101.203.149",
+        "Port": 3389,
+        "Vulnerabilities": [
+            {
+                "CVE": "CVE-2019-0708",
+                "Summary": "A remote code execution vulnerability exists in Remote Desktop Services formerly known as Terminal Services when an unauthenticated attacker connects to the target system using RDP and sends specially crafted requests, aka 'Remote Desktop Services Remote Code Execution Vulnerability'."
+            }
+        ]
+    }
+]

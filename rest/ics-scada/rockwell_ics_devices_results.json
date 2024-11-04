@@ -1,10 +1,5 @@
 [
     {
-        "IP": "83.247.99.197",
-        "Port": 44818,
-        "Vulnerabilities": "None"
-    },
-    {
         "IP": "45.120.177.51",
         "Port": 44818,
         "Vulnerabilities": "None"
@@ -16,6 +11,11 @@
     },
     {
         "IP": "31.160.15.54",
+        "Port": 44818,
+        "Vulnerabilities": "None"
+    },
+    {
+        "IP": "83.247.99.197",
         "Port": 44818,
         "Vulnerabilities": "None"
     },
